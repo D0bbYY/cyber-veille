@@ -1,1 +1,73 @@
-{}
+{
+  "Splunk Security": [],
+  "Elastic Security Labs": [
+    "https://www.elastic.co/security-labs/rss/detecting-cicd-pipeline-abuse-with-llm-augmented-analysis",
+    "https://www.elastic.co/security-labs/rss/claude-code-cowork-monitoring-otel-elastic",
+    "https://www.elastic.co/security-labs/rss/llm-reversing-vs-llm-obfuscation",
+    "https://www.elastic.co/security-labs/rss/phantom-in-the-vault",
+    "https://www.elastic.co/security-labs/rss/elastic-defence-cyber-marvel",
+    "https://www.elastic.co/security-labs/rss/elastic-security-integrations-roundup-q1-2026",
+    "https://www.elastic.co/security-labs/rss/higher-order-detection-rules",
+    "https://www.elastic.co/security-labs/rss/how-we-caught-the-axios-supply-chain-attack",
+    "https://www.elastic.co/security-labs/rss/linux-rootkits-2-caught-in-the-act",
+    "https://www.elastic.co/security-labs/rss/axios-one-rat-to-rule-them-all",
+    "https://www.elastic.co/security-labs/rss/axios-supply-chain-compromise-detections",
+    "https://www.elastic.co/security-labs/rss/fake-installers-to-monero",
+    "https://www.elastic.co/security-labs/rss/brushworm-targets-financial-services",
+    "https://www.elastic.co/security-labs/rss/illuminating-voidlink",
+    "https://www.elastic.co/security-labs/rss/investigating-from-the-endpoint-across-your-environment"
+  ],
+  "DFIR Report": [
+    "https://thedfirreport.com/?p=50133",
+    "https://thedfirreport.com/?p=49832",
+    "https://thedfirreport.com/?p=49747",
+    "https://thedfirreport.com/?p=49376",
+    "https://thedfirreport.com/?p=48447",
+    "https://thedfirreport.com/?p=47946",
+    "https://thedfirreport.com/?p=45286",
+    "https://thedfirreport.com/?p=44656",
+    "https://thedfirreport.com/?p=43853",
+    "https://thedfirreport.com/?p=43393"
+  ],
+  "CrowdStrike Blog": [
+    "https://www.crowdstrike.com/?p=422384",
+    "https://www.crowdstrike.com/?p=715696",
+    "https://www.crowdstrike.com/?p=550368",
+    "https://www.crowdstrike.com/?p=933304",
+    "https://www.crowdstrike.com/?p=316496",
+    "https://www.crowdstrike.com/?p=431007",
+    "https://www.crowdstrike.com/?p=482029",
+    "https://www.crowdstrike.com/?p=906625",
+    "https://www.crowdstrike.com/?p=675228",
+    "https://www.crowdstrike.com/?p=607764"
+  ],
+  "Unit 42 – Palo Alto": [
+    "https://unit42.paloaltonetworks.com/?p=179395",
+    "https://unit42.paloaltonetworks.com/?p=179467",
+    "https://unit42.paloaltonetworks.com/?p=179376",
+    "https://unit42.paloaltonetworks.com/?p=178504",
+    "https://unit42.paloaltonetworks.com/?p=178804",
+    "https://unit42.paloaltonetworks.com/?p=177819",
+    "https://unit42.paloaltonetworks.com/?p=174415",
+    "https://unit42.paloaltonetworks.com/?p=177971",
+    "https://unit42.paloaltonetworks.com/?p=177420",
+    "https://unit42.paloaltonetworks.com/?p=177263",
+    "https://unit42.paloaltonetworks.com/?p=177112",
+    "https://unit42.paloaltonetworks.com/?p=176805",
+    "https://unit42.paloaltonetworks.com/?p=176776",
+    "https://unit42.paloaltonetworks.com/?p=176426",
+    "https://unit42.paloaltonetworks.com/?p=176231"
+  ],
+  "Microsoft Security Blog": [
+    "https://www.microsoft.com/en-us/security/blog/?p=146783",
+    "https://www.microsoft.com/en-us/security/blog/?p=146852",
+    "https://www.microsoft.com/en-us/security/blog/?p=146716",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
+    "https://www.microsoft.com/en-us/security/blog/?p=146546",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
+    "https://www.microsoft.com/en-us/security/blog/?p=146516",
+    "https://www.microsoft.com/en-us/security/blog/?p=146554",
+    "https://www.microsoft.com/en-us/security/blog/?p=146550"
+  ]
+}
