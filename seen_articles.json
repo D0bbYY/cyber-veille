@@ -59,7 +59,17 @@
     "https://www.crowdstrike.com/?p=460680",
     "https://www.crowdstrike.com/?p=406358",
     "https://www.crowdstrike.com/?p=540051",
-    "https://www.crowdstrike.com/?p=549582"
+    "https://www.crowdstrike.com/?p=549582",
+    "https://www.crowdstrike.com/?p=341521",
+    "https://www.crowdstrike.com/?p=731108",
+    "https://www.crowdstrike.com/?p=778275",
+    "https://www.crowdstrike.com/?p=330554",
+    "https://www.crowdstrike.com/?p=313626",
+    "https://www.crowdstrike.com/?p=159510",
+    "https://www.crowdstrike.com/?p=228256",
+    "https://www.crowdstrike.com/?p=832428",
+    "https://www.crowdstrike.com/?p=711334",
+    "https://www.crowdstrike.com/?p=124469"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -99,6 +109,7 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-january-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-december-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-updates-november.html",
-    "https://www.splunk.com/en_us/blog/author/secmrkt-research.html"
+    "https://www.splunk.com/en_us/blog/author/secmrkt-research.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-march-recap.html"
   ]
 }
