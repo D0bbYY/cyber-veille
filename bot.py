@@ -246,28 +246,51 @@ def strip_html(text: str) -> str:
 
 
 def scrape_splunk(url: str) -> list:
-    """Scrape la page auteur Splunk — structure : h3.article-card-title > a + div.article-card-description"""
+    """Scrape la page auteur Splunk — capture les articles cards + éventuellement l'article featured en tête."""
     try:
         r = requests.get(url, headers=FETCH_HEADERS, timeout=15)
         if r.status_code != 200:
             return []
 
+        seen_links = {}
+
+        # Pattern 1 : h3.article-card-title
         card_pattern = (
             r'<h3[^>]*class="article-card-title"[^>]*>\s*'
-            r'<a[^>]*href="(/en_us/blog/[^"]+)"[^>]*>\s*([^<]+?)\s*</a>'
+            r'<a[^>]*href="(/en_us/blog/[^"#]+)"[^>]*>\s*([^<]+?)\s*</a>'
         )
-        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
-
         desc_pattern = r'<div[^>]*class="article-card-description"[^>]*>(.*?)</div>'
+        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
         descs = re.findall(desc_pattern, r.text, re.IGNORECASE | re.DOTALL)
+        for i, (href, title) in enumerate(cards):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                seen_links[link] = {
+                    "title":   title.strip(),
+                    "summary": strip_html(descs[i]) if i < len(descs) else "",
+                }
 
-        entries = []
-        for i, (href, title) in enumerate(cards[:10]):
-            link    = f"https://www.splunk.com{href}"
-            summary = strip_html(descs[i]) if i < len(descs) else ""
-            entries.append({"id": link, "link": link, "title": title.strip(), "summary": summary})
+        # Pattern 2 : article hero/featured (h1 ou h2)
+        hero_pattern = (
+            r'<(?:h1|h2)[^>]*>\s*<a[^>]*href="(/en_us/blog/[^"#]+)"[^>]*>\s*([^<]+?)\s*</a>'
+        )
+        for href, title in re.findall(hero_pattern, r.text, re.IGNORECASE | re.DOTALL):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                seen_links[link] = {"title": title.strip(), "summary": ""}
 
-        return entries
+        # Pattern 3 : fallback générique
+        generic_pattern = r'href="(/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
+        for href in re.findall(generic_pattern, r.text, re.IGNORECASE):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                slug = href.split("/")[-1].replace(".html", "").replace("-", " ").title()
+                seen_links[link] = {"title": slug, "summary": ""}
+
+        return [
+            {"id": lnk, "link": lnk, "title": meta["title"], "summary": meta["summary"]}
+            for lnk, meta in seen_links.items()
+        ][:15]
     except Exception:
         return []
 

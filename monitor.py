@@ -81,32 +81,55 @@ def strip_html(text: str) -> str:
 
 
 def scrape_splunk(url: str) -> list:
-    """Scrape la page auteur Splunk — structure : h3.article-card-title > a + div.article-card-description"""
+    """Scrape la page auteur Splunk — capture les articles cards + éventuellement l'article featured en tête."""
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code != 200:
             print(f"  ⚠️  Scraping HTTP {r.status_code}")
             return []
 
-        # Titre + lien : <h3 class="article-card-title"><a href="/en_us/blog/...">Titre</a></h3>
+        seen_links = {}  # lien -> {"title": ..., "summary": ...}
+
+        # Pattern 1 : article-card standard — h3.article-card-title
         card_pattern = (
             r'<h3[^>]*class="article-card-title"[^>]*>\s*'
-            r'<a[^>]*href="(/en_us/blog/[^"]+)"[^>]*>\s*([^<]+?)\s*</a>'
+            r'<a[^>]*href="(/en_us/blog/[^"#"]+)"[^>]*>\s*([^<]+?)\s*</a>'
         )
-        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
-
-        # Résumé : <div class="article-card-description">...</div>
         desc_pattern = r'<div[^>]*class="article-card-description"[^>]*>(.*?)</div>'
+        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
         descs = re.findall(desc_pattern, r.text, re.IGNORECASE | re.DOTALL)
+        for i, (href, title) in enumerate(cards):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                seen_links[link] = {
+                    "title":   title.strip(),
+                    "summary": strip_html(descs[i]) if i < len(descs) else "",
+                }
 
-        entries = []
-        for i, (href, title) in enumerate(cards[:15]):
-            link    = f"https://www.splunk.com{href}"
-            summary = strip_html(descs[i]) if i < len(descs) else ""
-            entries.append({"id": link, "link": link, "title": title.strip(), "summary": summary})
+        # Pattern 2 : article featured / hero (h1 ou h2 avec un lien blog)
+        hero_pattern = (
+            r'<(?:h1|h2)[^>]*>\s*<a[^>]*href="(/en_us/blog/[^"#]+)"[^>]*>\s*([^<]+?)\s*</a>'
+        )
+        for href, title in re.findall(hero_pattern, r.text, re.IGNORECASE | re.DOTALL):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                seen_links[link] = {"title": title.strip(), "summary": ""}
+
+        # Pattern 3 : fallback — n'importe quel lien /en_us/blog/categorie/article.html
+        generic_pattern = r'href="(/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
+        for href in re.findall(generic_pattern, r.text, re.IGNORECASE):
+            link = f"https://www.splunk.com{href}"
+            if link not in seen_links:
+                slug  = href.split("/")[-1].replace(".html", "").replace("-", " ").title()
+                seen_links[link] = {"title": slug, "summary": ""}
+
+        entries = [
+            {"id": lnk, "link": lnk, "title": meta["title"], "summary": meta["summary"]}
+            for lnk, meta in seen_links.items()
+        ]
 
         print(f"  🔍 Scraping Splunk : {len(entries)} articles trouvés")
-        return entries
+        return entries[:15]
 
     except Exception as e:
         print(f"  ❌ Erreur scraping Splunk : {e}")
