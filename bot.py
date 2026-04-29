@@ -21,7 +21,7 @@ GITHUB_REPO  = os.getenv("GITHUB_REPO")   # ex : "paulbaptiste/cyber-veille"
 CONFIG_FILE  = "config.json"
 
 ALL_SOURCES = [
-    "Splunk Security",
+    "Splunk Threat Research",
     "Elastic Security Labs",
     "DFIR Report",
     "CrowdStrike Blog",
@@ -30,7 +30,7 @@ ALL_SOURCES = [
 ]
 
 EMOJIS = {
-    "Splunk Security":        "🟢",
+    "Splunk Threat Research":  "🟢",
     "Elastic Security Labs":  "🔵",
     "DFIR Report":            "🔴",
     "CrowdStrike Blog":       "🦅",
@@ -223,12 +223,19 @@ client = CyberVeilleBot()
 
 
 ALL_SOURCES_DEF = [
-    {"name": "Splunk Security",        "rss": "https://www.splunk.com/en_us/blog/security.rss",                    "color": 0x65A637, "emoji": "🟢"},
-    {"name": "Elastic Security Labs",  "rss": "https://www.elastic.co/security-labs/rss/feed.xml",                 "color": 0x00BFB3, "emoji": "🔵"},
-    {"name": "DFIR Report",            "rss": "https://thedfirreport.com/feed/",                                    "color": 0xE74C3C, "emoji": "🔴"},
-    {"name": "CrowdStrike Blog",       "rss": "https://www.crowdstrike.com/blog/feed/",                             "color": 0xFF0000, "emoji": "🦅"},
-    {"name": "Unit 42 – Palo Alto",   "rss": "https://unit42.paloaltonetworks.com/feed/",                          "color": 0xFA582D, "emoji": "🔶"},
-    {"name": "Microsoft Security Blog","rss": "https://www.microsoft.com/en-us/security/blog/feed/",                "color": 0x0078D4, "emoji": "🪟"},
+    {
+        "name":  "Splunk Threat Research",
+        "rss":   [
+            "https://www.splunk.com/en_us/blog/author/secmrkt-research.rss",
+            "https://www.splunk.com/en_us/blog/security.rss",
+        ],
+        "color": 0x65A637, "emoji": "🟢",
+    },
+    {"name": "Elastic Security Labs",  "rss": ["https://www.elastic.co/security-labs/rss/feed.xml", "https://www.elastic.co/blog/feed"],          "color": 0x00BFB3, "emoji": "🔵"},
+    {"name": "DFIR Report",            "rss": ["https://thedfirreport.com/feed/"],                                                                  "color": 0xE74C3C, "emoji": "🔴"},
+    {"name": "CrowdStrike Blog",       "rss": ["https://www.crowdstrike.com/blog/feed/"],                                                           "color": 0xFF0000, "emoji": "🦅"},
+    {"name": "Unit 42 – Palo Alto",   "rss": ["https://unit42.paloaltonetworks.com/feed/"],                                                         "color": 0xFA582D, "emoji": "🔶"},
+    {"name": "Microsoft Security Blog","rss": ["https://www.microsoft.com/en-us/security/blog/feed/"],                                              "color": 0x0078D4, "emoji": "🪟"},
 ]
 
 FETCH_HEADERS = {
@@ -252,37 +259,51 @@ async def latest_cmd(interaction: discord.Interaction):
         await interaction.followup.send("⚠️ Aucune source active. Utilise `/config` pour en activer.", ephemeral=True)
         return
 
-    embeds = []
-    for source in active:
-        try:
-            feed = feedparser.parse(source["rss"], request_headers=FETCH_HEADERS)
-            if not feed.entries:
-                continue
-            entry   = feed.entries[0]
-            title   = (entry.get("title") or "Article")[:256]
-            link    = entry.get("link", "")
-            summary = strip_html(entry.get("summary") or entry.get("description") or "")
-            if len(summary) > 300:
-                summary = summary[:297] + "…"
+    embeds  = []
+    failed  = []
 
-            embeds.append(discord.Embed(
-                title       = f"{source['emoji']} {title}",
-                url         = link,
-                description = summary or "_Pas de résumé._",
-                color       = source["color"],
-            ).set_footer(text=source["name"]))
-        except Exception:
+    for source in active:
+        urls = source["rss"] if isinstance(source["rss"], list) else [source["rss"]]
+        entry = None
+
+        for url in urls:
+            try:
+                feed = feedparser.parse(url, request_headers=FETCH_HEADERS)
+                if feed.entries:
+                    entry = feed.entries[0]
+                    break
+            except Exception:
+                continue
+
+        if entry is None:
+            failed.append(f"{source['emoji']} {source['name']}")
             continue
 
-        # Discord max 10 embeds par message
+        title   = (entry.get("title") or "Article")[:256]
+        link    = entry.get("link", "")
+        summary = strip_html(entry.get("summary") or entry.get("description") or "")
+        if len(summary) > 300:
+            summary = summary[:297] + "…"
+
+        embeds.append(discord.Embed(
+            title       = f"{source['emoji']} {title}",
+            url         = link,
+            description = summary or "_Pas de résumé._",
+            color       = source["color"],
+        ).set_footer(text=source["name"]))
+
         if len(embeds) == 10:
             break
 
-    if not embeds:
+    if not embeds and not failed:
         await interaction.followup.send("❌ Impossible de récupérer les articles pour l'instant.", ephemeral=True)
         return
 
-    await interaction.followup.send(content="📡 **Derniers articles — Cyber Veille**", embeds=embeds)
+    content = "📡 **Derniers articles — Cyber Veille**"
+    if failed:
+        content += f"\n⚠️ Sources inaccessibles : {', '.join(failed)}"
+
+    await interaction.followup.send(content=content, embeds=embeds)
 
 
 @client.tree.command(name="config", description="⚙️ Configurer la surveillance des blogs cyber")

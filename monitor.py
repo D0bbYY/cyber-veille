@@ -13,14 +13,20 @@ CONFIG_FILE = "config.json"
 
 ALL_SOURCES = [
     {
-        "name":  "Splunk Security",
-        "rss":   "https://www.splunk.com/en_us/blog/security.rss",
+        "name":  "Splunk Threat Research",
+        "rss":   [
+            "https://www.splunk.com/en_us/blog/author/secmrkt-research.rss",
+            "https://www.splunk.com/en_us/blog/security.rss",
+        ],
         "color": 0x65A637,
         "emoji": "🟢",
     },
     {
         "name":  "Elastic Security Labs",
-        "rss":   "https://www.elastic.co/security-labs/rss/feed.xml",
+        "rss":   [
+            "https://www.elastic.co/security-labs/rss/feed.xml",
+            "https://www.elastic.co/blog/feed",
+        ],
         "color": 0x00BFB3,
         "emoji": "🔵",
     },
@@ -129,14 +135,21 @@ def check_source(source: dict, seen: dict, mode: str) -> None:
 
     print(f"🔍 {source['name']} …")
 
-    try:
-        feed = feedparser.parse(source["rss"], request_headers=HEADERS)
-    except Exception as e:
-        print(f"  ❌ Erreur RSS : {e}")
-        return
+    # Supporte une liste d'URLs (fallback si la 1ère échoue)
+    urls = source["rss"] if isinstance(source["rss"], list) else [source["rss"]]
+    feed = None
+    for url in urls:
+        try:
+            f = feedparser.parse(url, request_headers=HEADERS)
+            if f.entries:
+                feed = f
+                break
+        except Exception as e:
+            print(f"  ⚠️  URL {url} : {e}")
+            continue
 
-    if not feed.entries:
-        print(f"  ⚠️  Flux vide ou inaccessible")
+    if feed is None or not feed.entries:
+        print(f"  ⚠️  Flux vide ou inaccessible (toutes les URLs testées)")
         return
 
     first_run   = len(seen[key]) == 0
