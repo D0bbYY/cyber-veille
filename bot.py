@@ -1,6 +1,6 @@
 """
 Cyber Veille Bot — Menu Discord interactif
-Commandes : /config
+Commandes : /config  /latest
 """
 
 import discord
@@ -8,7 +8,9 @@ from discord import app_commands
 import json
 import os
 import base64
+import re
 import requests
+import feedparser
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -218,6 +220,69 @@ class CyberVeilleBot(discord.Client):
 
 
 client = CyberVeilleBot()
+
+
+ALL_SOURCES_DEF = [
+    {"name": "Splunk Security",        "rss": "https://www.splunk.com/en_us/blog/security.rss",                    "color": 0x65A637, "emoji": "🟢"},
+    {"name": "Elastic Security Labs",  "rss": "https://www.elastic.co/security-labs/rss/feed.xml",                 "color": 0x00BFB3, "emoji": "🔵"},
+    {"name": "DFIR Report",            "rss": "https://thedfirreport.com/feed/",                                    "color": 0xE74C3C, "emoji": "🔴"},
+    {"name": "CrowdStrike Blog",       "rss": "https://www.crowdstrike.com/blog/feed/",                             "color": 0xFF0000, "emoji": "🦅"},
+    {"name": "Unit 42 – Palo Alto",   "rss": "https://unit42.paloaltonetworks.com/feed/",                          "color": 0xFA582D, "emoji": "🔶"},
+    {"name": "Microsoft Security Blog","rss": "https://www.microsoft.com/en-us/security/blog/feed/",                "color": 0x0078D4, "emoji": "🪟"},
+]
+
+FETCH_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36"
+}
+
+def strip_html(text: str) -> str:
+    text = re.sub(r"<[^>]+>", "", text or "")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+@client.tree.command(name="latest", description="📰 Affiche le dernier article de chaque source active")
+async def latest_cmd(interaction: discord.Interaction):
+    await interaction.response.defer(ephemeral=False)
+
+    config  = load_config()
+    enabled = config.get("sources", {})
+    active  = [s for s in ALL_SOURCES_DEF if enabled.get(s["name"], True)]
+
+    if not active:
+        await interaction.followup.send("⚠️ Aucune source active. Utilise `/config` pour en activer.", ephemeral=True)
+        return
+
+    embeds = []
+    for source in active:
+        try:
+            feed = feedparser.parse(source["rss"], request_headers=FETCH_HEADERS)
+            if not feed.entries:
+                continue
+            entry   = feed.entries[0]
+            title   = (entry.get("title") or "Article")[:256]
+            link    = entry.get("link", "")
+            summary = strip_html(entry.get("summary") or entry.get("description") or "")
+            if len(summary) > 300:
+                summary = summary[:297] + "…"
+
+            embeds.append(discord.Embed(
+                title       = f"{source['emoji']} {title}",
+                url         = link,
+                description = summary or "_Pas de résumé._",
+                color       = source["color"],
+            ).set_footer(text=source["name"]))
+        except Exception:
+            continue
+
+        # Discord max 10 embeds par message
+        if len(embeds) == 10:
+            break
+
+    if not embeds:
+        await interaction.followup.send("❌ Impossible de récupérer les articles pour l'instant.", ephemeral=True)
+        return
+
+    await interaction.followup.send(content="📡 **Derniers articles — Cyber Veille**", embeds=embeds)
 
 
 @client.tree.command(name="config", description="⚙️ Configurer la surveillance des blogs cyber")
