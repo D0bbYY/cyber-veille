@@ -288,40 +288,39 @@ async def latest_cmd(interaction: discord.Interaction):
     failed  = []
 
     for source in active:
-        urls = source["rss"] if isinstance(source["rss"], list) else [source["rss"]]
-        entry = None
+        urls    = source["rss"] if isinstance(source["rss"], list) else [source["rss"]]
+        entries = []
 
         for url in urls:
             try:
                 feed = feedparser.parse(url, request_headers=FETCH_HEADERS)
                 if feed.entries:
-                    entry = feed.entries[0]
+                    entries = list(feed.entries[:3])
                     break
             except Exception:
                 continue
 
         # Fallback scraping si RSS vide
-        if entry is None and source.get("scrape_url"):
-            scraped = scrape_splunk(source["scrape_url"])
-            if scraped:
-                entry = scraped[0]
+        if not entries and source.get("scrape_url"):
+            entries = scrape_splunk(source["scrape_url"])[:3]
 
-        if entry is None:
+        if not entries:
             failed.append(f"{source['emoji']} {source['name']}")
             continue
 
-        title   = (entry.get("title") or "Article")[:256]
-        link    = entry.get("link", "")
-        summary = strip_html(entry.get("summary") or entry.get("description") or "")
-        if len(summary) > 300:
-            summary = summary[:297] + "…"
+        # Un embed par source avec les 3 articles listés dedans
+        lines = []
+        for e in entries:
+            title = (e.get("title") or "Article").strip()
+            link  = e.get("link", "")
+            lines.append(f"**[{title}]({link})**")
 
-        embeds.append(discord.Embed(
-            title       = f"{source['emoji']} {title}",
-            url         = link,
-            description = summary or "_Pas de résumé._",
+        embed = discord.Embed(
+            title       = f"{source['emoji']} {source['name']}",
+            description = "\n\n".join(lines),
             color       = source["color"],
-        ).set_footer(text=source["name"]))
+        )
+        embeds.append(embed)
 
         if len(embeds) == 10:
             break
