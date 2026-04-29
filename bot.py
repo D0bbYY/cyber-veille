@@ -254,9 +254,10 @@ def scrape_splunk(url: str) -> list:
 
         seen_links = {}
 
-        # Pattern 1 : h3.article-card-title
+        # Pattern 1 : h3.article-card-title avec .*? pour tolérer badges/spans avant le <a>
         card_pattern = (
-            r'<h3[^>]*class="article-card-title"[^>]*>\s*'
+            r'<h3[^>]*class="article-card-title"[^>]*>'
+            r'.*?'
             r'<a[^>]*href="(/en_us/blog/[^"#]+)"[^>]*>\s*([^<]+?)\s*</a>'
         )
         desc_pattern = r'<div[^>]*class="article-card-description"[^>]*>(.*?)</div>'
@@ -270,22 +271,12 @@ def scrape_splunk(url: str) -> list:
                     "summary": strip_html(descs[i]) if i < len(descs) else "",
                 }
 
-        # Pattern 2 : article hero/featured (h1 ou h2)
-        hero_pattern = (
-            r'<(?:h1|h2)[^>]*>\s*<a[^>]*href="(/en_us/blog/[^"#]+)"[^>]*>\s*([^<]+?)\s*</a>'
-        )
-        for href, title in re.findall(hero_pattern, r.text, re.IGNORECASE | re.DOTALL):
+        # Pattern 2 : fallback — tout <a> blog avec texte >15 chars
+        fallback_pattern = r'<a[^>]+href="(/en_us/blog/[^/"]+/[^/"]+\.html)"[^>]*>\s*([^<]{15,}?)\s*</a>'
+        for href, title in re.findall(fallback_pattern, r.text, re.IGNORECASE):
             link = f"https://www.splunk.com{href}"
             if link not in seen_links:
                 seen_links[link] = {"title": title.strip(), "summary": ""}
-
-        # Pattern 3 : fallback générique
-        generic_pattern = r'href="(/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
-        for href in re.findall(generic_pattern, r.text, re.IGNORECASE):
-            link = f"https://www.splunk.com{href}"
-            if link not in seen_links:
-                slug = href.split("/")[-1].replace(".html", "").replace("-", " ").title()
-                seen_links[link] = {"title": slug, "summary": ""}
 
         return [
             {"id": lnk, "link": lnk, "title": meta["title"], "summary": meta["summary"]}
