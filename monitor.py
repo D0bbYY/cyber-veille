@@ -81,25 +81,29 @@ def strip_html(text: str) -> str:
 
 
 def scrape_splunk(url: str) -> list:
-    """Scrape la page auteur Splunk et retourne une liste de faux-entries feedparser."""
+    """Scrape la page auteur Splunk — structure : h3.article-card-title > a + div.article-card-description"""
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code != 200:
             print(f"  ⚠️  Scraping HTTP {r.status_code}")
             return []
 
-        # Extraire les liens d'articles Splunk : /en_us/blog/xxx/titre.html
-        pattern = r'href="(https?://www\.splunk\.com/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
-        links   = list(dict.fromkeys(re.findall(pattern, r.text)))  # dédoublonner
+        # Titre + lien : <h3 class="article-card-title"><a href="/en_us/blog/...">Titre</a></h3>
+        card_pattern = (
+            r'<h3[^>]*class="article-card-title"[^>]*>\s*'
+            r'<a[^>]*href="(/en_us/blog/[^"]+)"[^>]*>\s*([^<]+?)\s*</a>'
+        )
+        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
 
-        # Extraire les titres associés (balise <h3> ou <h2> proche du lien)
-        title_pattern = r'<(?:h2|h3)[^>]*>\s*<a[^>]*href="https?://www\.splunk\.com/en_us/blog/[^"]+\.html"[^>]*>([^<]+)</a>'
-        titles  = re.findall(title_pattern, r.text, re.IGNORECASE)
+        # Résumé : <div class="article-card-description">...</div>
+        desc_pattern = r'<div[^>]*class="article-card-description"[^>]*>(.*?)</div>'
+        descs = re.findall(desc_pattern, r.text, re.IGNORECASE | re.DOTALL)
 
         entries = []
-        for i, link in enumerate(links[:15]):
-            title = titles[i].strip() if i < len(titles) else link.split("/")[-1].replace("-", " ").replace(".html", "").title()
-            entries.append({"id": link, "link": link, "title": title, "summary": ""})
+        for i, (href, title) in enumerate(cards[:15]):
+            link    = f"https://www.splunk.com{href}"
+            summary = strip_html(descs[i]) if i < len(descs) else ""
+            entries.append({"id": link, "link": link, "title": title.strip(), "summary": summary})
 
         print(f"  🔍 Scraping Splunk : {len(entries)} articles trouvés")
         return entries

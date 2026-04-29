@@ -246,19 +246,27 @@ def strip_html(text: str) -> str:
 
 
 def scrape_splunk(url: str) -> list:
-    """Scrape la page auteur Splunk et retourne des articles sous forme de dicts."""
+    """Scrape la page auteur Splunk — structure : h3.article-card-title > a + div.article-card-description"""
     try:
         r = requests.get(url, headers=FETCH_HEADERS, timeout=15)
         if r.status_code != 200:
             return []
-        pattern = r'href="(https?://www\.splunk\.com/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
-        links   = list(dict.fromkeys(re.findall(pattern, r.text)))
-        title_pattern = r'<(?:h2|h3)[^>]*>\s*<a[^>]*href="https?://www\.splunk\.com/en_us/blog/[^"]+\.html"[^>]*>([^<]+)</a>'
-        titles  = re.findall(title_pattern, r.text, re.IGNORECASE)
+
+        card_pattern = (
+            r'<h3[^>]*class="article-card-title"[^>]*>\s*'
+            r'<a[^>]*href="(/en_us/blog/[^"]+)"[^>]*>\s*([^<]+?)\s*</a>'
+        )
+        cards = re.findall(card_pattern, r.text, re.IGNORECASE | re.DOTALL)
+
+        desc_pattern = r'<div[^>]*class="article-card-description"[^>]*>(.*?)</div>'
+        descs = re.findall(desc_pattern, r.text, re.IGNORECASE | re.DOTALL)
+
         entries = []
-        for i, link in enumerate(links[:10]):
-            title = titles[i].strip() if i < len(titles) else link.split("/")[-1].replace("-", " ").replace(".html", "").title()
-            entries.append({"id": link, "link": link, "title": title, "summary": ""})
+        for i, (href, title) in enumerate(cards[:10]):
+            link    = f"https://www.splunk.com{href}"
+            summary = strip_html(descs[i]) if i < len(descs) else ""
+            entries.append({"id": link, "link": link, "title": title.strip(), "summary": summary})
+
         return entries
     except Exception:
         return []
