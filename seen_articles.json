@@ -79,5 +79,14 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146516",
     "https://www.microsoft.com/en-us/security/blog/?p=146554",
     "https://www.microsoft.com/en-us/security/blog/?p=146550"
+  ],
+  "Splunk Threat Research": [
+    "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-february-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunking-isovalent-data.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-january-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-december-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-updates-november.html",
+    "https://www.splunk.com/en_us/blog/author/secmrkt-research.html"
   ]
 }
