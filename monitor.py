@@ -141,23 +141,28 @@ def send_notification(source: dict, entry) -> None:
     title   = (entry.get("title") or "Nouvel article")[:256]
     link    = entry.get("link", "")
     summary = strip_html(entry.get("summary") or entry.get("description") or "")
-    if len(summary) > 350:
-        summary = summary[:347] + "…"
+    if len(summary) > 300:
+        summary = summary[:297] + "…"
 
     embed = {
+        "author": {
+            "name": f"{source['emoji']}  {source['name']}",
+        },
         "title":       title,
         "url":         link,
-        "description": summary or "_Pas de résumé disponible._",
+        "description": summary if summary else None,
         "color":       source["color"],
         "footer": {
-            "text": f"📡 {source['name']}  •  {datetime.utcnow().strftime('%d/%m/%Y %H:%M')} UTC"
+            "text": "Cyber Veille  •  Nouvel article"
         },
+        "timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
+    if not embed["description"]:
+        del embed["description"]
 
     payload = {
-        "content":    f"{source['emoji']} **Nouveau : {source['name']}**",
         "embeds":     [embed],
-        "username":   "Cyber Veille Bot",
+        "username":   "Cyber Veille",
         "avatar_url": "https://cdn-icons-png.flaticon.com/512/2092/2092757.png",
     }
 

@@ -322,32 +322,39 @@ async def latest_cmd(interaction: discord.Interaction):
             failed.append(f"{source['emoji']} {source['name']}")
             continue
 
-        # Un embed par source avec les 3 articles listés dedans
+        # Un embed par source — titre numérotés, barre colorée à gauche
         lines = []
-        for e in entries:
-            title = (e.get("title") or "Article").strip()
-            link  = e.get("link", "")
-            lines.append(f"**[{title}]({link})**")
+        nums  = ["① ", "② ", "③ "]
+        for idx, e in enumerate(entries):
+            t    = (e.get("title") or "Article").strip()
+            lnk  = e.get("link", "")
+            lines.append(f"{nums[idx]}[{t}]({lnk})")
 
         embed = discord.Embed(
-            title       = f"{source['emoji']} {source['name']}",
             description = "\n\n".join(lines),
             color       = source["color"],
         )
+        embed.set_author(name=f"{source['emoji']}  {source['name']}")
+        embed.set_footer(text="Cyber Veille  •  3 derniers articles")
         embeds.append(embed)
 
         if len(embeds) == 10:
             break
 
     if not embeds and not failed:
-        await interaction.followup.send("❌ Impossible de récupérer les articles pour l'instant.", ephemeral=True)
+        await interaction.followup.send("❌ Impossible de récupérer les articles.", ephemeral=True)
         return
 
-    content = "📡 **Derniers articles — Cyber Veille**"
+    # Message header + embeds sources
+    header = discord.Embed(
+        description = "Voici les **3 derniers articles** de chaque source active.",
+        color       = 0x2B2D31,
+    )
+    header.set_author(name="📡  Cyber Veille — Dernières publications")
     if failed:
-        content += f"\n⚠️ Sources inaccessibles : {', '.join(failed)}"
+        header.set_footer(text=f"⚠️ Inaccessibles : {', '.join(failed)}")
 
-    await interaction.followup.send(content=content, embeds=embeds)
+    await interaction.followup.send(embeds=[header] + embeds)
 
 
 @client.tree.command(name="config", description="⚙️ Configurer la surveillance des blogs cyber")
