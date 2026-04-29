@@ -192,6 +192,9 @@ class ConfigView(discord.ui.View):
 
 # ─── Bot ──────────────────────────────────────────────────────────────────────
 
+MY_GUILD = discord.Object(id=1497953495377117316)  # Ton serveur Discord
+
+
 class CyberVeilleBot(discord.Client):
     def __init__(self):
         intents = discord.Intents.default()
@@ -199,7 +202,10 @@ class CyberVeilleBot(discord.Client):
         self.tree = app_commands.CommandTree(self)
 
     async def setup_hook(self):
-        await self.tree.sync()
+        # Copie les commandes sur le serveur → sync instantané
+        self.tree.copy_global_to(guild=MY_GUILD)
+        await self.tree.sync(guild=MY_GUILD)
+        print("✅ Commandes slash synchronisées sur le serveur")
 
     async def on_ready(self):
         print(f"✅ Bot connecté : {self.user}  (ID {self.user.id})")
