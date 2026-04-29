@@ -1,11 +1,11 @@
 {
   "sources": {
     "Splunk Security": true,
-    "Elastic Security Labs": true,
-    "DFIR Report": true,
-    "CrowdStrike Blog": true,
-    "Unit 42 – Palo Alto": true,
+    "Elastic Security Labs": false,
+    "DFIR Report": false,
+    "CrowdStrike Blog": false,
+    "Unit 42 – Palo Alto": false,
     "Microsoft Security Blog": true
   },
-  "mode": "all"
+  "mode": "latest"
 }
