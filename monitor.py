@@ -13,13 +13,11 @@ CONFIG_FILE = "config.json"
 
 ALL_SOURCES = [
     {
-        "name":  "Splunk Threat Research",
-        "rss":   [
-            "https://www.splunk.com/en_us/blog/author/secmrkt-research.rss",
-            "https://www.splunk.com/en_us/blog/security.rss",
-        ],
-        "color": 0x65A637,
-        "emoji": "🟢",
+        "name":      "Splunk Threat Research",
+        "rss":       [],   # pas de flux RSS fiable, on utilise le scraper
+        "scrape_url":"https://www.splunk.com/en_us/blog/author/secmrkt-research.html",
+        "color":     0x65A637,
+        "emoji":     "🟢",
     },
     {
         "name":  "Elastic Security Labs",
@@ -80,6 +78,35 @@ def load_config() -> dict:
 def strip_html(text: str) -> str:
     text = re.sub(r"<[^>]+>", "", text or "")
     return re.sub(r"\s+", " ", text).strip()
+
+
+def scrape_splunk(url: str) -> list:
+    """Scrape la page auteur Splunk et retourne une liste de faux-entries feedparser."""
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code != 200:
+            print(f"  ⚠️  Scraping HTTP {r.status_code}")
+            return []
+
+        # Extraire les liens d'articles Splunk : /en_us/blog/xxx/titre.html
+        pattern = r'href="(https?://www\.splunk\.com/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
+        links   = list(dict.fromkeys(re.findall(pattern, r.text)))  # dédoublonner
+
+        # Extraire les titres associés (balise <h3> ou <h2> proche du lien)
+        title_pattern = r'<(?:h2|h3)[^>]*>\s*<a[^>]*href="https?://www\.splunk\.com/en_us/blog/[^"]+\.html"[^>]*>([^<]+)</a>'
+        titles  = re.findall(title_pattern, r.text, re.IGNORECASE)
+
+        entries = []
+        for i, link in enumerate(links[:15]):
+            title = titles[i].strip() if i < len(titles) else link.split("/")[-1].replace("-", " ").replace(".html", "").title()
+            entries.append({"id": link, "link": link, "title": title, "summary": ""})
+
+        print(f"  🔍 Scraping Splunk : {len(entries)} articles trouvés")
+        return entries
+
+    except Exception as e:
+        print(f"  ❌ Erreur scraping Splunk : {e}")
+        return []
 
 def load_seen() -> dict:
     if os.path.exists(SEEN_FILE):
@@ -148,14 +175,19 @@ def check_source(source: dict, seen: dict, mode: str) -> None:
             print(f"  ⚠️  URL {url} : {e}")
             continue
 
-    if feed is None or not feed.entries:
-        print(f"  ⚠️  Flux vide ou inaccessible (toutes les URLs testées)")
+    # Fallback scraping si RSS vide
+    raw_entries = feed.entries if (feed and feed.entries) else []
+    if not raw_entries and source.get("scrape_url"):
+        raw_entries = scrape_splunk(source["scrape_url"])
+
+    if not raw_entries:
+        print(f"  ⚠️  Aucun article trouvé (RSS + scraping)")
         return
 
     first_run   = len(seen[key]) == 0
     new_entries = []
 
-    for entry in feed.entries[:15]:
+    for entry in raw_entries[:15]:
         entry_id = entry.get("id") or entry.get("link") or entry.get("title")
         if entry_id and entry_id not in seen[key]:
             if not first_run:

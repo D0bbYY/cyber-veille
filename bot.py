@@ -224,12 +224,10 @@ client = CyberVeilleBot()
 
 ALL_SOURCES_DEF = [
     {
-        "name":  "Splunk Threat Research",
-        "rss":   [
-            "https://www.splunk.com/en_us/blog/author/secmrkt-research.rss",
-            "https://www.splunk.com/en_us/blog/security.rss",
-        ],
-        "color": 0x65A637, "emoji": "🟢",
+        "name":       "Splunk Threat Research",
+        "rss":        [],
+        "scrape_url": "https://www.splunk.com/en_us/blog/author/secmrkt-research.html",
+        "color":      0x65A637, "emoji": "🟢",
     },
     {"name": "Elastic Security Labs",  "rss": ["https://www.elastic.co/security-labs/rss/feed.xml", "https://www.elastic.co/blog/feed"],          "color": 0x00BFB3, "emoji": "🔵"},
     {"name": "DFIR Report",            "rss": ["https://thedfirreport.com/feed/"],                                                                  "color": 0xE74C3C, "emoji": "🔴"},
@@ -245,6 +243,25 @@ FETCH_HEADERS = {
 def strip_html(text: str) -> str:
     text = re.sub(r"<[^>]+>", "", text or "")
     return re.sub(r"\s+", " ", text).strip()
+
+
+def scrape_splunk(url: str) -> list:
+    """Scrape la page auteur Splunk et retourne des articles sous forme de dicts."""
+    try:
+        r = requests.get(url, headers=FETCH_HEADERS, timeout=15)
+        if r.status_code != 200:
+            return []
+        pattern = r'href="(https?://www\.splunk\.com/en_us/blog/[a-z0-9\-]+/[a-z0-9\-]+\.html)"'
+        links   = list(dict.fromkeys(re.findall(pattern, r.text)))
+        title_pattern = r'<(?:h2|h3)[^>]*>\s*<a[^>]*href="https?://www\.splunk\.com/en_us/blog/[^"]+\.html"[^>]*>([^<]+)</a>'
+        titles  = re.findall(title_pattern, r.text, re.IGNORECASE)
+        entries = []
+        for i, link in enumerate(links[:10]):
+            title = titles[i].strip() if i < len(titles) else link.split("/")[-1].replace("-", " ").replace(".html", "").title()
+            entries.append({"id": link, "link": link, "title": title, "summary": ""})
+        return entries
+    except Exception:
+        return []
 
 
 @client.tree.command(name="latest", description="📰 Affiche le dernier article de chaque source active")
@@ -274,6 +291,12 @@ async def latest_cmd(interaction: discord.Interaction):
                     break
             except Exception:
                 continue
+
+        # Fallback scraping si RSS vide
+        if entry is None and source.get("scrape_url"):
+            scraped = scrape_splunk(source["scrape_url"])
+            if scraped:
+                entry = scraped[0]
 
         if entry is None:
             failed.append(f"{source['emoji']} {source['name']}")
