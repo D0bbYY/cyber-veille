@@ -357,6 +357,51 @@ async def latest_cmd(interaction: discord.Interaction):
     await interaction.followup.send(embeds=[header] + embeds)
 
 
+@client.tree.command(name="intro", description="📌 Affiche le message de présentation du channel")
+async def intro_cmd(interaction: discord.Interaction):
+
+    # Embed principal
+    main = discord.Embed(
+        title       = "👁️  Bienvenue sur **#cyber-veille**",
+        description = (
+            "Ce channel est alimenté automatiquement par un bot qui surveille "
+            "les plus grands blogs de cybersécurité **toutes les heures**.\n"
+            "Dès qu'un nouvel article est publié, une notification apparaît ici.\n\n"
+            "> Pas besoin de chercher — l'info vient à toi."
+        ),
+        color = 0x5865F2,
+    )
+    main.set_thumbnail(url="https://cdn-icons-png.flaticon.com/512/2092/2092757.png")
+
+    # Sources surveillées
+    sources_embed = discord.Embed(
+        description = (
+            "🟢  **Splunk Threat Research** — Analyses de menaces & TTPs\n"
+            "🔵  **Elastic Security Labs** — Recherche malware & EDR\n"
+            "🔴  **DFIR Report** — Rapports d'incidents réels\n"
+            "🦅  **CrowdStrike Blog** — APT & Threat Intelligence\n"
+            "🔶  **Unit 42 – Palo Alto** — Threat Research avancé\n"
+            "🪟  **Microsoft Security Blog** — Vulnérabilités & Defender"
+        ),
+        color = 0x2B2D31,
+    )
+    sources_embed.set_author(name="📡  Sources surveillées")
+
+    # Commandes disponibles
+    cmds_embed = discord.Embed(
+        description = (
+            "`/latest` — Affiche les 3 derniers articles de chaque source\n"
+            "`/config` — Choisir tes sources & ton mode de réception\n"
+            "`/intro`  — Réafficher ce message"
+        ),
+        color = 0x2B2D31,
+    )
+    cmds_embed.set_author(name="🛠️  Commandes disponibles")
+    cmds_embed.set_footer(text="Cyber Veille Bot  •  Mise à jour toutes les heures  •  Automatique 24h/24")
+
+    await interaction.response.send_message(embeds=[main, sources_embed, cmds_embed])
+
+
 @client.tree.command(name="config", description="⚙️ Configurer la surveillance des blogs cyber")
 async def config_cmd(interaction: discord.Interaction):
     config     = load_config()
