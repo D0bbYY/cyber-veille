@@ -130,7 +130,10 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146554",
     "https://www.microsoft.com/en-us/security/blog/?p=146550",
     "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
-    "https://www.microsoft.com/en-us/security/blog/?p=146619"
+    "https://www.microsoft.com/en-us/security/blog/?p=146619",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
