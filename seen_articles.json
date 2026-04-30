@@ -99,7 +99,17 @@
     "https://www.crowdstrike.com/?p=268033",
     "https://www.crowdstrike.com/?p=654008",
     "https://www.crowdstrike.com/?p=610244",
-    "https://www.crowdstrike.com/?p=165574"
+    "https://www.crowdstrike.com/?p=165574",
+    "https://www.crowdstrike.com/?p=263111",
+    "https://www.crowdstrike.com/?p=714665",
+    "https://www.crowdstrike.com/?p=846978",
+    "https://www.crowdstrike.com/?p=758984",
+    "https://www.crowdstrike.com/?p=171702",
+    "https://www.crowdstrike.com/?p=997431",
+    "https://www.crowdstrike.com/?p=762564",
+    "https://www.crowdstrike.com/?p=817936",
+    "https://www.crowdstrike.com/?p=163169",
+    "https://www.crowdstrike.com/?p=651029"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -133,7 +143,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146619",
     "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
     "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
-    "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/"
+    "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
+    "https://www.microsoft.com/en-us/security/blog/?p=146264",
+    "https://www.microsoft.com/en-us/security/blog/?p=146922"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
