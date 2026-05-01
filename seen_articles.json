@@ -15,7 +15,8 @@
     "https://www.elastic.co/security-labs/rss/fake-installers-to-monero",
     "https://www.elastic.co/security-labs/rss/brushworm-targets-financial-services",
     "https://www.elastic.co/security-labs/rss/illuminating-voidlink",
-    "https://www.elastic.co/security-labs/rss/investigating-from-the-endpoint-across-your-environment"
+    "https://www.elastic.co/security-labs/rss/investigating-from-the-endpoint-across-your-environment",
+    "https://www.elastic.co/security-labs/rss/dfir-osquery-elastic-security"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
