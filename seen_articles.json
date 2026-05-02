@@ -31,16 +31,6 @@
     "https://thedfirreport.com/?p=43393"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=599262",
-    "https://www.crowdstrike.com/?p=934502",
-    "https://www.crowdstrike.com/?p=144475",
-    "https://www.crowdstrike.com/?p=566351",
-    "https://www.crowdstrike.com/?p=920071",
-    "https://www.crowdstrike.com/?p=812530",
-    "https://www.crowdstrike.com/?p=268033",
-    "https://www.crowdstrike.com/?p=654008",
-    "https://www.crowdstrike.com/?p=610244",
-    "https://www.crowdstrike.com/?p=165574",
     "https://www.crowdstrike.com/?p=263111",
     "https://www.crowdstrike.com/?p=714665",
     "https://www.crowdstrike.com/?p=846978",
@@ -180,7 +170,17 @@
     "https://www.crowdstrike.com/?p=749983",
     "https://www.crowdstrike.com/?p=485784",
     "https://www.crowdstrike.com/?p=942863",
-    "https://www.crowdstrike.com/?p=353952"
+    "https://www.crowdstrike.com/?p=353952",
+    "https://www.crowdstrike.com/?p=638529",
+    "https://www.crowdstrike.com/?p=573832",
+    "https://www.crowdstrike.com/?p=443634",
+    "https://www.crowdstrike.com/?p=616741",
+    "https://www.crowdstrike.com/?p=255430",
+    "https://www.crowdstrike.com/?p=552513",
+    "https://www.crowdstrike.com/?p=589433",
+    "https://www.crowdstrike.com/?p=419359",
+    "https://www.crowdstrike.com/?p=615868",
+    "https://www.crowdstrike.com/?p=820190"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -221,7 +221,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146922",
     "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
     "https://www.microsoft.com/en-us/security/blog/?p=146866",
-    "https://www.microsoft.com/en-us/security/blog/?p=147100"
+    "https://www.microsoft.com/en-us/security/blog/?p=147100",
+    "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
