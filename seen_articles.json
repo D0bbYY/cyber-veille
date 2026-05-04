@@ -16,7 +16,10 @@
     "https://www.elastic.co/security-labs/rss/brushworm-targets-financial-services",
     "https://www.elastic.co/security-labs/rss/illuminating-voidlink",
     "https://www.elastic.co/security-labs/rss/investigating-from-the-endpoint-across-your-environment",
-    "https://www.elastic.co/security-labs/rss/dfir-osquery-elastic-security"
+    "https://www.elastic.co/security-labs/rss/dfir-osquery-elastic-security",
+    "https://www.elastic.co/security-labs/rss/ai-esql-detection-rule-creation",
+    "https://www.elastic.co/security-labs/rss/entity-analytics-agent-builder",
+    "https://www.elastic.co/security-labs/rss/skills-elastic-security-9-4"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -31,16 +34,6 @@
     "https://thedfirreport.com/?p=43393"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=677631",
-    "https://www.crowdstrike.com/?p=155857",
-    "https://www.crowdstrike.com/?p=370837",
-    "https://www.crowdstrike.com/?p=454968",
-    "https://www.crowdstrike.com/?p=387169",
-    "https://www.crowdstrike.com/?p=494249",
-    "https://www.crowdstrike.com/?p=389767",
-    "https://www.crowdstrike.com/?p=476754",
-    "https://www.crowdstrike.com/?p=109675",
-    "https://www.crowdstrike.com/?p=736149",
     "https://www.crowdstrike.com/?p=280673",
     "https://www.crowdstrike.com/?p=814990",
     "https://www.crowdstrike.com/?p=601337",
@@ -180,7 +173,17 @@
     "https://www.crowdstrike.com/?p=152612",
     "https://www.crowdstrike.com/?p=962110",
     "https://www.crowdstrike.com/?p=191655",
-    "https://www.crowdstrike.com/?p=450558"
+    "https://www.crowdstrike.com/?p=450558",
+    "https://www.crowdstrike.com/?p=539602",
+    "https://www.crowdstrike.com/?p=927392",
+    "https://www.crowdstrike.com/?p=933324",
+    "https://www.crowdstrike.com/?p=157815",
+    "https://www.crowdstrike.com/?p=503490",
+    "https://www.crowdstrike.com/?p=674927",
+    "https://www.crowdstrike.com/?p=330816",
+    "https://www.crowdstrike.com/?p=696852",
+    "https://www.crowdstrike.com/?p=901491",
+    "https://www.crowdstrike.com/?p=703787"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -223,7 +226,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146866",
     "https://www.microsoft.com/en-us/security/blog/?p=147100",
     "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+    "https://www.microsoft.com/en-us/security/blog/?p=147052"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
