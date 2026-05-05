@@ -20,7 +20,8 @@
     "https://www.elastic.co/security-labs/rss/ai-esql-detection-rule-creation",
     "https://www.elastic.co/security-labs/rss/entity-analytics-agent-builder",
     "https://www.elastic.co/security-labs/rss/skills-elastic-security-9-4",
-    "https://www.elastic.co/security-labs/rss/elastic-workflows-ga-9-4"
+    "https://www.elastic.co/security-labs/rss/elastic-workflows-ga-9-4",
+    "https://www.elastic.co/security-labs/rss/ueba-entity-record-quality-analytics"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -35,16 +36,6 @@
     "https://thedfirreport.com/?p=43393"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=289052",
-    "https://www.crowdstrike.com/?p=267606",
-    "https://www.crowdstrike.com/?p=825461",
-    "https://www.crowdstrike.com/?p=368387",
-    "https://www.crowdstrike.com/?p=377037",
-    "https://www.crowdstrike.com/?p=948826",
-    "https://www.crowdstrike.com/?p=826291",
-    "https://www.crowdstrike.com/?p=348081",
-    "https://www.crowdstrike.com/?p=386351",
-    "https://www.crowdstrike.com/?p=345439",
     "https://www.crowdstrike.com/?p=531070",
     "https://www.crowdstrike.com/?p=729251",
     "https://www.crowdstrike.com/?p=310119",
@@ -184,7 +175,17 @@
     "https://www.crowdstrike.com/?p=765513",
     "https://www.crowdstrike.com/?p=596974",
     "https://www.crowdstrike.com/?p=412525",
-    "https://www.crowdstrike.com/?p=251043"
+    "https://www.crowdstrike.com/?p=251043",
+    "https://www.crowdstrike.com/?p=180014",
+    "https://www.crowdstrike.com/?p=485990",
+    "https://www.crowdstrike.com/?p=638286",
+    "https://www.crowdstrike.com/?p=112692",
+    "https://www.crowdstrike.com/?p=750217",
+    "https://www.crowdstrike.com/?p=878897",
+    "https://www.crowdstrike.com/?p=194504",
+    "https://www.crowdstrike.com/?p=446991",
+    "https://www.crowdstrike.com/?p=752413",
+    "https://www.crowdstrike.com/?p=722220"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
