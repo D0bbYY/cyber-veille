@@ -21,7 +21,9 @@
     "https://www.elastic.co/security-labs/rss/entity-analytics-agent-builder",
     "https://www.elastic.co/security-labs/rss/skills-elastic-security-9-4",
     "https://www.elastic.co/security-labs/rss/elastic-workflows-ga-9-4",
-    "https://www.elastic.co/security-labs/rss/ueba-entity-record-quality-analytics"
+    "https://www.elastic.co/security-labs/rss/ueba-entity-record-quality-analytics",
+    "https://www.elastic.co/security-labs/rss/entity-analytics-watchlists",
+    "https://www.elastic.co/security-labs/rss/proactive-threat-hunting-ai-generated-leads"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
