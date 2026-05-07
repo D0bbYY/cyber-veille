@@ -236,7 +236,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
     "https://www.microsoft.com/en-us/security/blog/?p=147052",
     "https://www.microsoft.com/en-us/security/blog/?p=147066",
-    "https://www.microsoft.com/en-us/security/blog/?p=147131"
+    "https://www.microsoft.com/en-us/security/blog/?p=147131",
+    "https://www.microsoft.com/en-us/security/blog/?p=147015"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
