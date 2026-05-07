@@ -24,7 +24,8 @@
     "https://www.elastic.co/security-labs/rss/ueba-entity-record-quality-analytics",
     "https://www.elastic.co/security-labs/rss/entity-analytics-watchlists",
     "https://www.elastic.co/security-labs/rss/proactive-threat-hunting-ai-generated-leads",
-    "https://www.elastic.co/security-labs/rss/tclbanker-brazilian-banking-trojan"
+    "https://www.elastic.co/security-labs/rss/tclbanker-brazilian-banking-trojan",
+    "https://www.elastic.co/security-labs/rss/detecting-web-server-probing-and-fuzzing"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -39,16 +40,6 @@
     "https://thedfirreport.com/?p=43393"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=185306",
-    "https://www.crowdstrike.com/?p=106335",
-    "https://www.crowdstrike.com/?p=324416",
-    "https://www.crowdstrike.com/?p=969394",
-    "https://www.crowdstrike.com/?p=693758",
-    "https://www.crowdstrike.com/?p=514204",
-    "https://www.crowdstrike.com/?p=942975",
-    "https://www.crowdstrike.com/?p=801410",
-    "https://www.crowdstrike.com/?p=213668",
-    "https://www.crowdstrike.com/?p=519799",
     "https://www.crowdstrike.com/?p=885520",
     "https://www.crowdstrike.com/?p=430334",
     "https://www.crowdstrike.com/?p=543506",
@@ -188,7 +179,17 @@
     "https://www.crowdstrike.com/?p=382842",
     "https://www.crowdstrike.com/?p=946894",
     "https://www.crowdstrike.com/?p=336927",
-    "https://www.crowdstrike.com/?p=423406"
+    "https://www.crowdstrike.com/?p=423406",
+    "https://www.crowdstrike.com/?p=591012",
+    "https://www.crowdstrike.com/?p=360499",
+    "https://www.crowdstrike.com/?p=670844",
+    "https://www.crowdstrike.com/?p=875764",
+    "https://www.crowdstrike.com/?p=154903",
+    "https://www.crowdstrike.com/?p=262458",
+    "https://www.crowdstrike.com/?p=701823",
+    "https://www.crowdstrike.com/?p=178004",
+    "https://www.crowdstrike.com/?p=775650",
+    "https://www.crowdstrike.com/?p=698848"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
