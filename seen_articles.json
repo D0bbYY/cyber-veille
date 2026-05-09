@@ -25,7 +25,8 @@
     "https://www.elastic.co/security-labs/rss/entity-analytics-watchlists",
     "https://www.elastic.co/security-labs/rss/proactive-threat-hunting-ai-generated-leads",
     "https://www.elastic.co/security-labs/rss/tclbanker-brazilian-banking-trojan",
-    "https://www.elastic.co/security-labs/rss/detecting-web-server-probing-and-fuzzing"
+    "https://www.elastic.co/security-labs/rss/detecting-web-server-probing-and-fuzzing",
+    "https://www.elastic.co/security-labs/rss/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
