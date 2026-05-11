@@ -26,7 +26,8 @@
     "https://www.elastic.co/security-labs/rss/proactive-threat-hunting-ai-generated-leads",
     "https://www.elastic.co/security-labs/rss/tclbanker-brazilian-banking-trojan",
     "https://www.elastic.co/security-labs/rss/detecting-web-server-probing-and-fuzzing",
-    "https://www.elastic.co/security-labs/rss/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild"
+    "https://www.elastic.co/security-labs/rss/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild",
+    "https://www.elastic.co/security-labs/rss/elastic-security-mcp-app"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -242,7 +243,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147131",
     "https://www.microsoft.com/en-us/security/blog/?p=147015",
     "https://www.microsoft.com/en-us/security/blog/?p=147191",
-    "https://www.microsoft.com/en-us/security/blog/?p=147239"
+    "https://www.microsoft.com/en-us/security/blog/?p=147239",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
