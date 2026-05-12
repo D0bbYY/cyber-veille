@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=716795",
-    "https://www.crowdstrike.com/?p=393216",
-    "https://www.crowdstrike.com/?p=432954",
-    "https://www.crowdstrike.com/?p=811494",
-    "https://www.crowdstrike.com/?p=568899",
-    "https://www.crowdstrike.com/?p=270830",
-    "https://www.crowdstrike.com/?p=828544",
-    "https://www.crowdstrike.com/?p=908895",
-    "https://www.crowdstrike.com/?p=255064",
-    "https://www.crowdstrike.com/?p=947246",
     "https://www.crowdstrike.com/?p=266143",
     "https://www.crowdstrike.com/?p=824419",
     "https://www.crowdstrike.com/?p=477858",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=104245",
     "https://www.crowdstrike.com/?p=796940",
     "https://www.crowdstrike.com/?p=633569",
-    "https://www.crowdstrike.com/?p=605962"
+    "https://www.crowdstrike.com/?p=605962",
+    "https://www.crowdstrike.com/?p=900304",
+    "https://www.crowdstrike.com/?p=959205",
+    "https://www.crowdstrike.com/?p=282762",
+    "https://www.crowdstrike.com/?p=766896",
+    "https://www.crowdstrike.com/?p=900728",
+    "https://www.crowdstrike.com/?p=634816",
+    "https://www.crowdstrike.com/?p=473032",
+    "https://www.crowdstrike.com/?p=213533",
+    "https://www.crowdstrike.com/?p=710105",
+    "https://www.crowdstrike.com/?p=435310"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -245,7 +245,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147015",
     "https://www.microsoft.com/en-us/security/blog/?p=147191",
     "https://www.microsoft.com/en-us/security/blog/?p=147239",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
+    "https://www.microsoft.com/en-us/security/blog/?p=147248"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
