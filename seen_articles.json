@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=409483",
-    "https://www.crowdstrike.com/?p=669269",
-    "https://www.crowdstrike.com/?p=150921",
-    "https://www.crowdstrike.com/?p=231350",
-    "https://www.crowdstrike.com/?p=957187",
-    "https://www.crowdstrike.com/?p=902272",
-    "https://www.crowdstrike.com/?p=104245",
-    "https://www.crowdstrike.com/?p=796940",
-    "https://www.crowdstrike.com/?p=633569",
-    "https://www.crowdstrike.com/?p=605962",
     "https://www.crowdstrike.com/?p=900304",
     "https://www.crowdstrike.com/?p=959205",
     "https://www.crowdstrike.com/?p=282762",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=753455",
     "https://www.crowdstrike.com/?p=396498",
     "https://www.crowdstrike.com/?p=599918",
-    "https://www.crowdstrike.com/?p=846591"
+    "https://www.crowdstrike.com/?p=846591",
+    "https://www.crowdstrike.com/?p=725608",
+    "https://www.crowdstrike.com/?p=673437",
+    "https://www.crowdstrike.com/?p=300383",
+    "https://www.crowdstrike.com/?p=811741",
+    "https://www.crowdstrike.com/?p=619634",
+    "https://www.crowdstrike.com/?p=420847",
+    "https://www.crowdstrike.com/?p=262604",
+    "https://www.crowdstrike.com/?p=693085",
+    "https://www.crowdstrike.com/?p=665054",
+    "https://www.crowdstrike.com/?p=699306"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -249,7 +249,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147248",
     "https://www.microsoft.com/en-us/security/blog/?p=147183",
     "https://www.microsoft.com/en-us/security/blog/?p=147293",
-    "https://www.microsoft.com/en-us/security/blog/?p=147315"
+    "https://www.microsoft.com/en-us/security/blog/?p=147315",
+    "https://www.microsoft.com/en-us/security/blog/?p=147363",
+    "https://www.microsoft.com/en-us/security/blog/?p=147397"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
