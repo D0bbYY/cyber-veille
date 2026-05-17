@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=860890",
-    "https://www.crowdstrike.com/?p=507261",
-    "https://www.crowdstrike.com/?p=382129",
-    "https://www.crowdstrike.com/?p=348873",
-    "https://www.crowdstrike.com/?p=720870",
-    "https://www.crowdstrike.com/?p=546082",
-    "https://www.crowdstrike.com/?p=301604",
-    "https://www.crowdstrike.com/?p=872905",
-    "https://www.crowdstrike.com/?p=636150",
-    "https://www.crowdstrike.com/?p=160416",
     "https://www.crowdstrike.com/?p=714161",
     "https://www.crowdstrike.com/?p=235616",
     "https://www.crowdstrike.com/?p=537289",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=705425",
     "https://www.crowdstrike.com/?p=508286",
     "https://www.crowdstrike.com/?p=179552",
-    "https://www.crowdstrike.com/?p=962220"
+    "https://www.crowdstrike.com/?p=962220",
+    "https://www.crowdstrike.com/?p=621839",
+    "https://www.crowdstrike.com/?p=696574",
+    "https://www.crowdstrike.com/?p=735024",
+    "https://www.crowdstrike.com/?p=742456",
+    "https://www.crowdstrike.com/?p=126705",
+    "https://www.crowdstrike.com/?p=646999",
+    "https://www.crowdstrike.com/?p=835490",
+    "https://www.crowdstrike.com/?p=340424",
+    "https://www.crowdstrike.com/?p=781058",
+    "https://www.crowdstrike.com/?p=479719"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -255,7 +255,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147397",
     "https://www.microsoft.com/en-us/security/blog/?p=147406",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
