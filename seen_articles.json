@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=879157",
-    "https://www.crowdstrike.com/?p=400783",
-    "https://www.crowdstrike.com/?p=536239",
-    "https://www.crowdstrike.com/?p=294661",
-    "https://www.crowdstrike.com/?p=365317",
-    "https://www.crowdstrike.com/?p=936443",
-    "https://www.crowdstrike.com/?p=528026",
-    "https://www.crowdstrike.com/?p=860976",
-    "https://www.crowdstrike.com/?p=299710",
-    "https://www.crowdstrike.com/?p=233972",
     "https://www.crowdstrike.com/?p=560077",
     "https://www.crowdstrike.com/?p=177508",
     "https://www.crowdstrike.com/?p=618521",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=528686",
     "https://www.crowdstrike.com/?p=690288",
     "https://www.crowdstrike.com/?p=204982",
-    "https://www.crowdstrike.com/?p=854957"
+    "https://www.crowdstrike.com/?p=854957",
+    "https://www.crowdstrike.com/?p=946779",
+    "https://www.crowdstrike.com/?p=337020",
+    "https://www.crowdstrike.com/?p=344088",
+    "https://www.crowdstrike.com/?p=861556",
+    "https://www.crowdstrike.com/?p=268446",
+    "https://www.crowdstrike.com/?p=375593",
+    "https://www.crowdstrike.com/?p=494663",
+    "https://www.crowdstrike.com/?p=920434",
+    "https://www.crowdstrike.com/?p=606021",
+    "https://www.crowdstrike.com/?p=729901"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -256,7 +256,11 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147406",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
