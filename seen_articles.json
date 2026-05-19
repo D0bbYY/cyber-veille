@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=672635",
-    "https://www.crowdstrike.com/?p=632757",
-    "https://www.crowdstrike.com/?p=402444",
-    "https://www.crowdstrike.com/?p=530808",
-    "https://www.crowdstrike.com/?p=612403",
-    "https://www.crowdstrike.com/?p=226465",
-    "https://www.crowdstrike.com/?p=110202",
-    "https://www.crowdstrike.com/?p=266094",
-    "https://www.crowdstrike.com/?p=133047",
-    "https://www.crowdstrike.com/?p=585510",
     "https://www.crowdstrike.com/?p=504974",
     "https://www.crowdstrike.com/?p=906059",
     "https://www.crowdstrike.com/?p=917556",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=162921",
     "https://www.crowdstrike.com/?p=572388",
     "https://www.crowdstrike.com/?p=361839",
-    "https://www.crowdstrike.com/?p=347643"
+    "https://www.crowdstrike.com/?p=347643",
+    "https://www.crowdstrike.com/?p=171197",
+    "https://www.crowdstrike.com/?p=155317",
+    "https://www.crowdstrike.com/?p=258827",
+    "https://www.crowdstrike.com/?p=511889",
+    "https://www.crowdstrike.com/?p=827607",
+    "https://www.crowdstrike.com/?p=132914",
+    "https://www.crowdstrike.com/?p=924082",
+    "https://www.crowdstrike.com/?p=490379",
+    "https://www.crowdstrike.com/?p=521708",
+    "https://www.crowdstrike.com/?p=171757"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -263,7 +263,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
     "https://www.microsoft.com/en-us/security/blog/?p=147275",
     "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
-    "https://www.microsoft.com/en-us/security/blog/?p=147507"
+    "https://www.microsoft.com/en-us/security/blog/?p=147507",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
