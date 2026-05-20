@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=120614",
-    "https://www.crowdstrike.com/?p=865051",
-    "https://www.crowdstrike.com/?p=142060",
-    "https://www.crowdstrike.com/?p=491860",
-    "https://www.crowdstrike.com/?p=251133",
-    "https://www.crowdstrike.com/?p=192679",
-    "https://www.crowdstrike.com/?p=420318",
-    "https://www.crowdstrike.com/?p=280688",
-    "https://www.crowdstrike.com/?p=663948",
-    "https://www.crowdstrike.com/?p=574310",
     "https://www.crowdstrike.com/?p=488193",
     "https://www.crowdstrike.com/?p=168803",
     "https://www.crowdstrike.com/?p=334845",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=449677",
     "https://www.crowdstrike.com/?p=415853",
     "https://www.crowdstrike.com/?p=486431",
-    "https://www.crowdstrike.com/?p=315628"
+    "https://www.crowdstrike.com/?p=315628",
+    "https://www.crowdstrike.com/?p=952308",
+    "https://www.crowdstrike.com/?p=701159",
+    "https://www.crowdstrike.com/?p=545152",
+    "https://www.crowdstrike.com/?p=336095",
+    "https://www.crowdstrike.com/?p=352739",
+    "https://www.crowdstrike.com/?p=944623",
+    "https://www.crowdstrike.com/?p=356334",
+    "https://www.crowdstrike.com/?p=562612",
+    "https://www.crowdstrike.com/?p=103657",
+    "https://www.crowdstrike.com/?p=584424"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -265,7 +265,10 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147275",
     "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
     "https://www.microsoft.com/en-us/security/blog/?p=147507",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
+    "https://www.microsoft.com/en-us/security/blog/?p=147567",
+    "https://www.microsoft.com/en-us/security/blog/?p=147432",
+    "https://www.microsoft.com/en-us/security/blog/?p=147426"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
