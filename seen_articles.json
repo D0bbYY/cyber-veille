@@ -43,16 +43,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=894234",
-    "https://www.crowdstrike.com/?p=636882",
-    "https://www.crowdstrike.com/?p=611289",
-    "https://www.crowdstrike.com/?p=181108",
-    "https://www.crowdstrike.com/?p=137934",
-    "https://www.crowdstrike.com/?p=335598",
-    "https://www.crowdstrike.com/?p=281022",
-    "https://www.crowdstrike.com/?p=950268",
-    "https://www.crowdstrike.com/?p=658548",
-    "https://www.crowdstrike.com/?p=989466",
     "https://www.crowdstrike.com/?p=664092",
     "https://www.crowdstrike.com/?p=238692",
     "https://www.crowdstrike.com/?p=133816",
@@ -192,7 +182,17 @@
     "https://www.crowdstrike.com/?p=878549",
     "https://www.crowdstrike.com/?p=219104",
     "https://www.crowdstrike.com/?p=652226",
-    "https://www.crowdstrike.com/?p=869746"
+    "https://www.crowdstrike.com/?p=869746",
+    "https://www.crowdstrike.com/?p=275736",
+    "https://www.crowdstrike.com/?p=882244",
+    "https://www.crowdstrike.com/?p=585843",
+    "https://www.crowdstrike.com/?p=305351",
+    "https://www.crowdstrike.com/?p=809987",
+    "https://www.crowdstrike.com/?p=771020",
+    "https://www.crowdstrike.com/?p=791788",
+    "https://www.crowdstrike.com/?p=116510",
+    "https://www.crowdstrike.com/?p=242737",
+    "https://www.crowdstrike.com/?p=492431"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -268,7 +268,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
     "https://www.microsoft.com/en-us/security/blog/?p=147567",
     "https://www.microsoft.com/en-us/security/blog/?p=147432",
-    "https://www.microsoft.com/en-us/security/blog/?p=147426"
+    "https://www.microsoft.com/en-us/security/blog/?p=147426",
+    "https://www.microsoft.com/en-us/security/blog/?p=147454"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
