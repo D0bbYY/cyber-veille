@@ -44,16 +44,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=178086",
-    "https://www.crowdstrike.com/?p=554454",
-    "https://www.crowdstrike.com/?p=395953",
-    "https://www.crowdstrike.com/?p=320346",
-    "https://www.crowdstrike.com/?p=520796",
-    "https://www.crowdstrike.com/?p=268169",
-    "https://www.crowdstrike.com/?p=483689",
-    "https://www.crowdstrike.com/?p=456622",
-    "https://www.crowdstrike.com/?p=676902",
-    "https://www.crowdstrike.com/?p=264867",
     "https://www.crowdstrike.com/?p=382609",
     "https://www.crowdstrike.com/?p=733529",
     "https://www.crowdstrike.com/?p=498031",
@@ -193,7 +183,17 @@
     "https://www.crowdstrike.com/?p=192712",
     "https://www.crowdstrike.com/?p=419142",
     "https://www.crowdstrike.com/?p=906923",
-    "https://www.crowdstrike.com/?p=826950"
+    "https://www.crowdstrike.com/?p=826950",
+    "https://www.crowdstrike.com/?p=465429",
+    "https://www.crowdstrike.com/?p=824297",
+    "https://www.crowdstrike.com/?p=885347",
+    "https://www.crowdstrike.com/?p=239841",
+    "https://www.crowdstrike.com/?p=898968",
+    "https://www.crowdstrike.com/?p=884449",
+    "https://www.crowdstrike.com/?p=919060",
+    "https://www.crowdstrike.com/?p=875456",
+    "https://www.crowdstrike.com/?p=733928",
+    "https://www.crowdstrike.com/?p=641706"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -289,6 +289,7 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-march-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-may-2026-update.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-april-recap.html",
-    "https://www.splunk.com/en_us/blog/security/behind-the-code-layered-defense-evasion-vip-keylogger.html"
+    "https://www.splunk.com/en_us/blog/security/behind-the-code-layered-defense-evasion-vip-keylogger.html",
+    "https://www.splunk.com/en_us/blog/security/detecting-copy-fail-cve-2026-31431-phenomenal-power-itty-bitty-script.html"
   ]
 }
