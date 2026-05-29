@@ -44,16 +44,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=544552",
-    "https://www.crowdstrike.com/?p=980553",
-    "https://www.crowdstrike.com/?p=654392",
-    "https://www.crowdstrike.com/?p=823870",
-    "https://www.crowdstrike.com/?p=257961",
-    "https://www.crowdstrike.com/?p=683380",
-    "https://www.crowdstrike.com/?p=192712",
-    "https://www.crowdstrike.com/?p=419142",
-    "https://www.crowdstrike.com/?p=906923",
-    "https://www.crowdstrike.com/?p=826950",
     "https://www.crowdstrike.com/?p=465429",
     "https://www.crowdstrike.com/?p=824297",
     "https://www.crowdstrike.com/?p=885347",
@@ -193,7 +183,17 @@
     "https://www.crowdstrike.com/?p=313208",
     "https://www.crowdstrike.com/?p=331105",
     "https://www.crowdstrike.com/?p=137531",
-    "https://www.crowdstrike.com/?p=334737"
+    "https://www.crowdstrike.com/?p=334737",
+    "https://www.crowdstrike.com/?p=922580",
+    "https://www.crowdstrike.com/?p=671117",
+    "https://www.crowdstrike.com/?p=430623",
+    "https://www.crowdstrike.com/?p=290964",
+    "https://www.crowdstrike.com/?p=898597",
+    "https://www.crowdstrike.com/?p=110161",
+    "https://www.crowdstrike.com/?p=454344",
+    "https://www.crowdstrike.com/?p=289702",
+    "https://www.crowdstrike.com/?p=982646",
+    "https://www.crowdstrike.com/?p=143384"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -280,7 +280,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146258",
     "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
     "https://www.microsoft.com/en-us/security/blog/?p=147647",
-    "https://www.microsoft.com/en-us/security/blog/?p=147677"
+    "https://www.microsoft.com/en-us/security/blog/?p=147677",
+    "https://www.microsoft.com/en-us/security/blog/?p=147792"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
