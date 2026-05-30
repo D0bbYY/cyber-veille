@@ -44,16 +44,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=598878",
-    "https://www.crowdstrike.com/?p=603140",
-    "https://www.crowdstrike.com/?p=362077",
-    "https://www.crowdstrike.com/?p=662665",
-    "https://www.crowdstrike.com/?p=543186",
-    "https://www.crowdstrike.com/?p=697609",
-    "https://www.crowdstrike.com/?p=397151",
-    "https://www.crowdstrike.com/?p=166195",
-    "https://www.crowdstrike.com/?p=217977",
-    "https://www.crowdstrike.com/?p=311615",
     "https://www.crowdstrike.com/?p=178335",
     "https://www.crowdstrike.com/?p=833420",
     "https://www.crowdstrike.com/?p=472571",
@@ -193,7 +183,17 @@
     "https://www.crowdstrike.com/?p=901108",
     "https://www.crowdstrike.com/?p=175574",
     "https://www.crowdstrike.com/?p=590547",
-    "https://www.crowdstrike.com/?p=231105"
+    "https://www.crowdstrike.com/?p=231105",
+    "https://www.crowdstrike.com/?p=167034",
+    "https://www.crowdstrike.com/?p=506703",
+    "https://www.crowdstrike.com/?p=804041",
+    "https://www.crowdstrike.com/?p=722744",
+    "https://www.crowdstrike.com/?p=519142",
+    "https://www.crowdstrike.com/?p=489111",
+    "https://www.crowdstrike.com/?p=612592",
+    "https://www.crowdstrike.com/?p=859769",
+    "https://www.crowdstrike.com/?p=423837",
+    "https://www.crowdstrike.com/?p=454329"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -282,7 +282,10 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147647",
     "https://www.microsoft.com/en-us/security/blog/?p=147677",
     "https://www.microsoft.com/en-us/security/blog/?p=147792",
-    "https://www.microsoft.com/en-us/security/blog/?p=147779"
+    "https://www.microsoft.com/en-us/security/blog/?p=147779",
+    "https://www.microsoft.com/en-us/security/blog/?p=147811",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
