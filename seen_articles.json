@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=396080",
-    "https://www.crowdstrike.com/?p=732798",
-    "https://www.crowdstrike.com/?p=468713",
-    "https://www.crowdstrike.com/?p=238613",
-    "https://www.crowdstrike.com/?p=302782",
-    "https://www.crowdstrike.com/?p=874931",
-    "https://www.crowdstrike.com/?p=298220",
-    "https://www.crowdstrike.com/?p=214241",
-    "https://www.crowdstrike.com/?p=706871",
-    "https://www.crowdstrike.com/?p=670938",
     "https://www.crowdstrike.com/?p=623112",
     "https://www.crowdstrike.com/?p=373804",
     "https://www.crowdstrike.com/?p=502346",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=798575",
     "https://www.crowdstrike.com/?p=222760",
     "https://www.crowdstrike.com/?p=639257",
-    "https://www.crowdstrike.com/?p=439196"
+    "https://www.crowdstrike.com/?p=439196",
+    "https://www.crowdstrike.com/?p=749991",
+    "https://www.crowdstrike.com/?p=813738",
+    "https://www.crowdstrike.com/?p=459493",
+    "https://www.crowdstrike.com/?p=881736",
+    "https://www.crowdstrike.com/?p=403077",
+    "https://www.crowdstrike.com/?p=810746",
+    "https://www.crowdstrike.com/?p=845074",
+    "https://www.crowdstrike.com/?p=347634",
+    "https://www.crowdstrike.com/?p=733938",
+    "https://www.crowdstrike.com/?p=943400"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -289,7 +289,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147811",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/",
+    "https://www.microsoft.com/en-us/security/blog/?p=147521"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
