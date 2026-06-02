@@ -29,7 +29,8 @@
     "https://www.elastic.co/security-labs/rss/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild",
     "https://www.elastic.co/security-labs/rss/elastic-security-mcp-app",
     "https://www.elastic.co/security-labs/rss/tycoon-2fa-aitm-detection-engineering",
-    "https://www.elastic.co/security-labs/rss/blockchain-c2-phantompulse-rat-sinkhole"
+    "https://www.elastic.co/security-labs/rss/blockchain-c2-phantompulse-rat-sinkhole",
+    "https://www.elastic.co/security-labs/rss/elastic-security-google-threat-intelligence"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -286,7 +287,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147779",
     "https://www.microsoft.com/en-us/security/blog/?p=147811",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
