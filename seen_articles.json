@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=945381",
-    "https://www.crowdstrike.com/?p=163590",
-    "https://www.crowdstrike.com/?p=826009",
-    "https://www.crowdstrike.com/?p=417719",
-    "https://www.crowdstrike.com/?p=425362",
-    "https://www.crowdstrike.com/?p=658282",
-    "https://www.crowdstrike.com/?p=821223",
-    "https://www.crowdstrike.com/?p=741575",
-    "https://www.crowdstrike.com/?p=407222",
-    "https://www.crowdstrike.com/?p=564479",
     "https://www.crowdstrike.com/?p=146652",
     "https://www.crowdstrike.com/?p=551364",
     "https://www.crowdstrike.com/?p=238129",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=345712",
     "https://www.crowdstrike.com/?p=968865",
     "https://www.crowdstrike.com/?p=446307",
-    "https://www.crowdstrike.com/?p=906737"
+    "https://www.crowdstrike.com/?p=906737",
+    "https://www.crowdstrike.com/?p=549935",
+    "https://www.crowdstrike.com/?p=312650",
+    "https://www.crowdstrike.com/?p=682921",
+    "https://www.crowdstrike.com/?p=706070",
+    "https://www.crowdstrike.com/?p=315584",
+    "https://www.crowdstrike.com/?p=929214",
+    "https://www.crowdstrike.com/?p=464332",
+    "https://www.crowdstrike.com/?p=761354",
+    "https://www.crowdstrike.com/?p=722132",
+    "https://www.crowdstrike.com/?p=722119"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -290,7 +290,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/",
-    "https://www.microsoft.com/en-us/security/blog/?p=147521"
+    "https://www.microsoft.com/en-us/security/blog/?p=147521",
+    "https://www.microsoft.com/en-us/security/blog/?p=147916"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
