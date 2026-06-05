@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=627241",
-    "https://www.crowdstrike.com/?p=931288",
-    "https://www.crowdstrike.com/?p=308729",
-    "https://www.crowdstrike.com/?p=172646",
-    "https://www.crowdstrike.com/?p=787556",
-    "https://www.crowdstrike.com/?p=737409",
-    "https://www.crowdstrike.com/?p=811921",
-    "https://www.crowdstrike.com/?p=840845",
-    "https://www.crowdstrike.com/?p=304653",
-    "https://www.crowdstrike.com/?p=138534",
     "https://www.crowdstrike.com/?p=969025",
     "https://www.crowdstrike.com/?p=721393",
     "https://www.crowdstrike.com/?p=392909",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=529790",
     "https://www.crowdstrike.com/?p=179974",
     "https://www.crowdstrike.com/?p=832686",
-    "https://www.crowdstrike.com/?p=992766"
+    "https://www.crowdstrike.com/?p=992766",
+    "https://www.crowdstrike.com/?p=241651",
+    "https://www.crowdstrike.com/?p=170104",
+    "https://www.crowdstrike.com/?p=674365",
+    "https://www.crowdstrike.com/?p=773610",
+    "https://www.crowdstrike.com/?p=844237",
+    "https://www.crowdstrike.com/?p=668236",
+    "https://www.crowdstrike.com/?p=153871",
+    "https://www.crowdstrike.com/?p=407700",
+    "https://www.crowdstrike.com/?p=898715",
+    "https://www.crowdstrike.com/?p=536136"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -296,7 +296,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
     "https://www.microsoft.com/en-us/security/blog/?p=147942",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
+    "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
+    "https://www.microsoft.com/en-us/security/blog/?p=147931"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
