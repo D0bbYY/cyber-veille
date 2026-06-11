@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=833776",
-    "https://www.crowdstrike.com/?p=150922",
-    "https://www.crowdstrike.com/?p=514275",
-    "https://www.crowdstrike.com/?p=625868",
-    "https://www.crowdstrike.com/?p=166349",
-    "https://www.crowdstrike.com/?p=655900",
-    "https://www.crowdstrike.com/?p=208030",
-    "https://www.crowdstrike.com/?p=729342",
-    "https://www.crowdstrike.com/?p=219754",
-    "https://www.crowdstrike.com/?p=494214",
     "https://www.crowdstrike.com/?p=864535",
     "https://www.crowdstrike.com/?p=918166",
     "https://www.crowdstrike.com/?p=571358",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=519104",
     "https://www.crowdstrike.com/?p=514373",
     "https://www.crowdstrike.com/?p=184156",
-    "https://www.crowdstrike.com/?p=996216"
+    "https://www.crowdstrike.com/?p=996216",
+    "https://www.crowdstrike.com/?p=159216",
+    "https://www.crowdstrike.com/?p=996567",
+    "https://www.crowdstrike.com/?p=295950",
+    "https://www.crowdstrike.com/?p=944452",
+    "https://www.crowdstrike.com/?p=493019",
+    "https://www.crowdstrike.com/?p=426922",
+    "https://www.crowdstrike.com/?p=119023",
+    "https://www.crowdstrike.com/?p=419431",
+    "https://www.crowdstrike.com/?p=235722",
+    "https://www.crowdstrike.com/?p=465430"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -227,7 +227,8 @@
     "https://unit42.paloaltonetworks.com/?p=181830",
     "https://unit42.paloaltonetworks.com/?p=182026",
     "https://unit42.paloaltonetworks.com/?p=182028",
-    "https://unit42.paloaltonetworks.com/?p=182090"
+    "https://unit42.paloaltonetworks.com/?p=182090",
+    "https://unit42.paloaltonetworks.com/?p=182196"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/?p=146783",
@@ -305,7 +306,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
     "https://www.microsoft.com/en-us/security/blog/?p=147976",
     "https://www.microsoft.com/en-us/security/blog/?p=148060",
-    "https://www.microsoft.com/en-us/security/blog/?p=148051"
+    "https://www.microsoft.com/en-us/security/blog/?p=148051",
+    "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
