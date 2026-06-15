@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=512042",
-    "https://www.crowdstrike.com/?p=438060",
-    "https://www.crowdstrike.com/?p=181672",
-    "https://www.crowdstrike.com/?p=769780",
-    "https://www.crowdstrike.com/?p=681009",
-    "https://www.crowdstrike.com/?p=995258",
-    "https://www.crowdstrike.com/?p=840607",
-    "https://www.crowdstrike.com/?p=235810",
-    "https://www.crowdstrike.com/?p=131440",
-    "https://www.crowdstrike.com/?p=228747",
     "https://www.crowdstrike.com/?p=276497",
     "https://www.crowdstrike.com/?p=606874",
     "https://www.crowdstrike.com/?p=268356",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=809770",
     "https://www.crowdstrike.com/?p=823491",
     "https://www.crowdstrike.com/?p=487333",
-    "https://www.crowdstrike.com/?p=717204"
+    "https://www.crowdstrike.com/?p=717204",
+    "https://www.crowdstrike.com/?p=658104",
+    "https://www.crowdstrike.com/?p=921813",
+    "https://www.crowdstrike.com/?p=492489",
+    "https://www.crowdstrike.com/?p=785718",
+    "https://www.crowdstrike.com/?p=699373",
+    "https://www.crowdstrike.com/?p=291410",
+    "https://www.crowdstrike.com/?p=119369",
+    "https://www.crowdstrike.com/?p=746356",
+    "https://www.crowdstrike.com/?p=908992",
+    "https://www.crowdstrike.com/?p=210977"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -309,7 +309,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148060",
     "https://www.microsoft.com/en-us/security/blog/?p=148051",
     "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
-    "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/"
+    "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
+    "https://www.microsoft.com/en-us/security/blog/?p=148052"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
