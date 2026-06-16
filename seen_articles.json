@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=758202",
-    "https://www.crowdstrike.com/?p=532231",
-    "https://www.crowdstrike.com/?p=468149",
-    "https://www.crowdstrike.com/?p=181555",
-    "https://www.crowdstrike.com/?p=841240",
-    "https://www.crowdstrike.com/?p=700511",
-    "https://www.crowdstrike.com/?p=489096",
-    "https://www.crowdstrike.com/?p=607357",
-    "https://www.crowdstrike.com/?p=270406",
-    "https://www.crowdstrike.com/?p=158974",
     "https://www.crowdstrike.com/?p=208993",
     "https://www.crowdstrike.com/?p=117192",
     "https://www.crowdstrike.com/?p=717935",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=974928",
     "https://www.crowdstrike.com/?p=799793",
     "https://www.crowdstrike.com/?p=817541",
-    "https://www.crowdstrike.com/?p=571457"
+    "https://www.crowdstrike.com/?p=571457",
+    "https://www.crowdstrike.com/?p=105494",
+    "https://www.crowdstrike.com/?p=336189",
+    "https://www.crowdstrike.com/?p=793862",
+    "https://www.crowdstrike.com/?p=343530",
+    "https://www.crowdstrike.com/?p=364136",
+    "https://www.crowdstrike.com/?p=426828",
+    "https://www.crowdstrike.com/?p=481559",
+    "https://www.crowdstrike.com/?p=463695",
+    "https://www.crowdstrike.com/?p=362109",
+    "https://www.crowdstrike.com/?p=489399"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -312,7 +312,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148051",
     "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
-    "https://www.microsoft.com/en-us/security/blog/?p=148052"
+    "https://www.microsoft.com/en-us/security/blog/?p=148052",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
