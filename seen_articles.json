@@ -46,16 +46,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=478682",
-    "https://www.crowdstrike.com/?p=116229",
-    "https://www.crowdstrike.com/?p=136711",
-    "https://www.crowdstrike.com/?p=493787",
-    "https://www.crowdstrike.com/?p=849684",
-    "https://www.crowdstrike.com/?p=237094",
-    "https://www.crowdstrike.com/?p=604572",
-    "https://www.crowdstrike.com/?p=213375",
-    "https://www.crowdstrike.com/?p=116041",
-    "https://www.crowdstrike.com/?p=469239",
     "https://www.crowdstrike.com/?p=571777",
     "https://www.crowdstrike.com/?p=243386",
     "https://www.crowdstrike.com/?p=549534",
@@ -195,7 +185,17 @@
     "https://www.crowdstrike.com/?p=703928",
     "https://www.crowdstrike.com/?p=174695",
     "https://www.crowdstrike.com/?p=302861",
-    "https://www.crowdstrike.com/?p=801308"
+    "https://www.crowdstrike.com/?p=801308",
+    "https://www.crowdstrike.com/?p=701537",
+    "https://www.crowdstrike.com/?p=983514",
+    "https://www.crowdstrike.com/?p=616288",
+    "https://www.crowdstrike.com/?p=552583",
+    "https://www.crowdstrike.com/?p=233235",
+    "https://www.crowdstrike.com/?p=581141",
+    "https://www.crowdstrike.com/?p=454992",
+    "https://www.crowdstrike.com/?p=532051",
+    "https://www.crowdstrike.com/?p=781707",
+    "https://www.crowdstrike.com/?p=199651"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -319,7 +319,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
-    "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/"
+    "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
+    "https://www.microsoft.com/en-us/security/blog/?p=148154"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
