@@ -30,7 +30,8 @@
     "https://www.elastic.co/security-labs/rss/elastic-security-mcp-app",
     "https://www.elastic.co/security-labs/rss/tycoon-2fa-aitm-detection-engineering",
     "https://www.elastic.co/security-labs/rss/blockchain-c2-phantompulse-rat-sinkhole",
-    "https://www.elastic.co/security-labs/rss/elastic-security-google-threat-intelligence"
+    "https://www.elastic.co/security-labs/rss/elastic-security-google-threat-intelligence",
+    "https://www.elastic.co/security-labs/rss/oxloader-malware-loader-infostealer"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
