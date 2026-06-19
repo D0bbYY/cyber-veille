@@ -48,16 +48,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=302108",
-    "https://www.crowdstrike.com/?p=675476",
-    "https://www.crowdstrike.com/?p=284043",
-    "https://www.crowdstrike.com/?p=239427",
-    "https://www.crowdstrike.com/?p=551706",
-    "https://www.crowdstrike.com/?p=584255",
-    "https://www.crowdstrike.com/?p=668766",
-    "https://www.crowdstrike.com/?p=841817",
-    "https://www.crowdstrike.com/?p=105987",
-    "https://www.crowdstrike.com/?p=600240",
     "https://www.crowdstrike.com/?p=540761",
     "https://www.crowdstrike.com/?p=445188",
     "https://www.crowdstrike.com/?p=786102",
@@ -197,7 +187,17 @@
     "https://www.crowdstrike.com/?p=610537",
     "https://www.crowdstrike.com/?p=747325",
     "https://www.crowdstrike.com/?p=273414",
-    "https://www.crowdstrike.com/?p=755254"
+    "https://www.crowdstrike.com/?p=755254",
+    "https://www.crowdstrike.com/?p=518930",
+    "https://www.crowdstrike.com/?p=564812",
+    "https://www.crowdstrike.com/?p=961693",
+    "https://www.crowdstrike.com/?p=899568",
+    "https://www.crowdstrike.com/?p=951329",
+    "https://www.crowdstrike.com/?p=196880",
+    "https://www.crowdstrike.com/?p=779181",
+    "https://www.crowdstrike.com/?p=183714",
+    "https://www.crowdstrike.com/?p=291821",
+    "https://www.crowdstrike.com/?p=147982"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -342,6 +342,7 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-may-2026-update.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-april-recap.html",
     "https://www.splunk.com/en_us/blog/security/behind-the-code-layered-defense-evasion-vip-keylogger.html",
-    "https://www.splunk.com/en_us/blog/security/detecting-copy-fail-cve-2026-31431-phenomenal-power-itty-bitty-script.html"
+    "https://www.splunk.com/en_us/blog/security/detecting-copy-fail-cve-2026-31431-phenomenal-power-itty-bitty-script.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-may-recap.html"
   ]
 }
