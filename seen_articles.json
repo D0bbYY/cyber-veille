@@ -32,7 +32,8 @@
     "https://www.elastic.co/security-labs/rss/blockchain-c2-phantompulse-rat-sinkhole",
     "https://www.elastic.co/security-labs/rss/elastic-security-google-threat-intelligence",
     "https://www.elastic.co/security-labs/rss/oxloader-malware-loader-infostealer",
-    "https://www.elastic.co/security-labs/rss/aad-graph-activity-logs-threat-detection"
+    "https://www.elastic.co/security-labs/rss/aad-graph-activity-logs-threat-detection",
+    "https://www.elastic.co/security-labs/rss/security-advisory-automation-rag-elastic-agent-builder"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -48,16 +49,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=672465",
-    "https://www.crowdstrike.com/?p=533999",
-    "https://www.crowdstrike.com/?p=168351",
-    "https://www.crowdstrike.com/?p=380776",
-    "https://www.crowdstrike.com/?p=380212",
-    "https://www.crowdstrike.com/?p=681717",
-    "https://www.crowdstrike.com/?p=838169",
-    "https://www.crowdstrike.com/?p=782202",
-    "https://www.crowdstrike.com/?p=117124",
-    "https://www.crowdstrike.com/?p=308939",
     "https://www.crowdstrike.com/?p=579482",
     "https://www.crowdstrike.com/?p=476534",
     "https://www.crowdstrike.com/?p=575145",
@@ -197,7 +188,17 @@
     "https://www.crowdstrike.com/?p=283958",
     "https://www.crowdstrike.com/?p=965248",
     "https://www.crowdstrike.com/?p=735782",
-    "https://www.crowdstrike.com/?p=401366"
+    "https://www.crowdstrike.com/?p=401366",
+    "https://www.crowdstrike.com/?p=899202",
+    "https://www.crowdstrike.com/?p=278031",
+    "https://www.crowdstrike.com/?p=549338",
+    "https://www.crowdstrike.com/?p=873421",
+    "https://www.crowdstrike.com/?p=819319",
+    "https://www.crowdstrike.com/?p=961918",
+    "https://www.crowdstrike.com/?p=715293",
+    "https://www.crowdstrike.com/?p=715563",
+    "https://www.crowdstrike.com/?p=339358",
+    "https://www.crowdstrike.com/?p=833128"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
