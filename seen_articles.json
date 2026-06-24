@@ -49,16 +49,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=770633",
-    "https://www.crowdstrike.com/?p=377283",
-    "https://www.crowdstrike.com/?p=944427",
-    "https://www.crowdstrike.com/?p=906517",
-    "https://www.crowdstrike.com/?p=714514",
-    "https://www.crowdstrike.com/?p=690820",
-    "https://www.crowdstrike.com/?p=261106",
-    "https://www.crowdstrike.com/?p=231046",
-    "https://www.crowdstrike.com/?p=276978",
-    "https://www.crowdstrike.com/?p=546487",
     "https://www.crowdstrike.com/?p=844984",
     "https://www.crowdstrike.com/?p=603802",
     "https://www.crowdstrike.com/?p=672303",
@@ -198,7 +188,17 @@
     "https://www.crowdstrike.com/?p=934231",
     "https://www.crowdstrike.com/?p=267429",
     "https://www.crowdstrike.com/?p=989979",
-    "https://www.crowdstrike.com/?p=811043"
+    "https://www.crowdstrike.com/?p=811043",
+    "https://www.crowdstrike.com/?p=792865",
+    "https://www.crowdstrike.com/?p=129832",
+    "https://www.crowdstrike.com/?p=584716",
+    "https://www.crowdstrike.com/?p=575233",
+    "https://www.crowdstrike.com/?p=455907",
+    "https://www.crowdstrike.com/?p=625222",
+    "https://www.crowdstrike.com/?p=200900",
+    "https://www.crowdstrike.com/?p=911035",
+    "https://www.crowdstrike.com/?p=475598",
+    "https://www.crowdstrike.com/?p=593850"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -334,7 +334,10 @@
     "https://www.microsoft.com/en-us/security/blog/?p=147277",
     "https://www.microsoft.com/en-us/security/blog/?p=148228",
     "https://www.microsoft.com/en-us/security/blog/?p=148144",
-    "https://www.microsoft.com/en-us/security/blog/?p=148262"
+    "https://www.microsoft.com/en-us/security/blog/?p=148262",
+    "https://www.microsoft.com/en-us/security/blog/?p=148301",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
