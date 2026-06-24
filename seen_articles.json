@@ -49,16 +49,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=844984",
-    "https://www.crowdstrike.com/?p=603802",
-    "https://www.crowdstrike.com/?p=672303",
-    "https://www.crowdstrike.com/?p=166342",
-    "https://www.crowdstrike.com/?p=253851",
-    "https://www.crowdstrike.com/?p=996792",
-    "https://www.crowdstrike.com/?p=517994",
-    "https://www.crowdstrike.com/?p=203328",
-    "https://www.crowdstrike.com/?p=522706",
-    "https://www.crowdstrike.com/?p=438630",
     "https://www.crowdstrike.com/?p=894060",
     "https://www.crowdstrike.com/?p=205903",
     "https://www.crowdstrike.com/?p=696596",
@@ -198,7 +188,17 @@
     "https://www.crowdstrike.com/?p=200900",
     "https://www.crowdstrike.com/?p=911035",
     "https://www.crowdstrike.com/?p=475598",
-    "https://www.crowdstrike.com/?p=593850"
+    "https://www.crowdstrike.com/?p=593850",
+    "https://www.crowdstrike.com/?p=145296",
+    "https://www.crowdstrike.com/?p=709580",
+    "https://www.crowdstrike.com/?p=246134",
+    "https://www.crowdstrike.com/?p=988728",
+    "https://www.crowdstrike.com/?p=706889",
+    "https://www.crowdstrike.com/?p=132231",
+    "https://www.crowdstrike.com/?p=567047",
+    "https://www.crowdstrike.com/?p=501265",
+    "https://www.crowdstrike.com/?p=830723",
+    "https://www.crowdstrike.com/?p=763369"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -337,7 +337,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148262",
     "https://www.microsoft.com/en-us/security/blog/?p=148301",
     "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
-    "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/"
+    "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
+    "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
