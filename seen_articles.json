@@ -49,16 +49,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=899202",
-    "https://www.crowdstrike.com/?p=278031",
-    "https://www.crowdstrike.com/?p=549338",
-    "https://www.crowdstrike.com/?p=873421",
-    "https://www.crowdstrike.com/?p=819319",
-    "https://www.crowdstrike.com/?p=961918",
-    "https://www.crowdstrike.com/?p=715293",
-    "https://www.crowdstrike.com/?p=715563",
-    "https://www.crowdstrike.com/?p=339358",
-    "https://www.crowdstrike.com/?p=833128",
     "https://www.crowdstrike.com/?p=768750",
     "https://www.crowdstrike.com/?p=945838",
     "https://www.crowdstrike.com/?p=964289",
@@ -198,7 +188,17 @@
     "https://www.crowdstrike.com/?p=834929",
     "https://www.crowdstrike.com/?p=759958",
     "https://www.crowdstrike.com/?p=453260",
-    "https://www.crowdstrike.com/?p=362702"
+    "https://www.crowdstrike.com/?p=362702",
+    "https://www.crowdstrike.com/?p=494455",
+    "https://www.crowdstrike.com/?p=928889",
+    "https://www.crowdstrike.com/?p=632990",
+    "https://www.crowdstrike.com/?p=203589",
+    "https://www.crowdstrike.com/?p=441346",
+    "https://www.crowdstrike.com/?p=295240",
+    "https://www.crowdstrike.com/?p=861608",
+    "https://www.crowdstrike.com/?p=356508",
+    "https://www.crowdstrike.com/?p=945154",
+    "https://www.crowdstrike.com/?p=241082"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -340,7 +340,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
     "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
-    "https://www.microsoft.com/en-us/security/blog/?p=148247"
+    "https://www.microsoft.com/en-us/security/blog/?p=148247",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
