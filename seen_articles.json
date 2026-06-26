@@ -49,16 +49,6 @@
     "https://thedfirreport.com/?p=50191"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=883621",
-    "https://www.crowdstrike.com/?p=491535",
-    "https://www.crowdstrike.com/?p=589162",
-    "https://www.crowdstrike.com/?p=343187",
-    "https://www.crowdstrike.com/?p=305229",
-    "https://www.crowdstrike.com/?p=158183",
-    "https://www.crowdstrike.com/?p=859102",
-    "https://www.crowdstrike.com/?p=761735",
-    "https://www.crowdstrike.com/?p=365915",
-    "https://www.crowdstrike.com/?p=774943",
     "https://www.crowdstrike.com/?p=783832",
     "https://www.crowdstrike.com/?p=816889",
     "https://www.crowdstrike.com/?p=356042",
@@ -198,7 +188,17 @@
     "https://www.crowdstrike.com/?p=730249",
     "https://www.crowdstrike.com/?p=354077",
     "https://www.crowdstrike.com/?p=571175",
-    "https://www.crowdstrike.com/?p=308483"
+    "https://www.crowdstrike.com/?p=308483",
+    "https://www.crowdstrike.com/?p=422690",
+    "https://www.crowdstrike.com/?p=737018",
+    "https://www.crowdstrike.com/?p=751203",
+    "https://www.crowdstrike.com/?p=685318",
+    "https://www.crowdstrike.com/?p=167637",
+    "https://www.crowdstrike.com/?p=719412",
+    "https://www.crowdstrike.com/?p=907575",
+    "https://www.crowdstrike.com/?p=457691",
+    "https://www.crowdstrike.com/?p=588240",
+    "https://www.crowdstrike.com/?p=370172"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -343,7 +343,8 @@
     "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
     "https://www.microsoft.com/en-us/security/blog/?p=148247",
     "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
-    "https://www.microsoft.com/en-us/security/blog/?p=148272"
+    "https://www.microsoft.com/en-us/security/blog/?p=148272",
+    "https://www.microsoft.com/en-us/security/blog/?p=148364"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
