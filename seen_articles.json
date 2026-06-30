@@ -346,7 +346,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
     "https://www.microsoft.com/en-us/security/blog/?p=148272",
     "https://www.microsoft.com/en-us/security/blog/?p=148364",
-    "https://www.microsoft.com/en-us/security/blog/?p=148432"
+    "https://www.microsoft.com/en-us/security/blog/?p=148432",
+    "https://www.microsoft.com/en-us/security/blog/?p=148103",
+    "https://www.microsoft.com/en-us/security/blog/?p=148445"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
