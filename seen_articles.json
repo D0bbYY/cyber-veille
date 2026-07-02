@@ -33,7 +33,8 @@
     "https://www.elastic.co/security-labs/rss/elastic-security-google-threat-intelligence",
     "https://www.elastic.co/security-labs/rss/oxloader-malware-loader-infostealer",
     "https://www.elastic.co/security-labs/rss/aad-graph-activity-logs-threat-detection",
-    "https://www.elastic.co/security-labs/rss/security-advisory-automation-rag-elastic-agent-builder"
+    "https://www.elastic.co/security-labs/rss/security-advisory-automation-rag-elastic-agent-builder",
+    "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-elastic-workflows"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
