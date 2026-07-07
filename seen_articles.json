@@ -51,16 +51,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=478745",
-    "https://www.crowdstrike.com/?p=162437",
-    "https://www.crowdstrike.com/?p=708857",
-    "https://www.crowdstrike.com/?p=741118",
-    "https://www.crowdstrike.com/?p=612759",
-    "https://www.crowdstrike.com/?p=798539",
-    "https://www.crowdstrike.com/?p=939522",
-    "https://www.crowdstrike.com/?p=263775",
-    "https://www.crowdstrike.com/?p=653003",
-    "https://www.crowdstrike.com/?p=146529",
     "https://www.crowdstrike.com/?p=283786",
     "https://www.crowdstrike.com/?p=177275",
     "https://www.crowdstrike.com/?p=330950",
@@ -200,7 +190,17 @@
     "https://www.crowdstrike.com/?p=946550",
     "https://www.crowdstrike.com/?p=498219",
     "https://www.crowdstrike.com/?p=196068",
-    "https://www.crowdstrike.com/?p=377020"
+    "https://www.crowdstrike.com/?p=377020",
+    "https://www.crowdstrike.com/?p=108131",
+    "https://www.crowdstrike.com/?p=975524",
+    "https://www.crowdstrike.com/?p=874268",
+    "https://www.crowdstrike.com/?p=782038",
+    "https://www.crowdstrike.com/?p=166002",
+    "https://www.crowdstrike.com/?p=944987",
+    "https://www.crowdstrike.com/?p=455475",
+    "https://www.crowdstrike.com/?p=540726",
+    "https://www.crowdstrike.com/?p=698440",
+    "https://www.crowdstrike.com/?p=953699"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -370,6 +370,8 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-april-recap.html",
     "https://www.splunk.com/en_us/blog/security/behind-the-code-layered-defense-evasion-vip-keylogger.html",
     "https://www.splunk.com/en_us/blog/security/detecting-copy-fail-cve-2026-31431-phenomenal-power-itty-bitty-script.html",
-    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-may-recap.html"
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-may-recap.html",
+    "https://www.splunk.com/en_us/blog/security/bundled-to-steal-salat-stealer-campaign.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-june-recap.html"
   ]
 }
