@@ -52,16 +52,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=602713",
-    "https://www.crowdstrike.com/?p=716032",
-    "https://www.crowdstrike.com/?p=855128",
-    "https://www.crowdstrike.com/?p=185594",
-    "https://www.crowdstrike.com/?p=650530",
-    "https://www.crowdstrike.com/?p=581256",
-    "https://www.crowdstrike.com/?p=331031",
-    "https://www.crowdstrike.com/?p=606249",
-    "https://www.crowdstrike.com/?p=408003",
-    "https://www.crowdstrike.com/?p=118490",
     "https://www.crowdstrike.com/?p=491073",
     "https://www.crowdstrike.com/?p=372564",
     "https://www.crowdstrike.com/?p=420311",
@@ -201,7 +191,17 @@
     "https://www.crowdstrike.com/?p=954983",
     "https://www.crowdstrike.com/?p=672006",
     "https://www.crowdstrike.com/?p=517946",
-    "https://www.crowdstrike.com/?p=295206"
+    "https://www.crowdstrike.com/?p=295206",
+    "https://www.crowdstrike.com/?p=234970",
+    "https://www.crowdstrike.com/?p=798144",
+    "https://www.crowdstrike.com/?p=609790",
+    "https://www.crowdstrike.com/?p=434260",
+    "https://www.crowdstrike.com/?p=639014",
+    "https://www.crowdstrike.com/?p=582890",
+    "https://www.crowdstrike.com/?p=831228",
+    "https://www.crowdstrike.com/?p=562214",
+    "https://www.crowdstrike.com/?p=700728",
+    "https://www.crowdstrike.com/?p=787089"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -358,7 +358,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148373",
     "https://www.microsoft.com/en-us/security/blog/?p=148425",
     "https://www.microsoft.com/en-us/security/blog/?p=146999",
-    "https://www.microsoft.com/en-us/security/blog/?p=148471"
+    "https://www.microsoft.com/en-us/security/blog/?p=148471",
+    "https://www.microsoft.com/en-us/security/blog/?p=148570"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
