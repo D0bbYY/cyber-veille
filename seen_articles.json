@@ -52,16 +52,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=820066",
-    "https://www.crowdstrike.com/?p=440709",
-    "https://www.crowdstrike.com/?p=249136",
-    "https://www.crowdstrike.com/?p=986232",
-    "https://www.crowdstrike.com/?p=256564",
-    "https://www.crowdstrike.com/?p=855857",
-    "https://www.crowdstrike.com/?p=615963",
-    "https://www.crowdstrike.com/?p=850105",
-    "https://www.crowdstrike.com/?p=313122",
-    "https://www.crowdstrike.com/?p=704434",
     "https://www.crowdstrike.com/?p=549387",
     "https://www.crowdstrike.com/?p=477861",
     "https://www.crowdstrike.com/?p=293005",
@@ -201,7 +191,17 @@
     "https://www.crowdstrike.com/?p=227807",
     "https://www.crowdstrike.com/?p=674462",
     "https://www.crowdstrike.com/?p=489379",
-    "https://www.crowdstrike.com/?p=936288"
+    "https://www.crowdstrike.com/?p=936288",
+    "https://www.crowdstrike.com/?p=990441",
+    "https://www.crowdstrike.com/?p=153156",
+    "https://www.crowdstrike.com/?p=160319",
+    "https://www.crowdstrike.com/?p=878394",
+    "https://www.crowdstrike.com/?p=325885",
+    "https://www.crowdstrike.com/?p=802876",
+    "https://www.crowdstrike.com/?p=614046",
+    "https://www.crowdstrike.com/?p=523831",
+    "https://www.crowdstrike.com/?p=263460",
+    "https://www.crowdstrike.com/?p=201305"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -361,7 +361,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=146999",
     "https://www.microsoft.com/en-us/security/blog/?p=148471",
     "https://www.microsoft.com/en-us/security/blog/?p=148570",
-    "https://www.microsoft.com/en-us/security/blog/?p=148538"
+    "https://www.microsoft.com/en-us/security/blog/?p=148538",
+    "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
