@@ -35,7 +35,8 @@
     "https://www.elastic.co/security-labs/rss/aad-graph-activity-logs-threat-detection",
     "https://www.elastic.co/security-labs/rss/security-advisory-automation-rag-elastic-agent-builder",
     "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-elastic-workflows",
-    "https://www.elastic.co/security-labs/rss/mexican-banking-fraud-scmbanker-ref6045"
+    "https://www.elastic.co/security-labs/rss/mexican-banking-fraud-scmbanker-ref6045",
+    "https://www.elastic.co/security-labs/rss/telepuz-maas-malware-clickfix"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
