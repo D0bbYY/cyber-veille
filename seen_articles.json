@@ -54,16 +54,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=148937",
-    "https://www.crowdstrike.com/?p=965659",
-    "https://www.crowdstrike.com/?p=286019",
-    "https://www.crowdstrike.com/?p=390356",
-    "https://www.crowdstrike.com/?p=877742",
-    "https://www.crowdstrike.com/?p=971777",
-    "https://www.crowdstrike.com/?p=333063",
-    "https://www.crowdstrike.com/?p=691360",
-    "https://www.crowdstrike.com/?p=610104",
-    "https://www.crowdstrike.com/?p=383256",
     "https://www.crowdstrike.com/?p=922904",
     "https://www.crowdstrike.com/?p=153943",
     "https://www.crowdstrike.com/?p=913260",
@@ -203,7 +193,17 @@
     "https://www.crowdstrike.com/?p=422844",
     "https://www.crowdstrike.com/?p=376166",
     "https://www.crowdstrike.com/?p=136550",
-    "https://www.crowdstrike.com/?p=541427"
+    "https://www.crowdstrike.com/?p=541427",
+    "https://www.crowdstrike.com/?p=695413",
+    "https://www.crowdstrike.com/?p=587887",
+    "https://www.crowdstrike.com/?p=499004",
+    "https://www.crowdstrike.com/?p=716603",
+    "https://www.crowdstrike.com/?p=193016",
+    "https://www.crowdstrike.com/?p=531682",
+    "https://www.crowdstrike.com/?p=980924",
+    "https://www.crowdstrike.com/?p=819488",
+    "https://www.crowdstrike.com/?p=676250",
+    "https://www.crowdstrike.com/?p=823104"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -375,7 +375,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148725",
     "https://www.microsoft.com/en-us/security/blog/?p=148645",
     "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
-    "https://www.microsoft.com/en-us/security/blog/?p=148744"
+    "https://www.microsoft.com/en-us/security/blog/?p=148744",
+    "https://www.microsoft.com/en-us/security/blog/?p=148627"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
