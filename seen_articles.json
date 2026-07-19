@@ -54,16 +54,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=349467",
-    "https://www.crowdstrike.com/?p=512271",
-    "https://www.crowdstrike.com/?p=119283",
-    "https://www.crowdstrike.com/?p=869039",
-    "https://www.crowdstrike.com/?p=763364",
-    "https://www.crowdstrike.com/?p=807413",
-    "https://www.crowdstrike.com/?p=214960",
-    "https://www.crowdstrike.com/?p=436870",
-    "https://www.crowdstrike.com/?p=193979",
-    "https://www.crowdstrike.com/?p=315214",
     "https://www.crowdstrike.com/?p=861676",
     "https://www.crowdstrike.com/?p=291131",
     "https://www.crowdstrike.com/?p=452972",
@@ -203,7 +193,17 @@
     "https://www.crowdstrike.com/?p=540234",
     "https://www.crowdstrike.com/?p=454415",
     "https://www.crowdstrike.com/?p=399802",
-    "https://www.crowdstrike.com/?p=237423"
+    "https://www.crowdstrike.com/?p=237423",
+    "https://www.crowdstrike.com/?p=963488",
+    "https://www.crowdstrike.com/?p=902428",
+    "https://www.crowdstrike.com/?p=298452",
+    "https://www.crowdstrike.com/?p=999990",
+    "https://www.crowdstrike.com/?p=975549",
+    "https://www.crowdstrike.com/?p=746110",
+    "https://www.crowdstrike.com/?p=918961",
+    "https://www.crowdstrike.com/?p=968150",
+    "https://www.crowdstrike.com/?p=111566",
+    "https://www.crowdstrike.com/?p=869475"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -376,7 +376,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148645",
     "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
     "https://www.microsoft.com/en-us/security/blog/?p=148744",
-    "https://www.microsoft.com/en-us/security/blog/?p=148627"
+    "https://www.microsoft.com/en-us/security/blog/?p=148627",
+    "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
