@@ -37,7 +37,8 @@
     "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-elastic-workflows",
     "https://www.elastic.co/security-labs/rss/mexican-banking-fraud-scmbanker-ref6045",
     "https://www.elastic.co/security-labs/rss/telepuz-maas-malware-clickfix",
-    "https://www.elastic.co/security-labs/rss/contagious-interview-malware-svg-steganography"
+    "https://www.elastic.co/security-labs/rss/contagious-interview-malware-svg-steganography",
+    "https://www.elastic.co/security-labs/rss/wp2shell-wordpress-rce-detection-elastic-defend"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -379,7 +380,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148627",
     "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
     "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
-    "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/"
+    "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
+    "https://www.microsoft.com/en-us/security/blog/?p=148660"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
