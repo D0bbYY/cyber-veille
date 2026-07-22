@@ -54,16 +54,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=319978",
-    "https://www.crowdstrike.com/?p=890743",
-    "https://www.crowdstrike.com/?p=614262",
-    "https://www.crowdstrike.com/?p=261251",
-    "https://www.crowdstrike.com/?p=772223",
-    "https://www.crowdstrike.com/?p=557863",
-    "https://www.crowdstrike.com/?p=764138",
-    "https://www.crowdstrike.com/?p=990436",
-    "https://www.crowdstrike.com/?p=396147",
-    "https://www.crowdstrike.com/?p=370288",
     "https://www.crowdstrike.com/?p=604976",
     "https://www.crowdstrike.com/?p=310221",
     "https://www.crowdstrike.com/?p=367584",
@@ -203,7 +193,17 @@
     "https://www.crowdstrike.com/?p=658684",
     "https://www.crowdstrike.com/?p=458723",
     "https://www.crowdstrike.com/?p=910667",
-    "https://www.crowdstrike.com/?p=878771"
+    "https://www.crowdstrike.com/?p=878771",
+    "https://www.crowdstrike.com/?p=831623",
+    "https://www.crowdstrike.com/?p=438565",
+    "https://www.crowdstrike.com/?p=985864",
+    "https://www.crowdstrike.com/?p=493827",
+    "https://www.crowdstrike.com/?p=215076",
+    "https://www.crowdstrike.com/?p=882753",
+    "https://www.crowdstrike.com/?p=527903",
+    "https://www.crowdstrike.com/?p=724814",
+    "https://www.crowdstrike.com/?p=880077",
+    "https://www.crowdstrike.com/?p=461470"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -378,7 +378,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148744",
     "https://www.microsoft.com/en-us/security/blog/?p=148627",
     "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
-    "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/"
+    "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
+    "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
