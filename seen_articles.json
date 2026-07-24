@@ -39,7 +39,8 @@
     "https://www.elastic.co/security-labs/rss/telepuz-maas-malware-clickfix",
     "https://www.elastic.co/security-labs/rss/contagious-interview-malware-svg-steganography",
     "https://www.elastic.co/security-labs/rss/wp2shell-wordpress-rce-detection-elastic-defend",
-    "https://www.elastic.co/security-labs/rss/esql-completion-curl-wget-detection-triage"
+    "https://www.elastic.co/security-labs/rss/esql-completion-curl-wget-detection-triage",
+    "https://www.elastic.co/security-labs/rss/agentic-soc-token-budget-architecture"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -56,16 +57,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=831623",
-    "https://www.crowdstrike.com/?p=438565",
-    "https://www.crowdstrike.com/?p=985864",
-    "https://www.crowdstrike.com/?p=493827",
-    "https://www.crowdstrike.com/?p=215076",
-    "https://www.crowdstrike.com/?p=882753",
-    "https://www.crowdstrike.com/?p=527903",
-    "https://www.crowdstrike.com/?p=724814",
-    "https://www.crowdstrike.com/?p=880077",
-    "https://www.crowdstrike.com/?p=461470",
     "https://www.crowdstrike.com/?p=939391",
     "https://www.crowdstrike.com/?p=253496",
     "https://www.crowdstrike.com/?p=843119",
@@ -205,7 +196,17 @@
     "https://www.crowdstrike.com/?p=779341",
     "https://www.crowdstrike.com/?p=157737",
     "https://www.crowdstrike.com/?p=376522",
-    "https://www.crowdstrike.com/?p=393241"
+    "https://www.crowdstrike.com/?p=393241",
+    "https://www.crowdstrike.com/?p=281917",
+    "https://www.crowdstrike.com/?p=700838",
+    "https://www.crowdstrike.com/?p=878465",
+    "https://www.crowdstrike.com/?p=291282",
+    "https://www.crowdstrike.com/?p=733057",
+    "https://www.crowdstrike.com/?p=580452",
+    "https://www.crowdstrike.com/?p=761037",
+    "https://www.crowdstrike.com/?p=322033",
+    "https://www.crowdstrike.com/?p=982998",
+    "https://www.crowdstrike.com/?p=126360"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
