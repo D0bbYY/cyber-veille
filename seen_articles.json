@@ -40,7 +40,8 @@
     "https://www.elastic.co/security-labs/rss/contagious-interview-malware-svg-steganography",
     "https://www.elastic.co/security-labs/rss/wp2shell-wordpress-rce-detection-elastic-defend",
     "https://www.elastic.co/security-labs/rss/esql-completion-curl-wget-detection-triage",
-    "https://www.elastic.co/security-labs/rss/agentic-soc-token-budget-architecture"
+    "https://www.elastic.co/security-labs/rss/agentic-soc-token-budget-architecture",
+    "https://www.elastic.co/security-labs/rss/ai-agent-optimization-production-scale"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -57,16 +58,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=974936",
-    "https://www.crowdstrike.com/?p=718565",
-    "https://www.crowdstrike.com/?p=677297",
-    "https://www.crowdstrike.com/?p=232584",
-    "https://www.crowdstrike.com/?p=241473",
-    "https://www.crowdstrike.com/?p=329528",
-    "https://www.crowdstrike.com/?p=703061",
-    "https://www.crowdstrike.com/?p=351189",
-    "https://www.crowdstrike.com/?p=188199",
-    "https://www.crowdstrike.com/?p=690304",
     "https://www.crowdstrike.com/?p=849989",
     "https://www.crowdstrike.com/?p=829029",
     "https://www.crowdstrike.com/?p=880991",
@@ -206,7 +197,17 @@
     "https://www.crowdstrike.com/?p=296057",
     "https://www.crowdstrike.com/?p=158003",
     "https://www.crowdstrike.com/?p=282858",
-    "https://www.crowdstrike.com/?p=428888"
+    "https://www.crowdstrike.com/?p=428888",
+    "https://www.crowdstrike.com/?p=797772",
+    "https://www.crowdstrike.com/?p=413188",
+    "https://www.crowdstrike.com/?p=542422",
+    "https://www.crowdstrike.com/?p=313673",
+    "https://www.crowdstrike.com/?p=664685",
+    "https://www.crowdstrike.com/?p=275870",
+    "https://www.crowdstrike.com/?p=389463",
+    "https://www.crowdstrike.com/?p=590398",
+    "https://www.crowdstrike.com/?p=441421",
+    "https://www.crowdstrike.com/?p=661117"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
