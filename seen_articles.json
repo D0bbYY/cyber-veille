@@ -42,7 +42,8 @@
     "https://www.elastic.co/security-labs/rss/esql-completion-curl-wget-detection-triage",
     "https://www.elastic.co/security-labs/rss/agentic-soc-token-budget-architecture",
     "https://www.elastic.co/security-labs/rss/ai-agent-optimization-production-scale",
-    "https://www.elastic.co/security-labs/rss/sentinel-detection-rules-migration"
+    "https://www.elastic.co/security-labs/rss/sentinel-detection-rules-migration",
+    "https://www.elastic.co/security-labs/rss/ai-agent-attack-detection-hugging-face-breach"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
