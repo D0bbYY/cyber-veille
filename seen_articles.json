@@ -60,16 +60,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=254965",
-    "https://www.crowdstrike.com/?p=468416",
-    "https://www.crowdstrike.com/?p=927128",
-    "https://www.crowdstrike.com/?p=975587",
-    "https://www.crowdstrike.com/?p=604329",
-    "https://www.crowdstrike.com/?p=317670",
-    "https://www.crowdstrike.com/?p=141111",
-    "https://www.crowdstrike.com/?p=979615",
-    "https://www.crowdstrike.com/?p=541995",
-    "https://www.crowdstrike.com/?p=105003",
     "https://www.crowdstrike.com/?p=308130",
     "https://www.crowdstrike.com/?p=726483",
     "https://www.crowdstrike.com/?p=504607",
@@ -209,7 +199,17 @@
     "https://www.crowdstrike.com/?p=426015",
     "https://www.crowdstrike.com/?p=249462",
     "https://www.crowdstrike.com/?p=376788",
-    "https://www.crowdstrike.com/?p=197981"
+    "https://www.crowdstrike.com/?p=197981",
+    "https://www.crowdstrike.com/?p=609753",
+    "https://www.crowdstrike.com/?p=358304",
+    "https://www.crowdstrike.com/?p=761986",
+    "https://www.crowdstrike.com/?p=331703",
+    "https://www.crowdstrike.com/?p=174837",
+    "https://www.crowdstrike.com/?p=338801",
+    "https://www.crowdstrike.com/?p=522707",
+    "https://www.crowdstrike.com/?p=508342",
+    "https://www.crowdstrike.com/?p=737491",
+    "https://www.crowdstrike.com/?p=562902"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -397,7 +397,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148771",
     "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
     "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
-    "https://www.microsoft.com/en-us/security/blog/?p=148825"
+    "https://www.microsoft.com/en-us/security/blog/?p=148825",
+    "https://www.microsoft.com/en-us/security/blog/?p=148838"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
