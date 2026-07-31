@@ -402,7 +402,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
     "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
     "https://www.microsoft.com/en-us/security/blog/?p=148825",
-    "https://www.microsoft.com/en-us/security/blog/?p=148838"
+    "https://www.microsoft.com/en-us/security/blog/?p=148838",
+    "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
