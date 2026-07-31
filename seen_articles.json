@@ -43,7 +43,10 @@
     "https://www.elastic.co/security-labs/rss/agentic-soc-token-budget-architecture",
     "https://www.elastic.co/security-labs/rss/ai-agent-optimization-production-scale",
     "https://www.elastic.co/security-labs/rss/sentinel-detection-rules-migration",
-    "https://www.elastic.co/security-labs/rss/ai-agent-attack-detection-hugging-face-breach"
+    "https://www.elastic.co/security-labs/rss/ai-agent-attack-detection-hugging-face-breach",
+    "https://www.elastic.co/security-labs/rss/agentic-soc-alert-triage-alertzero",
+    "https://www.elastic.co/security-labs/rss/elastic-security-black-hat-defcon-2026",
+    "https://www.elastic.co/security-labs/rss/vulnerable-driver-detection-elastic-defend-byovd"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
