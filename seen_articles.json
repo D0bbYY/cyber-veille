@@ -47,7 +47,8 @@
     "https://www.elastic.co/security-labs/rss/agentic-soc-alert-triage-alertzero",
     "https://www.elastic.co/security-labs/rss/elastic-security-black-hat-defcon-2026",
     "https://www.elastic.co/security-labs/rss/vulnerable-driver-detection-elastic-defend-byovd",
-    "https://www.elastic.co/security-labs/rss/llm-benchmarking-agentic-soc"
+    "https://www.elastic.co/security-labs/rss/llm-benchmarking-agentic-soc",
+    "https://www.elastic.co/security-labs/rss/soc-case-management-detection-rule-history"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -64,16 +65,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=577204",
-    "https://www.crowdstrike.com/?p=580017",
-    "https://www.crowdstrike.com/?p=732744",
-    "https://www.crowdstrike.com/?p=876218",
-    "https://www.crowdstrike.com/?p=540598",
-    "https://www.crowdstrike.com/?p=726731",
-    "https://www.crowdstrike.com/?p=626977",
-    "https://www.crowdstrike.com/?p=131382",
-    "https://www.crowdstrike.com/?p=670039",
-    "https://www.crowdstrike.com/?p=938063",
     "https://www.crowdstrike.com/?p=934967",
     "https://www.crowdstrike.com/?p=871233",
     "https://www.crowdstrike.com/?p=894844",
@@ -213,7 +204,17 @@
     "https://www.crowdstrike.com/?p=961424",
     "https://www.crowdstrike.com/?p=941203",
     "https://www.crowdstrike.com/?p=714982",
-    "https://www.crowdstrike.com/?p=682972"
+    "https://www.crowdstrike.com/?p=682972",
+    "https://www.crowdstrike.com/?p=683069",
+    "https://www.crowdstrike.com/?p=687174",
+    "https://www.crowdstrike.com/?p=976891",
+    "https://www.crowdstrike.com/?p=292604",
+    "https://www.crowdstrike.com/?p=920043",
+    "https://www.crowdstrike.com/?p=991393",
+    "https://www.crowdstrike.com/?p=984799",
+    "https://www.crowdstrike.com/?p=993342",
+    "https://www.crowdstrike.com/?p=137774",
+    "https://www.crowdstrike.com/?p=500903"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
