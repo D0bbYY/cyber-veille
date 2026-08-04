@@ -66,16 +66,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=296300",
-    "https://www.crowdstrike.com/?p=455653",
-    "https://www.crowdstrike.com/?p=133473",
-    "https://www.crowdstrike.com/?p=893976",
-    "https://www.crowdstrike.com/?p=739467",
-    "https://www.crowdstrike.com/?p=201779",
-    "https://www.crowdstrike.com/?p=237201",
-    "https://www.crowdstrike.com/?p=110846",
-    "https://www.crowdstrike.com/?p=387638",
-    "https://www.crowdstrike.com/?p=182925",
     "https://www.crowdstrike.com/?p=225545",
     "https://www.crowdstrike.com/?p=189035",
     "https://www.crowdstrike.com/?p=346318",
@@ -215,7 +205,17 @@
     "https://www.crowdstrike.com/?p=729278",
     "https://www.crowdstrike.com/?p=192825",
     "https://www.crowdstrike.com/?p=641318",
-    "https://www.crowdstrike.com/?p=293340"
+    "https://www.crowdstrike.com/?p=293340",
+    "https://www.crowdstrike.com/?p=509758",
+    "https://www.crowdstrike.com/?p=190871",
+    "https://www.crowdstrike.com/?p=192540",
+    "https://www.crowdstrike.com/?p=545362",
+    "https://www.crowdstrike.com/?p=848203",
+    "https://www.crowdstrike.com/?p=453769",
+    "https://www.crowdstrike.com/?p=397594",
+    "https://www.crowdstrike.com/?p=481039",
+    "https://www.crowdstrike.com/?p=733098",
+    "https://www.crowdstrike.com/?p=200104"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -412,7 +412,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
     "https://www.microsoft.com/en-us/security/blog/?p=148935",
     "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
-    "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/"
+    "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
+    "https://www.microsoft.com/en-us/security/blog/?p=148773",
+    "https://www.microsoft.com/en-us/security/blog/?p=148812"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
