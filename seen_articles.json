@@ -48,7 +48,8 @@
     "https://www.elastic.co/security-labs/rss/elastic-security-black-hat-defcon-2026",
     "https://www.elastic.co/security-labs/rss/vulnerable-driver-detection-elastic-defend-byovd",
     "https://www.elastic.co/security-labs/rss/llm-benchmarking-agentic-soc",
-    "https://www.elastic.co/security-labs/rss/soc-case-management-detection-rule-history"
+    "https://www.elastic.co/security-labs/rss/soc-case-management-detection-rule-history",
+    "https://www.elastic.co/security-labs/rss/ai-vulnerability-triage-bug-bounty-hackerone"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -65,16 +66,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=354650",
-    "https://www.crowdstrike.com/?p=529220",
-    "https://www.crowdstrike.com/?p=129039",
-    "https://www.crowdstrike.com/?p=406853",
-    "https://www.crowdstrike.com/?p=320698",
-    "https://www.crowdstrike.com/?p=258848",
-    "https://www.crowdstrike.com/?p=739642",
-    "https://www.crowdstrike.com/?p=907015",
-    "https://www.crowdstrike.com/?p=834934",
-    "https://www.crowdstrike.com/?p=871949",
     "https://www.crowdstrike.com/?p=296300",
     "https://www.crowdstrike.com/?p=455653",
     "https://www.crowdstrike.com/?p=133473",
@@ -214,7 +205,17 @@
     "https://www.crowdstrike.com/?p=582166",
     "https://www.crowdstrike.com/?p=484240",
     "https://www.crowdstrike.com/?p=776831",
-    "https://www.crowdstrike.com/?p=303484"
+    "https://www.crowdstrike.com/?p=303484",
+    "https://www.crowdstrike.com/?p=499348",
+    "https://www.crowdstrike.com/?p=365567",
+    "https://www.crowdstrike.com/?p=170245",
+    "https://www.crowdstrike.com/?p=716562",
+    "https://www.crowdstrike.com/?p=138185",
+    "https://www.crowdstrike.com/?p=423569",
+    "https://www.crowdstrike.com/?p=729278",
+    "https://www.crowdstrike.com/?p=192825",
+    "https://www.crowdstrike.com/?p=641318",
+    "https://www.crowdstrike.com/?p=293340"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
