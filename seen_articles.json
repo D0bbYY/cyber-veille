@@ -65,16 +65,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=811332",
-    "https://www.crowdstrike.com/?p=707777",
-    "https://www.crowdstrike.com/?p=524407",
-    "https://www.crowdstrike.com/?p=312953",
-    "https://www.crowdstrike.com/?p=497581",
-    "https://www.crowdstrike.com/?p=975087",
-    "https://www.crowdstrike.com/?p=457153",
-    "https://www.crowdstrike.com/?p=863741",
-    "https://www.crowdstrike.com/?p=395684",
-    "https://www.crowdstrike.com/?p=185311",
     "https://www.crowdstrike.com/?p=354650",
     "https://www.crowdstrike.com/?p=529220",
     "https://www.crowdstrike.com/?p=129039",
@@ -214,7 +204,17 @@
     "https://www.crowdstrike.com/?p=325389",
     "https://www.crowdstrike.com/?p=888380",
     "https://www.crowdstrike.com/?p=624707",
-    "https://www.crowdstrike.com/?p=854846"
+    "https://www.crowdstrike.com/?p=854846",
+    "https://www.crowdstrike.com/?p=753675",
+    "https://www.crowdstrike.com/?p=603495",
+    "https://www.crowdstrike.com/?p=117729",
+    "https://www.crowdstrike.com/?p=493354",
+    "https://www.crowdstrike.com/?p=796299",
+    "https://www.crowdstrike.com/?p=986837",
+    "https://www.crowdstrike.com/?p=582166",
+    "https://www.crowdstrike.com/?p=484240",
+    "https://www.crowdstrike.com/?p=776831",
+    "https://www.crowdstrike.com/?p=303484"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -265,7 +265,9 @@
     "https://unit42.paloaltonetworks.com/?p=184075",
     "https://unit42.paloaltonetworks.com/?p=184241",
     "https://unit42.paloaltonetworks.com/?p=183840",
-    "https://unit42.paloaltonetworks.com/?p=184120"
+    "https://unit42.paloaltonetworks.com/?p=184120",
+    "https://unit42.paloaltonetworks.com/?p=183957",
+    "https://unit42.paloaltonetworks.com/?p=184389"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/?p=146783",
@@ -408,7 +410,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148838",
     "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
     "https://www.microsoft.com/en-us/security/blog/?p=148935",
-    "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
+    "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+    "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
