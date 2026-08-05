@@ -49,7 +49,8 @@
     "https://www.elastic.co/security-labs/rss/vulnerable-driver-detection-elastic-defend-byovd",
     "https://www.elastic.co/security-labs/rss/llm-benchmarking-agentic-soc",
     "https://www.elastic.co/security-labs/rss/soc-case-management-detection-rule-history",
-    "https://www.elastic.co/security-labs/rss/ai-vulnerability-triage-bug-bounty-hackerone"
+    "https://www.elastic.co/security-labs/rss/ai-vulnerability-triage-bug-bounty-hackerone",
+    "https://www.elastic.co/security-labs/rss/shai-hulud-chaindrop-npm-supply-chain"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
