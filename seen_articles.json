@@ -66,16 +66,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=959015",
-    "https://www.crowdstrike.com/?p=724208",
-    "https://www.crowdstrike.com/?p=290865",
-    "https://www.crowdstrike.com/?p=950340",
-    "https://www.crowdstrike.com/?p=149096",
-    "https://www.crowdstrike.com/?p=493118",
-    "https://www.crowdstrike.com/?p=715939",
-    "https://www.crowdstrike.com/?p=472893",
-    "https://www.crowdstrike.com/?p=212923",
-    "https://www.crowdstrike.com/?p=100655",
     "https://www.crowdstrike.com/?p=975998",
     "https://www.crowdstrike.com/?p=711873",
     "https://www.crowdstrike.com/?p=456490",
@@ -215,7 +205,17 @@
     "https://www.crowdstrike.com/?p=855251",
     "https://www.crowdstrike.com/?p=903361",
     "https://www.crowdstrike.com/?p=778450",
-    "https://www.crowdstrike.com/?p=649872"
+    "https://www.crowdstrike.com/?p=649872",
+    "https://www.crowdstrike.com/?p=184538",
+    "https://www.crowdstrike.com/?p=548624",
+    "https://www.crowdstrike.com/?p=976295",
+    "https://www.crowdstrike.com/?p=671173",
+    "https://www.crowdstrike.com/?p=991975",
+    "https://www.crowdstrike.com/?p=255797",
+    "https://www.crowdstrike.com/?p=627437",
+    "https://www.crowdstrike.com/?p=406676",
+    "https://www.crowdstrike.com/?p=752510",
+    "https://www.crowdstrike.com/?p=713411"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -415,7 +415,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
     "https://www.microsoft.com/en-us/security/blog/?p=148773",
     "https://www.microsoft.com/en-us/security/blog/?p=148812",
-    "https://www.microsoft.com/en-us/security/blog/?p=148998"
+    "https://www.microsoft.com/en-us/security/blog/?p=148998",
+    "https://www.microsoft.com/en-us/security/blog/?p=148884",
+    "https://www.microsoft.com/en-us/security/blog/?p=148855"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
