@@ -51,7 +51,8 @@
     "https://www.elastic.co/security-labs/rss/soc-case-management-detection-rule-history",
     "https://www.elastic.co/security-labs/rss/ai-vulnerability-triage-bug-bounty-hackerone",
     "https://www.elastic.co/security-labs/rss/shai-hulud-chaindrop-npm-supply-chain",
-    "https://www.elastic.co/security-labs/rss/npm-cooldown-removal-detection-elastic-agent"
+    "https://www.elastic.co/security-labs/rss/npm-cooldown-removal-detection-elastic-agent",
+    "https://www.elastic.co/security-labs/rss/coding-agent-launchagent-tunnel-detection"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
