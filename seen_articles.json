@@ -69,16 +69,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=767170",
-    "https://www.crowdstrike.com/?p=390319",
-    "https://www.crowdstrike.com/?p=994560",
-    "https://www.crowdstrike.com/?p=629941",
-    "https://www.crowdstrike.com/?p=731680",
-    "https://www.crowdstrike.com/?p=706862",
-    "https://www.crowdstrike.com/?p=950454",
-    "https://www.crowdstrike.com/?p=992072",
-    "https://www.crowdstrike.com/?p=829567",
-    "https://www.crowdstrike.com/?p=117347",
     "https://www.crowdstrike.com/?p=371742",
     "https://www.crowdstrike.com/?p=262796",
     "https://www.crowdstrike.com/?p=613146",
@@ -218,7 +208,17 @@
     "https://www.crowdstrike.com/?p=601336",
     "https://www.crowdstrike.com/?p=943754",
     "https://www.crowdstrike.com/?p=211091",
-    "https://www.crowdstrike.com/?p=676666"
+    "https://www.crowdstrike.com/?p=676666",
+    "https://www.crowdstrike.com/?p=292813",
+    "https://www.crowdstrike.com/?p=242659",
+    "https://www.crowdstrike.com/?p=771855",
+    "https://www.crowdstrike.com/?p=530195",
+    "https://www.crowdstrike.com/?p=768094",
+    "https://www.crowdstrike.com/?p=660303",
+    "https://www.crowdstrike.com/?p=377111",
+    "https://www.crowdstrike.com/?p=446385",
+    "https://www.crowdstrike.com/?p=862604",
+    "https://www.crowdstrike.com/?p=548324"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -273,7 +273,8 @@
     "https://unit42.paloaltonetworks.com/?p=183957",
     "https://unit42.paloaltonetworks.com/?p=184389",
     "https://unit42.paloaltonetworks.com/?p=184882",
-    "https://unit42.paloaltonetworks.com/?p=184924"
+    "https://unit42.paloaltonetworks.com/?p=184924",
+    "https://unit42.paloaltonetworks.com/?p=184235"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/?p=146783",
@@ -422,7 +423,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148812",
     "https://www.microsoft.com/en-us/security/blog/?p=148998",
     "https://www.microsoft.com/en-us/security/blog/?p=148884",
-    "https://www.microsoft.com/en-us/security/blog/?p=148855"
+    "https://www.microsoft.com/en-us/security/blog/?p=148855",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
