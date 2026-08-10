@@ -277,7 +277,6 @@
     "https://unit42.paloaltonetworks.com/?p=184235"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146852",
     "https://www.microsoft.com/en-us/security/blog/?p=146716",
     "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
     "https://www.microsoft.com/en-us/security/blog/?p=146546",
@@ -426,7 +425,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
     "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
     "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149064"
+    "https://www.microsoft.com/en-us/security/blog/?p=149064",
+    "https://www.microsoft.com/en-us/security/blog/?p=148928"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
