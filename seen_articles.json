@@ -69,16 +69,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=799988",
-    "https://www.crowdstrike.com/?p=490435",
-    "https://www.crowdstrike.com/?p=718841",
-    "https://www.crowdstrike.com/?p=215638",
-    "https://www.crowdstrike.com/?p=928310",
-    "https://www.crowdstrike.com/?p=516900",
-    "https://www.crowdstrike.com/?p=349424",
-    "https://www.crowdstrike.com/?p=995074",
-    "https://www.crowdstrike.com/?p=124286",
-    "https://www.crowdstrike.com/?p=848714",
     "https://www.crowdstrike.com/?p=654516",
     "https://www.crowdstrike.com/?p=406785",
     "https://www.crowdstrike.com/?p=996309",
@@ -218,7 +208,17 @@
     "https://www.crowdstrike.com/?p=934788",
     "https://www.crowdstrike.com/?p=261422",
     "https://www.crowdstrike.com/?p=525012",
-    "https://www.crowdstrike.com/?p=551086"
+    "https://www.crowdstrike.com/?p=551086",
+    "https://www.crowdstrike.com/?p=343931",
+    "https://www.crowdstrike.com/?p=651794",
+    "https://www.crowdstrike.com/?p=652327",
+    "https://www.crowdstrike.com/?p=822041",
+    "https://www.crowdstrike.com/?p=982793",
+    "https://www.crowdstrike.com/?p=418656",
+    "https://www.crowdstrike.com/?p=931950",
+    "https://www.crowdstrike.com/?p=664959",
+    "https://www.crowdstrike.com/?p=916927",
+    "https://www.crowdstrike.com/?p=548883"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -425,7 +425,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=148884",
     "https://www.microsoft.com/en-us/security/blog/?p=148855",
     "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-    "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/"
+    "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
+    "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
