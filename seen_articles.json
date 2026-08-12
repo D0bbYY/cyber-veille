@@ -69,16 +69,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=898068",
-    "https://www.crowdstrike.com/?p=961386",
-    "https://www.crowdstrike.com/?p=308615",
-    "https://www.crowdstrike.com/?p=659601",
-    "https://www.crowdstrike.com/?p=276065",
-    "https://www.crowdstrike.com/?p=893768",
-    "https://www.crowdstrike.com/?p=921188",
-    "https://www.crowdstrike.com/?p=142145",
-    "https://www.crowdstrike.com/?p=847069",
-    "https://www.crowdstrike.com/?p=207933",
     "https://www.crowdstrike.com/?p=183726",
     "https://www.crowdstrike.com/?p=954637",
     "https://www.crowdstrike.com/?p=862108",
@@ -218,7 +208,17 @@
     "https://www.crowdstrike.com/?p=683968",
     "https://www.crowdstrike.com/?p=970926",
     "https://www.crowdstrike.com/?p=789825",
-    "https://www.crowdstrike.com/?p=676511"
+    "https://www.crowdstrike.com/?p=676511",
+    "https://www.crowdstrike.com/?p=988557",
+    "https://www.crowdstrike.com/?p=692019",
+    "https://www.crowdstrike.com/?p=422988",
+    "https://www.crowdstrike.com/?p=345596",
+    "https://www.crowdstrike.com/?p=882261",
+    "https://www.crowdstrike.com/?p=888113",
+    "https://www.crowdstrike.com/?p=309736",
+    "https://www.crowdstrike.com/?p=803753",
+    "https://www.crowdstrike.com/?p=540569",
+    "https://www.crowdstrike.com/?p=413282"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -279,7 +279,6 @@
     "https://unit42.paloaltonetworks.com/?p=185086"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146716",
     "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
     "https://www.microsoft.com/en-us/security/blog/?p=146546",
     "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
@@ -428,7 +427,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
     "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
     "https://www.microsoft.com/en-us/security/blog/?p=149064",
-    "https://www.microsoft.com/en-us/security/blog/?p=148928"
+    "https://www.microsoft.com/en-us/security/blog/?p=148928",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
