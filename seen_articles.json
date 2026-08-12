@@ -279,7 +279,6 @@
     "https://unit42.paloaltonetworks.com/?p=185086"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
     "https://www.microsoft.com/en-us/security/blog/?p=146546",
     "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
     "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
@@ -428,7 +427,8 @@
     "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
     "https://www.microsoft.com/en-us/security/blog/?p=149064",
     "https://www.microsoft.com/en-us/security/blog/?p=148928",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
