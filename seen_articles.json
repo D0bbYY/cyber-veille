@@ -70,16 +70,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=924477",
-    "https://www.crowdstrike.com/?p=519179",
-    "https://www.crowdstrike.com/?p=136456",
-    "https://www.crowdstrike.com/?p=476754",
-    "https://www.crowdstrike.com/?p=521097",
-    "https://www.crowdstrike.com/?p=141157",
-    "https://www.crowdstrike.com/?p=250587",
-    "https://www.crowdstrike.com/?p=448704",
-    "https://www.crowdstrike.com/?p=617617",
-    "https://www.crowdstrike.com/?p=296404",
     "https://www.crowdstrike.com/?p=742396",
     "https://www.crowdstrike.com/?p=304861",
     "https://www.crowdstrike.com/?p=870655",
@@ -219,7 +209,17 @@
     "https://www.crowdstrike.com/?p=340947",
     "https://www.crowdstrike.com/?p=675545",
     "https://www.crowdstrike.com/?p=130874",
-    "https://www.crowdstrike.com/?p=381406"
+    "https://www.crowdstrike.com/?p=381406",
+    "https://www.crowdstrike.com/?p=476158",
+    "https://www.crowdstrike.com/?p=907895",
+    "https://www.crowdstrike.com/?p=873860",
+    "https://www.crowdstrike.com/?p=528495",
+    "https://www.crowdstrike.com/?p=552776",
+    "https://www.crowdstrike.com/?p=350387",
+    "https://www.crowdstrike.com/?p=884710",
+    "https://www.crowdstrike.com/?p=885667",
+    "https://www.crowdstrike.com/?p=567646",
+    "https://www.crowdstrike.com/?p=588964"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -280,7 +280,6 @@
     "https://unit42.paloaltonetworks.com/?p=185086"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146546",
     "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
     "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
     "https://www.microsoft.com/en-us/security/blog/?p=146516",
@@ -429,7 +428,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149064",
     "https://www.microsoft.com/en-us/security/blog/?p=148928",
     "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+    "https://www.microsoft.com/en-us/security/blog/?p=149127"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
