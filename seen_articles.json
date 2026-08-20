@@ -70,16 +70,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=543965",
-    "https://www.crowdstrike.com/?p=777748",
-    "https://www.crowdstrike.com/?p=920323",
-    "https://www.crowdstrike.com/?p=581654",
-    "https://www.crowdstrike.com/?p=160187",
-    "https://www.crowdstrike.com/?p=652640",
-    "https://www.crowdstrike.com/?p=589527",
-    "https://www.crowdstrike.com/?p=223505",
-    "https://www.crowdstrike.com/?p=904470",
-    "https://www.crowdstrike.com/?p=772752",
     "https://www.crowdstrike.com/?p=327842",
     "https://www.crowdstrike.com/?p=998404",
     "https://www.crowdstrike.com/?p=443292",
@@ -219,7 +209,17 @@
     "https://www.crowdstrike.com/?p=180885",
     "https://www.crowdstrike.com/?p=662771",
     "https://www.crowdstrike.com/?p=754483",
-    "https://www.crowdstrike.com/?p=499070"
+    "https://www.crowdstrike.com/?p=499070",
+    "https://www.crowdstrike.com/?p=991297",
+    "https://www.crowdstrike.com/?p=272917",
+    "https://www.crowdstrike.com/?p=651306",
+    "https://www.crowdstrike.com/?p=777862",
+    "https://www.crowdstrike.com/?p=111357",
+    "https://www.crowdstrike.com/?p=590638",
+    "https://www.crowdstrike.com/?p=388978",
+    "https://www.crowdstrike.com/?p=899468",
+    "https://www.crowdstrike.com/?p=874644",
+    "https://www.crowdstrike.com/?p=791380"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -277,7 +277,8 @@
     "https://unit42.paloaltonetworks.com/?p=184924",
     "https://unit42.paloaltonetworks.com/?p=184235",
     "https://unit42.paloaltonetworks.com/?p=185207",
-    "https://unit42.paloaltonetworks.com/?p=185086"
+    "https://unit42.paloaltonetworks.com/?p=185086",
+    "https://unit42.paloaltonetworks.com/?p=185799"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
