@@ -282,7 +282,6 @@
     "https://unit42.paloaltonetworks.com/?p=185935"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
     "https://www.microsoft.com/en-us/security/blog/?p=146516",
     "https://www.microsoft.com/en-us/security/blog/?p=146554",
     "https://www.microsoft.com/en-us/security/blog/?p=146550",
@@ -431,7 +430,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
     "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
     "https://www.microsoft.com/en-us/security/blog/?p=149127",
-    "https://www.microsoft.com/en-us/security/blog/?p=149095"
+    "https://www.microsoft.com/en-us/security/blog/?p=149095",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
