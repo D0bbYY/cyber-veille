@@ -53,7 +53,8 @@
     "https://www.elastic.co/security-labs/rss/shai-hulud-chaindrop-npm-supply-chain",
     "https://www.elastic.co/security-labs/rss/npm-cooldown-removal-detection-elastic-agent",
     "https://www.elastic.co/security-labs/rss/coding-agent-launchagent-tunnel-detection",
-    "https://www.elastic.co/security-labs/rss/ai-coding-agent-audit-cursor-hooks"
+    "https://www.elastic.co/security-labs/rss/ai-coding-agent-audit-cursor-hooks",
+    "https://www.elastic.co/security-labs/rss/entity-resolution-identity-scoring-elastic-security"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -70,16 +71,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=509375",
-    "https://www.crowdstrike.com/?p=802081",
-    "https://www.crowdstrike.com/?p=926088",
-    "https://www.crowdstrike.com/?p=279934",
-    "https://www.crowdstrike.com/?p=449183",
-    "https://www.crowdstrike.com/?p=855550",
-    "https://www.crowdstrike.com/?p=894222",
-    "https://www.crowdstrike.com/?p=809844",
-    "https://www.crowdstrike.com/?p=575105",
-    "https://www.crowdstrike.com/?p=255512",
     "https://www.crowdstrike.com/?p=216276",
     "https://www.crowdstrike.com/?p=132427",
     "https://www.crowdstrike.com/?p=455359",
@@ -219,7 +210,17 @@
     "https://www.crowdstrike.com/?p=514106",
     "https://www.crowdstrike.com/?p=963996",
     "https://www.crowdstrike.com/?p=796277",
-    "https://www.crowdstrike.com/?p=457173"
+    "https://www.crowdstrike.com/?p=457173",
+    "https://www.crowdstrike.com/?p=106424",
+    "https://www.crowdstrike.com/?p=682333",
+    "https://www.crowdstrike.com/?p=327169",
+    "https://www.crowdstrike.com/?p=224740",
+    "https://www.crowdstrike.com/?p=520981",
+    "https://www.crowdstrike.com/?p=990626",
+    "https://www.crowdstrike.com/?p=588624",
+    "https://www.crowdstrike.com/?p=661624",
+    "https://www.crowdstrike.com/?p=998889",
+    "https://www.crowdstrike.com/?p=822659"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
