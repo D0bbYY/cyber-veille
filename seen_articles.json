@@ -71,16 +71,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=150609",
-    "https://www.crowdstrike.com/?p=639187",
-    "https://www.crowdstrike.com/?p=393899",
-    "https://www.crowdstrike.com/?p=207136",
-    "https://www.crowdstrike.com/?p=769598",
-    "https://www.crowdstrike.com/?p=695029",
-    "https://www.crowdstrike.com/?p=471715",
-    "https://www.crowdstrike.com/?p=844922",
-    "https://www.crowdstrike.com/?p=812798",
-    "https://www.crowdstrike.com/?p=515264",
     "https://www.crowdstrike.com/?p=882012",
     "https://www.crowdstrike.com/?p=351245",
     "https://www.crowdstrike.com/?p=940170",
@@ -220,7 +210,17 @@
     "https://www.crowdstrike.com/?p=776181",
     "https://www.crowdstrike.com/?p=530631",
     "https://www.crowdstrike.com/?p=982298",
-    "https://www.crowdstrike.com/?p=901878"
+    "https://www.crowdstrike.com/?p=901878",
+    "https://www.crowdstrike.com/?p=529211",
+    "https://www.crowdstrike.com/?p=694519",
+    "https://www.crowdstrike.com/?p=391378",
+    "https://www.crowdstrike.com/?p=278742",
+    "https://www.crowdstrike.com/?p=200407",
+    "https://www.crowdstrike.com/?p=673261",
+    "https://www.crowdstrike.com/?p=116451",
+    "https://www.crowdstrike.com/?p=693842",
+    "https://www.crowdstrike.com/?p=306132",
+    "https://www.crowdstrike.com/?p=612911"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -283,7 +283,6 @@
     "https://unit42.paloaltonetworks.com/?p=185935"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146516",
     "https://www.microsoft.com/en-us/security/blog/?p=146554",
     "https://www.microsoft.com/en-us/security/blog/?p=146550",
     "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
@@ -432,7 +431,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
     "https://www.microsoft.com/en-us/security/blog/?p=149127",
     "https://www.microsoft.com/en-us/security/blog/?p=149095",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
