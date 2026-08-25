@@ -54,7 +54,8 @@
     "https://www.elastic.co/security-labs/rss/npm-cooldown-removal-detection-elastic-agent",
     "https://www.elastic.co/security-labs/rss/coding-agent-launchagent-tunnel-detection",
     "https://www.elastic.co/security-labs/rss/ai-coding-agent-audit-cursor-hooks",
-    "https://www.elastic.co/security-labs/rss/entity-resolution-identity-scoring-elastic-security"
+    "https://www.elastic.co/security-labs/rss/entity-resolution-identity-scoring-elastic-security",
+    "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-self-correcting-agents"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
