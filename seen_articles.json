@@ -55,7 +55,22 @@
     "https://www.elastic.co/security-labs/rss/coding-agent-launchagent-tunnel-detection",
     "https://www.elastic.co/security-labs/rss/ai-coding-agent-audit-cursor-hooks",
     "https://www.elastic.co/security-labs/rss/entity-resolution-identity-scoring-elastic-security",
-    "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-self-correcting-agents"
+    "https://www.elastic.co/security-labs/rss/alert-triage-agentic-soc-self-correcting-agents",
+    "alert-triage-agentic-soc-self-correcting-agents",
+    "entity-resolution-identity-scoring-elastic-security",
+    "ai-coding-agent-audit-cursor-hooks",
+    "npm-cooldown-removal-detection-elastic-agent",
+    "ai-vulnerability-triage-bug-bounty-hackerone",
+    "soc-case-management-detection-rule-history",
+    "elastic-security-black-hat-defcon-2026",
+    "agentic-soc-alert-triage-alertzero",
+    "vulnerable-driver-detection-elastic-defend-byovd",
+    "sentinel-detection-rules-migration",
+    "ai-agent-optimization-production-scale",
+    "agentic-soc-token-budget-architecture",
+    "esql-completion-curl-wget-detection-triage",
+    "wp2shell-wordpress-rce-detection-elastic-defend",
+    "alert-triage-agentic-soc-elastic-workflows"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -72,16 +87,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=620307",
-    "https://www.crowdstrike.com/?p=770388",
-    "https://www.crowdstrike.com/?p=884780",
-    "https://www.crowdstrike.com/?p=232158",
-    "https://www.crowdstrike.com/?p=435265",
-    "https://www.crowdstrike.com/?p=193462",
-    "https://www.crowdstrike.com/?p=256519",
-    "https://www.crowdstrike.com/?p=505338",
-    "https://www.crowdstrike.com/?p=893987",
-    "https://www.crowdstrike.com/?p=789445",
     "https://www.crowdstrike.com/?p=132544",
     "https://www.crowdstrike.com/?p=567253",
     "https://www.crowdstrike.com/?p=330808",
@@ -221,7 +226,17 @@
     "https://www.crowdstrike.com/?p=174838",
     "https://www.crowdstrike.com/?p=702869",
     "https://www.crowdstrike.com/?p=809332",
-    "https://www.crowdstrike.com/?p=622485"
+    "https://www.crowdstrike.com/?p=622485",
+    "https://www.crowdstrike.com/?p=753548",
+    "https://www.crowdstrike.com/?p=148430",
+    "https://www.crowdstrike.com/?p=636278",
+    "https://www.crowdstrike.com/?p=811014",
+    "https://www.crowdstrike.com/?p=229860",
+    "https://www.crowdstrike.com/?p=598410",
+    "https://www.crowdstrike.com/?p=830933",
+    "https://www.crowdstrike.com/?p=173351",
+    "https://www.crowdstrike.com/?p=723222",
+    "https://www.crowdstrike.com/?p=519350"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -285,7 +300,6 @@
     "https://unit42.paloaltonetworks.com/?p=186148"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146550",
     "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
     "https://www.microsoft.com/en-us/security/blog/?p=146619",
     "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
@@ -434,7 +448,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149095",
     "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
     "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149175"
+    "https://www.microsoft.com/en-us/security/blog/?p=149175",
+    "https://www.microsoft.com/en-us/security/blog/?p=149182"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
