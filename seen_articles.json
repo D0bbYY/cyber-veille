@@ -87,16 +87,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=812099",
-    "https://www.crowdstrike.com/?p=365700",
-    "https://www.crowdstrike.com/?p=207152",
-    "https://www.crowdstrike.com/?p=205793",
-    "https://www.crowdstrike.com/?p=505411",
-    "https://www.crowdstrike.com/?p=525196",
-    "https://www.crowdstrike.com/?p=721717",
-    "https://www.crowdstrike.com/?p=268374",
-    "https://www.crowdstrike.com/?p=461134",
-    "https://www.crowdstrike.com/?p=380159",
     "https://www.crowdstrike.com/?p=737725",
     "https://www.crowdstrike.com/?p=509779",
     "https://www.crowdstrike.com/?p=447517",
@@ -236,7 +226,17 @@
     "https://www.crowdstrike.com/?p=643257",
     "https://www.crowdstrike.com/?p=160182",
     "https://www.crowdstrike.com/?p=373768",
-    "https://www.crowdstrike.com/?p=480406"
+    "https://www.crowdstrike.com/?p=480406",
+    "https://www.crowdstrike.com/?p=684183",
+    "https://www.crowdstrike.com/?p=260457",
+    "https://www.crowdstrike.com/?p=574268",
+    "https://www.crowdstrike.com/?p=267741",
+    "https://www.crowdstrike.com/?p=339136",
+    "https://www.crowdstrike.com/?p=400352",
+    "https://www.crowdstrike.com/?p=243528",
+    "https://www.crowdstrike.com/?p=199658",
+    "https://www.crowdstrike.com/?p=528959",
+    "https://www.crowdstrike.com/?p=389303"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -301,7 +301,6 @@
     "https://unit42.paloaltonetworks.com/?p=186235"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
     "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
     "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
     "https://www.microsoft.com/en-us/security/blog/?p=146264",
@@ -450,7 +449,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149175",
     "https://www.microsoft.com/en-us/security/blog/?p=149182",
     "https://www.microsoft.com/en-us/security/blog/?p=149164",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+    "https://www.microsoft.com/en-us/security/blog/?p=149220"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
