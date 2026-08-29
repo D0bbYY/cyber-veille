@@ -87,16 +87,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=988368",
-    "https://www.crowdstrike.com/?p=655638",
-    "https://www.crowdstrike.com/?p=106336",
-    "https://www.crowdstrike.com/?p=787784",
-    "https://www.crowdstrike.com/?p=166088",
-    "https://www.crowdstrike.com/?p=129669",
-    "https://www.crowdstrike.com/?p=658788",
-    "https://www.crowdstrike.com/?p=926234",
-    "https://www.crowdstrike.com/?p=615780",
-    "https://www.crowdstrike.com/?p=119454",
     "https://www.crowdstrike.com/?p=812099",
     "https://www.crowdstrike.com/?p=365700",
     "https://www.crowdstrike.com/?p=207152",
@@ -236,7 +226,17 @@
     "https://www.crowdstrike.com/?p=186124",
     "https://www.crowdstrike.com/?p=160761",
     "https://www.crowdstrike.com/?p=296255",
-    "https://www.crowdstrike.com/?p=722831"
+    "https://www.crowdstrike.com/?p=722831",
+    "https://www.crowdstrike.com/?p=518487",
+    "https://www.crowdstrike.com/?p=822449",
+    "https://www.crowdstrike.com/?p=925896",
+    "https://www.crowdstrike.com/?p=226732",
+    "https://www.crowdstrike.com/?p=452708",
+    "https://www.crowdstrike.com/?p=594253",
+    "https://www.crowdstrike.com/?p=643257",
+    "https://www.crowdstrike.com/?p=160182",
+    "https://www.crowdstrike.com/?p=373768",
+    "https://www.crowdstrike.com/?p=480406"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -297,7 +297,8 @@
     "https://unit42.paloaltonetworks.com/?p=185086",
     "https://unit42.paloaltonetworks.com/?p=185799",
     "https://unit42.paloaltonetworks.com/?p=185935",
-    "https://unit42.paloaltonetworks.com/?p=186148"
+    "https://unit42.paloaltonetworks.com/?p=186148",
+    "https://unit42.paloaltonetworks.com/?p=186235"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
