@@ -87,16 +87,6 @@
     "https://thedfirreport.com/?p=50310"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=928225",
-    "https://www.crowdstrike.com/?p=812749",
-    "https://www.crowdstrike.com/?p=535041",
-    "https://www.crowdstrike.com/?p=710971",
-    "https://www.crowdstrike.com/?p=618044",
-    "https://www.crowdstrike.com/?p=455961",
-    "https://www.crowdstrike.com/?p=459251",
-    "https://www.crowdstrike.com/?p=561986",
-    "https://www.crowdstrike.com/?p=362206",
-    "https://www.crowdstrike.com/?p=580526",
     "https://www.crowdstrike.com/?p=282679",
     "https://www.crowdstrike.com/?p=793441",
     "https://www.crowdstrike.com/?p=160176",
@@ -236,7 +226,17 @@
     "https://www.crowdstrike.com/?p=467394",
     "https://www.crowdstrike.com/?p=361100",
     "https://www.crowdstrike.com/?p=192922",
-    "https://www.crowdstrike.com/?p=813657"
+    "https://www.crowdstrike.com/?p=813657",
+    "https://www.crowdstrike.com/?p=611227",
+    "https://www.crowdstrike.com/?p=572701",
+    "https://www.crowdstrike.com/?p=111674",
+    "https://www.crowdstrike.com/?p=120006",
+    "https://www.crowdstrike.com/?p=158836",
+    "https://www.crowdstrike.com/?p=270687",
+    "https://www.crowdstrike.com/?p=255839",
+    "https://www.crowdstrike.com/?p=102100",
+    "https://www.crowdstrike.com/?p=705337",
+    "https://www.crowdstrike.com/?p=244427"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -301,9 +301,6 @@
     "https://unit42.paloaltonetworks.com/?p=186235"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
-    "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
-    "https://www.microsoft.com/en-us/security/blog/?p=146264",
     "https://www.microsoft.com/en-us/security/blog/?p=146922",
     "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
     "https://www.microsoft.com/en-us/security/blog/?p=146866",
@@ -450,7 +447,10 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149182",
     "https://www.microsoft.com/en-us/security/blog/?p=149164",
     "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149220"
+    "https://www.microsoft.com/en-us/security/blog/?p=149220",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
