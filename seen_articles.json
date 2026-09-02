@@ -88,16 +88,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=611227",
-    "https://www.crowdstrike.com/?p=572701",
-    "https://www.crowdstrike.com/?p=111674",
-    "https://www.crowdstrike.com/?p=120006",
-    "https://www.crowdstrike.com/?p=158836",
-    "https://www.crowdstrike.com/?p=270687",
-    "https://www.crowdstrike.com/?p=255839",
-    "https://www.crowdstrike.com/?p=102100",
-    "https://www.crowdstrike.com/?p=705337",
-    "https://www.crowdstrike.com/?p=244427",
     "https://www.crowdstrike.com/?p=550937",
     "https://www.crowdstrike.com/?p=719156",
     "https://www.crowdstrike.com/?p=175007",
@@ -237,7 +227,17 @@
     "https://www.crowdstrike.com/?p=879944",
     "https://www.crowdstrike.com/?p=194630",
     "https://www.crowdstrike.com/?p=111119",
-    "https://www.crowdstrike.com/?p=508669"
+    "https://www.crowdstrike.com/?p=508669",
+    "https://www.crowdstrike.com/?p=357580",
+    "https://www.crowdstrike.com/?p=627759",
+    "https://www.crowdstrike.com/?p=957471",
+    "https://www.crowdstrike.com/?p=890724",
+    "https://www.crowdstrike.com/?p=958676",
+    "https://www.crowdstrike.com/?p=483459",
+    "https://www.crowdstrike.com/?p=168974",
+    "https://www.crowdstrike.com/?p=773226",
+    "https://www.crowdstrike.com/?p=894625",
+    "https://www.crowdstrike.com/?p=532588"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -303,7 +303,6 @@
     "https://unit42.paloaltonetworks.com/?p=186248"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
     "https://www.microsoft.com/en-us/security/blog/?p=146866",
     "https://www.microsoft.com/en-us/security/blog/?p=147100",
     "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
@@ -452,7 +451,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
     "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
     "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149247"
+    "https://www.microsoft.com/en-us/security/blog/?p=149247",
+    "https://www.microsoft.com/en-us/security/blog/?p=149252"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
