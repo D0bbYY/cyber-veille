@@ -88,16 +88,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=381158",
-    "https://www.crowdstrike.com/?p=630653",
-    "https://www.crowdstrike.com/?p=627818",
-    "https://www.crowdstrike.com/?p=748471",
-    "https://www.crowdstrike.com/?p=981239",
-    "https://www.crowdstrike.com/?p=805027",
-    "https://www.crowdstrike.com/?p=782360",
-    "https://www.crowdstrike.com/?p=700987",
-    "https://www.crowdstrike.com/?p=454819",
-    "https://www.crowdstrike.com/?p=284639",
     "https://www.crowdstrike.com/?p=717102",
     "https://www.crowdstrike.com/?p=587978",
     "https://www.crowdstrike.com/?p=636307",
@@ -237,7 +227,17 @@
     "https://www.crowdstrike.com/?p=304305",
     "https://www.crowdstrike.com/?p=727001",
     "https://www.crowdstrike.com/?p=488730",
-    "https://www.crowdstrike.com/?p=522649"
+    "https://www.crowdstrike.com/?p=522649",
+    "https://www.crowdstrike.com/?p=228307",
+    "https://www.crowdstrike.com/?p=643532",
+    "https://www.crowdstrike.com/?p=479736",
+    "https://www.crowdstrike.com/?p=567680",
+    "https://www.crowdstrike.com/?p=483211",
+    "https://www.crowdstrike.com/?p=888744",
+    "https://www.crowdstrike.com/?p=625016",
+    "https://www.crowdstrike.com/?p=408145",
+    "https://www.crowdstrike.com/?p=100863",
+    "https://www.crowdstrike.com/?p=675362"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -304,7 +304,6 @@
     "https://unit42.paloaltonetworks.com/?p=186408"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=146866",
     "https://www.microsoft.com/en-us/security/blog/?p=147100",
     "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
@@ -453,7 +452,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
     "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
     "https://www.microsoft.com/en-us/security/blog/?p=149247",
-    "https://www.microsoft.com/en-us/security/blog/?p=149252"
+    "https://www.microsoft.com/en-us/security/blog/?p=149252",
+    "https://www.microsoft.com/en-us/security/blog/?p=149294"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
