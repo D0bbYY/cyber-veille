@@ -70,7 +70,8 @@
     "agentic-soc-token-budget-architecture",
     "esql-completion-curl-wget-detection-triage",
     "wp2shell-wordpress-rce-detection-elastic-defend",
-    "alert-triage-agentic-soc-elastic-workflows"
+    "alert-triage-agentic-soc-elastic-workflows",
+    "siem-data-export-comparison"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -88,16 +89,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=115090",
-    "https://www.crowdstrike.com/?p=564435",
-    "https://www.crowdstrike.com/?p=318729",
-    "https://www.crowdstrike.com/?p=361115",
-    "https://www.crowdstrike.com/?p=283890",
-    "https://www.crowdstrike.com/?p=769579",
-    "https://www.crowdstrike.com/?p=879944",
-    "https://www.crowdstrike.com/?p=194630",
-    "https://www.crowdstrike.com/?p=111119",
-    "https://www.crowdstrike.com/?p=508669",
     "https://www.crowdstrike.com/?p=357580",
     "https://www.crowdstrike.com/?p=627759",
     "https://www.crowdstrike.com/?p=957471",
@@ -237,7 +228,17 @@
     "https://www.crowdstrike.com/?p=421905",
     "https://www.crowdstrike.com/?p=785421",
     "https://www.crowdstrike.com/?p=547059",
-    "https://www.crowdstrike.com/?p=948891"
+    "https://www.crowdstrike.com/?p=948891",
+    "https://www.crowdstrike.com/?p=572496",
+    "https://www.crowdstrike.com/?p=174434",
+    "https://www.crowdstrike.com/?p=177258",
+    "https://www.crowdstrike.com/?p=887783",
+    "https://www.crowdstrike.com/?p=190315",
+    "https://www.crowdstrike.com/?p=436362",
+    "https://www.crowdstrike.com/?p=559079",
+    "https://www.crowdstrike.com/?p=970059",
+    "https://www.crowdstrike.com/?p=324691",
+    "https://www.crowdstrike.com/?p=448752"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
