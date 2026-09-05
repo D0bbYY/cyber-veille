@@ -89,16 +89,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=793839",
-    "https://www.crowdstrike.com/?p=791521",
-    "https://www.crowdstrike.com/?p=574614",
-    "https://www.crowdstrike.com/?p=655901",
-    "https://www.crowdstrike.com/?p=160960",
-    "https://www.crowdstrike.com/?p=631740",
-    "https://www.crowdstrike.com/?p=273461",
-    "https://www.crowdstrike.com/?p=854417",
-    "https://www.crowdstrike.com/?p=290737",
-    "https://www.crowdstrike.com/?p=757233",
     "https://www.crowdstrike.com/?p=550343",
     "https://www.crowdstrike.com/?p=666987",
     "https://www.crowdstrike.com/?p=431555",
@@ -238,7 +228,17 @@
     "https://www.crowdstrike.com/?p=894427",
     "https://www.crowdstrike.com/?p=990574",
     "https://www.crowdstrike.com/?p=859882",
-    "https://www.crowdstrike.com/?p=569425"
+    "https://www.crowdstrike.com/?p=569425",
+    "https://www.crowdstrike.com/?p=918767",
+    "https://www.crowdstrike.com/?p=767960",
+    "https://www.crowdstrike.com/?p=310897",
+    "https://www.crowdstrike.com/?p=368495",
+    "https://www.crowdstrike.com/?p=576510",
+    "https://www.crowdstrike.com/?p=190418",
+    "https://www.crowdstrike.com/?p=735023",
+    "https://www.crowdstrike.com/?p=169746",
+    "https://www.crowdstrike.com/?p=969061",
+    "https://www.crowdstrike.com/?p=966658"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -306,8 +306,6 @@
     "https://unit42.paloaltonetworks.com/?p=186340"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
-    "https://www.microsoft.com/en-us/security/blog/?p=147052",
     "https://www.microsoft.com/en-us/security/blog/?p=147066",
     "https://www.microsoft.com/en-us/security/blog/?p=147131",
     "https://www.microsoft.com/en-us/security/blog/?p=147015",
@@ -455,7 +453,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149252",
     "https://www.microsoft.com/en-us/security/blog/?p=149294",
     "https://www.microsoft.com/en-us/security/blog/?p=149272",
-    "https://www.microsoft.com/en-us/security/blog/?p=149329"
+    "https://www.microsoft.com/en-us/security/blog/?p=149329",
+    "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
+    "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
