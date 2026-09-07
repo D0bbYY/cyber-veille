@@ -89,16 +89,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=523865",
-    "https://www.crowdstrike.com/?p=908760",
-    "https://www.crowdstrike.com/?p=131311",
-    "https://www.crowdstrike.com/?p=837063",
-    "https://www.crowdstrike.com/?p=635110",
-    "https://www.crowdstrike.com/?p=820218",
-    "https://www.crowdstrike.com/?p=653279",
-    "https://www.crowdstrike.com/?p=988618",
-    "https://www.crowdstrike.com/?p=826690",
-    "https://www.crowdstrike.com/?p=206035",
     "https://www.crowdstrike.com/?p=962299",
     "https://www.crowdstrike.com/?p=649069",
     "https://www.crowdstrike.com/?p=398856",
@@ -238,7 +228,17 @@
     "https://www.crowdstrike.com/?p=413438",
     "https://www.crowdstrike.com/?p=573044",
     "https://www.crowdstrike.com/?p=655863",
-    "https://www.crowdstrike.com/?p=727226"
+    "https://www.crowdstrike.com/?p=727226",
+    "https://www.crowdstrike.com/?p=977231",
+    "https://www.crowdstrike.com/?p=167535",
+    "https://www.crowdstrike.com/?p=280867",
+    "https://www.crowdstrike.com/?p=458274",
+    "https://www.crowdstrike.com/?p=659902",
+    "https://www.crowdstrike.com/?p=545803",
+    "https://www.crowdstrike.com/?p=530316",
+    "https://www.crowdstrike.com/?p=664228",
+    "https://www.crowdstrike.com/?p=626388",
+    "https://www.crowdstrike.com/?p=938719"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -306,7 +306,6 @@
     "https://unit42.paloaltonetworks.com/?p=186340"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147066",
     "https://www.microsoft.com/en-us/security/blog/?p=147131",
     "https://www.microsoft.com/en-us/security/blog/?p=147015",
     "https://www.microsoft.com/en-us/security/blog/?p=147191",
@@ -455,7 +454,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149272",
     "https://www.microsoft.com/en-us/security/blog/?p=149329",
     "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
+    "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
