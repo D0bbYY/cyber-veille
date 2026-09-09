@@ -71,7 +71,14 @@
     "esql-completion-curl-wget-detection-triage",
     "wp2shell-wordpress-rce-detection-elastic-defend",
     "alert-triage-agentic-soc-elastic-workflows",
-    "siem-data-export-comparison"
+    "siem-data-export-comparison",
+    "kubernetes-audit-logs-container-escape",
+    "revstealer-credential-harvesting-infostealer",
+    "memfd-create-linux-fileless-execution",
+    "dll-search-order-hijacking-elastic-defend",
+    "coding-agent-launchagent-tunnel-detection",
+    "shai-hulud-chaindrop-npm-supply-chain",
+    "llm-benchmarking-agentic-soc"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -89,16 +96,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=529430",
-    "https://www.crowdstrike.com/?p=417167",
-    "https://www.crowdstrike.com/?p=634769",
-    "https://www.crowdstrike.com/?p=293261",
-    "https://www.crowdstrike.com/?p=778878",
-    "https://www.crowdstrike.com/?p=524742",
-    "https://www.crowdstrike.com/?p=660060",
-    "https://www.crowdstrike.com/?p=713544",
-    "https://www.crowdstrike.com/?p=366657",
-    "https://www.crowdstrike.com/?p=904686",
     "https://www.crowdstrike.com/?p=623515",
     "https://www.crowdstrike.com/?p=292358",
     "https://www.crowdstrike.com/?p=655134",
@@ -238,7 +235,17 @@
     "https://www.crowdstrike.com/?p=905320",
     "https://www.crowdstrike.com/?p=632056",
     "https://www.crowdstrike.com/?p=844560",
-    "https://www.crowdstrike.com/?p=454000"
+    "https://www.crowdstrike.com/?p=454000",
+    "https://www.crowdstrike.com/?p=450127",
+    "https://www.crowdstrike.com/?p=272750",
+    "https://www.crowdstrike.com/?p=412156",
+    "https://www.crowdstrike.com/?p=539518",
+    "https://www.crowdstrike.com/?p=546594",
+    "https://www.crowdstrike.com/?p=640620",
+    "https://www.crowdstrike.com/?p=210325",
+    "https://www.crowdstrike.com/?p=922547",
+    "https://www.crowdstrike.com/?p=994764",
+    "https://www.crowdstrike.com/?p=766116"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
