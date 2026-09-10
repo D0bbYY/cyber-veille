@@ -315,8 +315,6 @@
     "https://unit42.paloaltonetworks.com/?p=186732"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147248",
-    "https://www.microsoft.com/en-us/security/blog/?p=147183",
     "https://www.microsoft.com/en-us/security/blog/?p=147293",
     "https://www.microsoft.com/en-us/security/blog/?p=147315",
     "https://www.microsoft.com/en-us/security/blog/?p=147363",
@@ -464,7 +462,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
     "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
     "https://www.microsoft.com/en-us/security/blog/?p=149353",
-    "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
+    "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+    "https://www.microsoft.com/en-us/security/blog/?p=149391",
+    "https://www.microsoft.com/en-us/security/blog/?p=149328"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
