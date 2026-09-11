@@ -78,7 +78,8 @@
     "dll-search-order-hijacking-elastic-defend",
     "coding-agent-launchagent-tunnel-detection",
     "shai-hulud-chaindrop-npm-supply-chain",
-    "llm-benchmarking-agentic-soc"
+    "llm-benchmarking-agentic-soc",
+    "linux-privilege-escalation-detection-framework"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -96,16 +97,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=619532",
-    "https://www.crowdstrike.com/?p=858359",
-    "https://www.crowdstrike.com/?p=559646",
-    "https://www.crowdstrike.com/?p=737357",
-    "https://www.crowdstrike.com/?p=889909",
-    "https://www.crowdstrike.com/?p=547206",
-    "https://www.crowdstrike.com/?p=344533",
-    "https://www.crowdstrike.com/?p=599336",
-    "https://www.crowdstrike.com/?p=810449",
-    "https://www.crowdstrike.com/?p=104868",
     "https://www.crowdstrike.com/?p=950878",
     "https://www.crowdstrike.com/?p=807142",
     "https://www.crowdstrike.com/?p=533225",
@@ -245,7 +236,17 @@
     "https://www.crowdstrike.com/?p=840909",
     "https://www.crowdstrike.com/?p=660022",
     "https://www.crowdstrike.com/?p=545612",
-    "https://www.crowdstrike.com/?p=544351"
+    "https://www.crowdstrike.com/?p=544351",
+    "https://www.crowdstrike.com/?p=980155",
+    "https://www.crowdstrike.com/?p=760593",
+    "https://www.crowdstrike.com/?p=374166",
+    "https://www.crowdstrike.com/?p=865025",
+    "https://www.crowdstrike.com/?p=634397",
+    "https://www.crowdstrike.com/?p=169601",
+    "https://www.crowdstrike.com/?p=191174",
+    "https://www.crowdstrike.com/?p=260808",
+    "https://www.crowdstrike.com/?p=816229",
+    "https://www.crowdstrike.com/?p=781235"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
