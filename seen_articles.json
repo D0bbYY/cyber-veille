@@ -79,7 +79,8 @@
     "coding-agent-launchagent-tunnel-detection",
     "shai-hulud-chaindrop-npm-supply-chain",
     "llm-benchmarking-agentic-soc",
-    "linux-privilege-escalation-detection-framework"
+    "linux-privilege-escalation-detection-framework",
+    "why-2026-is-the-year-to-upgrade-to-an-agentic-ai-soc"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -97,16 +98,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=388599",
-    "https://www.crowdstrike.com/?p=612791",
-    "https://www.crowdstrike.com/?p=214786",
-    "https://www.crowdstrike.com/?p=817034",
-    "https://www.crowdstrike.com/?p=340690",
-    "https://www.crowdstrike.com/?p=680269",
-    "https://www.crowdstrike.com/?p=196429",
-    "https://www.crowdstrike.com/?p=222700",
-    "https://www.crowdstrike.com/?p=327624",
-    "https://www.crowdstrike.com/?p=787428",
     "https://www.crowdstrike.com/?p=556173",
     "https://www.crowdstrike.com/?p=554401",
     "https://www.crowdstrike.com/?p=505807",
@@ -246,7 +237,17 @@
     "https://www.crowdstrike.com/?p=793000",
     "https://www.crowdstrike.com/?p=352551",
     "https://www.crowdstrike.com/?p=827226",
-    "https://www.crowdstrike.com/?p=572342"
+    "https://www.crowdstrike.com/?p=572342",
+    "https://www.crowdstrike.com/?p=236611",
+    "https://www.crowdstrike.com/?p=554451",
+    "https://www.crowdstrike.com/?p=902102",
+    "https://www.crowdstrike.com/?p=673694",
+    "https://www.crowdstrike.com/?p=588616",
+    "https://www.crowdstrike.com/?p=151559",
+    "https://www.crowdstrike.com/?p=574522",
+    "https://www.crowdstrike.com/?p=694100",
+    "https://www.crowdstrike.com/?p=434944",
+    "https://www.crowdstrike.com/?p=398145"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
