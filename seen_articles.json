@@ -99,16 +99,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=236611",
-    "https://www.crowdstrike.com/?p=554451",
-    "https://www.crowdstrike.com/?p=902102",
-    "https://www.crowdstrike.com/?p=673694",
-    "https://www.crowdstrike.com/?p=588616",
-    "https://www.crowdstrike.com/?p=151559",
-    "https://www.crowdstrike.com/?p=574522",
-    "https://www.crowdstrike.com/?p=694100",
-    "https://www.crowdstrike.com/?p=434944",
-    "https://www.crowdstrike.com/?p=398145",
     "https://www.crowdstrike.com/?p=271910",
     "https://www.crowdstrike.com/?p=887397",
     "https://www.crowdstrike.com/?p=387538",
@@ -248,7 +238,17 @@
     "https://www.crowdstrike.com/?p=788153",
     "https://www.crowdstrike.com/?p=750206",
     "https://www.crowdstrike.com/?p=963231",
-    "https://www.crowdstrike.com/?p=388932"
+    "https://www.crowdstrike.com/?p=388932",
+    "https://www.crowdstrike.com/?p=746477",
+    "https://www.crowdstrike.com/?p=325771",
+    "https://www.crowdstrike.com/?p=187553",
+    "https://www.crowdstrike.com/?p=600208",
+    "https://www.crowdstrike.com/?p=207406",
+    "https://www.crowdstrike.com/?p=285460",
+    "https://www.crowdstrike.com/?p=357158",
+    "https://www.crowdstrike.com/?p=708161",
+    "https://www.crowdstrike.com/?p=236567",
+    "https://www.crowdstrike.com/?p=350767"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -320,7 +320,6 @@
     "https://unit42.paloaltonetworks.com/?p=187032"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147315",
     "https://www.microsoft.com/en-us/security/blog/?p=147363",
     "https://www.microsoft.com/en-us/security/blog/?p=147397",
     "https://www.microsoft.com/en-us/security/blog/?p=147406",
@@ -469,7 +468,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
     "https://www.microsoft.com/en-us/security/blog/?p=149391",
     "https://www.microsoft.com/en-us/security/blog/?p=149328",
-    "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
+    "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+    "https://www.microsoft.com/en-us/security/blog/?p=149413"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
