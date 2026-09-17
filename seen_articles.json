@@ -99,16 +99,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=271910",
-    "https://www.crowdstrike.com/?p=887397",
-    "https://www.crowdstrike.com/?p=387538",
-    "https://www.crowdstrike.com/?p=947806",
-    "https://www.crowdstrike.com/?p=577300",
-    "https://www.crowdstrike.com/?p=318856",
-    "https://www.crowdstrike.com/?p=221420",
-    "https://www.crowdstrike.com/?p=673215",
-    "https://www.crowdstrike.com/?p=554602",
-    "https://www.crowdstrike.com/?p=994685",
     "https://www.crowdstrike.com/?p=352749",
     "https://www.crowdstrike.com/?p=904816",
     "https://www.crowdstrike.com/?p=282715",
@@ -248,7 +238,17 @@
     "https://www.crowdstrike.com/?p=357158",
     "https://www.crowdstrike.com/?p=708161",
     "https://www.crowdstrike.com/?p=236567",
-    "https://www.crowdstrike.com/?p=350767"
+    "https://www.crowdstrike.com/?p=350767",
+    "https://www.crowdstrike.com/?p=480173",
+    "https://www.crowdstrike.com/?p=455028",
+    "https://www.crowdstrike.com/?p=155616",
+    "https://www.crowdstrike.com/?p=901551",
+    "https://www.crowdstrike.com/?p=434088",
+    "https://www.crowdstrike.com/?p=202421",
+    "https://www.crowdstrike.com/?p=491486",
+    "https://www.crowdstrike.com/?p=967310",
+    "https://www.crowdstrike.com/?p=483899",
+    "https://www.crowdstrike.com/?p=255404"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -320,7 +320,6 @@
     "https://unit42.paloaltonetworks.com/?p=187032"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147363",
     "https://www.microsoft.com/en-us/security/blog/?p=147397",
     "https://www.microsoft.com/en-us/security/blog/?p=147406",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
@@ -469,7 +468,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149391",
     "https://www.microsoft.com/en-us/security/blog/?p=149328",
     "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149413"
+    "https://www.microsoft.com/en-us/security/blog/?p=149413",
+    "https://www.microsoft.com/en-us/security/blog/?p=149427"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
