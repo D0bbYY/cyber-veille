@@ -82,7 +82,8 @@
     "linux-privilege-escalation-detection-framework",
     "why-2026-is-the-year-to-upgrade-to-an-agentic-ai-soc",
     "malicious-browser-extension-kremlin-banking-malware",
-    "centralized-alert-triage-cross-project-search"
+    "centralized-alert-triage-cross-project-search",
+    "cloud-threat-emulation-methodology"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -100,16 +101,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=648501",
-    "https://www.crowdstrike.com/?p=545179",
-    "https://www.crowdstrike.com/?p=180700",
-    "https://www.crowdstrike.com/?p=594131",
-    "https://www.crowdstrike.com/?p=882518",
-    "https://www.crowdstrike.com/?p=470528",
-    "https://www.crowdstrike.com/?p=101631",
-    "https://www.crowdstrike.com/?p=627246",
-    "https://www.crowdstrike.com/?p=879184",
-    "https://www.crowdstrike.com/?p=918031",
     "https://www.crowdstrike.com/?p=167922",
     "https://www.crowdstrike.com/?p=735688",
     "https://www.crowdstrike.com/?p=642657",
@@ -249,7 +240,17 @@
     "https://www.crowdstrike.com/?p=295456",
     "https://www.crowdstrike.com/?p=374974",
     "https://www.crowdstrike.com/?p=239259",
-    "https://www.crowdstrike.com/?p=790129"
+    "https://www.crowdstrike.com/?p=790129",
+    "https://www.crowdstrike.com/?p=678016",
+    "https://www.crowdstrike.com/?p=396554",
+    "https://www.crowdstrike.com/?p=739236",
+    "https://www.crowdstrike.com/?p=717466",
+    "https://www.crowdstrike.com/?p=471599",
+    "https://www.crowdstrike.com/?p=136673",
+    "https://www.crowdstrike.com/?p=873247",
+    "https://www.crowdstrike.com/?p=209262",
+    "https://www.crowdstrike.com/?p=719188",
+    "https://www.crowdstrike.com/?p=781308"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
