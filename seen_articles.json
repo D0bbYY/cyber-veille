@@ -101,16 +101,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=844240",
-    "https://www.crowdstrike.com/?p=890273",
-    "https://www.crowdstrike.com/?p=710514",
-    "https://www.crowdstrike.com/?p=884252",
-    "https://www.crowdstrike.com/?p=493398",
-    "https://www.crowdstrike.com/?p=856197",
-    "https://www.crowdstrike.com/?p=404722",
-    "https://www.crowdstrike.com/?p=906000",
-    "https://www.crowdstrike.com/?p=101439",
-    "https://www.crowdstrike.com/?p=469281",
     "https://www.crowdstrike.com/?p=135869",
     "https://www.crowdstrike.com/?p=475457",
     "https://www.crowdstrike.com/?p=782352",
@@ -250,7 +240,17 @@
     "https://www.crowdstrike.com/?p=675176",
     "https://www.crowdstrike.com/?p=169919",
     "https://www.crowdstrike.com/?p=924830",
-    "https://www.crowdstrike.com/?p=788379"
+    "https://www.crowdstrike.com/?p=788379",
+    "https://www.crowdstrike.com/?p=637156",
+    "https://www.crowdstrike.com/?p=653428",
+    "https://www.crowdstrike.com/?p=252262",
+    "https://www.crowdstrike.com/?p=267426",
+    "https://www.crowdstrike.com/?p=613868",
+    "https://www.crowdstrike.com/?p=909513",
+    "https://www.crowdstrike.com/?p=426804",
+    "https://www.crowdstrike.com/?p=998727",
+    "https://www.crowdstrike.com/?p=803078",
+    "https://www.crowdstrike.com/?p=511724"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -325,7 +325,6 @@
     "https://unit42.paloaltonetworks.com/?p=186917"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
@@ -474,7 +473,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149427",
     "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
     "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149499"
+    "https://www.microsoft.com/en-us/security/blog/?p=149499",
+    "https://www.microsoft.com/en-us/security/blog/?p=149452"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
