@@ -101,16 +101,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=462917",
-    "https://www.crowdstrike.com/?p=989725",
-    "https://www.crowdstrike.com/?p=946083",
-    "https://www.crowdstrike.com/?p=748936",
-    "https://www.crowdstrike.com/?p=239147",
-    "https://www.crowdstrike.com/?p=453862",
-    "https://www.crowdstrike.com/?p=295456",
-    "https://www.crowdstrike.com/?p=374974",
-    "https://www.crowdstrike.com/?p=239259",
-    "https://www.crowdstrike.com/?p=790129",
     "https://www.crowdstrike.com/?p=678016",
     "https://www.crowdstrike.com/?p=396554",
     "https://www.crowdstrike.com/?p=739236",
@@ -250,7 +240,17 @@
     "https://www.crowdstrike.com/?p=701135",
     "https://www.crowdstrike.com/?p=309673",
     "https://www.crowdstrike.com/?p=701520",
-    "https://www.crowdstrike.com/?p=354156"
+    "https://www.crowdstrike.com/?p=354156",
+    "https://www.crowdstrike.com/?p=592149",
+    "https://www.crowdstrike.com/?p=715290",
+    "https://www.crowdstrike.com/?p=787776",
+    "https://www.crowdstrike.com/?p=499108",
+    "https://www.crowdstrike.com/?p=867589",
+    "https://www.crowdstrike.com/?p=119519",
+    "https://www.crowdstrike.com/?p=177756",
+    "https://www.crowdstrike.com/?p=812767",
+    "https://www.crowdstrike.com/?p=525123",
+    "https://www.crowdstrike.com/?p=195200"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -325,8 +325,6 @@
     "https://unit42.paloaltonetworks.com/?p=186917"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
@@ -474,7 +472,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
     "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
     "https://www.microsoft.com/en-us/security/blog/?p=149499",
-    "https://www.microsoft.com/en-us/security/blog/?p=149452"
+    "https://www.microsoft.com/en-us/security/blog/?p=149452",
+    "https://www.microsoft.com/en-us/security/blog/?p=149603",
+    "https://www.microsoft.com/en-us/security/blog/?p=149456"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
