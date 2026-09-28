@@ -101,16 +101,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=230529",
-    "https://www.crowdstrike.com/?p=731397",
-    "https://www.crowdstrike.com/?p=892708",
-    "https://www.crowdstrike.com/?p=496859",
-    "https://www.crowdstrike.com/?p=944983",
-    "https://www.crowdstrike.com/?p=297392",
-    "https://www.crowdstrike.com/?p=567080",
-    "https://www.crowdstrike.com/?p=553196",
-    "https://www.crowdstrike.com/?p=843405",
-    "https://www.crowdstrike.com/?p=331700",
     "https://www.crowdstrike.com/?p=163932",
     "https://www.crowdstrike.com/?p=731245",
     "https://www.crowdstrike.com/?p=779086",
@@ -250,7 +240,17 @@
     "https://www.crowdstrike.com/?p=765687",
     "https://www.crowdstrike.com/?p=868511",
     "https://www.crowdstrike.com/?p=787492",
-    "https://www.crowdstrike.com/?p=644874"
+    "https://www.crowdstrike.com/?p=644874",
+    "https://www.crowdstrike.com/?p=445209",
+    "https://www.crowdstrike.com/?p=161666",
+    "https://www.crowdstrike.com/?p=143478",
+    "https://www.crowdstrike.com/?p=726447",
+    "https://www.crowdstrike.com/?p=512917",
+    "https://www.crowdstrike.com/?p=796399",
+    "https://www.crowdstrike.com/?p=204102",
+    "https://www.crowdstrike.com/?p=162965",
+    "https://www.crowdstrike.com/?p=888344",
+    "https://www.crowdstrike.com/?p=334575"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -323,10 +323,10 @@
     "https://unit42.paloaltonetworks.com/?p=187343",
     "https://unit42.paloaltonetworks.com/?p=187347",
     "https://unit42.paloaltonetworks.com/?p=186917",
-    "https://unit42.paloaltonetworks.com/?p=187627"
+    "https://unit42.paloaltonetworks.com/?p=187627",
+    "https://unit42.paloaltonetworks.com/?p=187874"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
     "https://www.microsoft.com/en-us/security/blog/?p=147275",
     "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
@@ -475,7 +475,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149452",
     "https://www.microsoft.com/en-us/security/blog/?p=149603",
     "https://www.microsoft.com/en-us/security/blog/?p=149456",
-    "https://www.microsoft.com/en-us/security/blog/?p=149645"
+    "https://www.microsoft.com/en-us/security/blog/?p=149645",
+    "https://www.microsoft.com/en-us/security/blog/?p=149653"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
