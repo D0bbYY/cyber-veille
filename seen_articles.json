@@ -103,16 +103,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=347921",
-    "https://www.crowdstrike.com/?p=441688",
-    "https://www.crowdstrike.com/?p=792152",
-    "https://www.crowdstrike.com/?p=476658",
-    "https://www.crowdstrike.com/?p=671227",
-    "https://www.crowdstrike.com/?p=716101",
-    "https://www.crowdstrike.com/?p=227224",
-    "https://www.crowdstrike.com/?p=299195",
-    "https://www.crowdstrike.com/?p=717593",
-    "https://www.crowdstrike.com/?p=568981",
     "https://www.crowdstrike.com/?p=156522",
     "https://www.crowdstrike.com/?p=375046",
     "https://www.crowdstrike.com/?p=137682",
@@ -252,7 +242,17 @@
     "https://www.crowdstrike.com/?p=132716",
     "https://www.crowdstrike.com/?p=134226",
     "https://www.crowdstrike.com/?p=816279",
-    "https://www.crowdstrike.com/?p=338877"
+    "https://www.crowdstrike.com/?p=338877",
+    "https://www.crowdstrike.com/?p=488122",
+    "https://www.crowdstrike.com/?p=706894",
+    "https://www.crowdstrike.com/?p=215244",
+    "https://www.crowdstrike.com/?p=581024",
+    "https://www.crowdstrike.com/?p=663025",
+    "https://www.crowdstrike.com/?p=337959",
+    "https://www.crowdstrike.com/?p=822790",
+    "https://www.crowdstrike.com/?p=243967",
+    "https://www.crowdstrike.com/?p=991452",
+    "https://www.crowdstrike.com/?p=490890"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -330,7 +330,6 @@
     "https://unit42.paloaltonetworks.com/?p=187565"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
     "https://www.microsoft.com/en-us/security/blog/?p=147567",
     "https://www.microsoft.com/en-us/security/blog/?p=147432",
     "https://www.microsoft.com/en-us/security/blog/?p=147426",
@@ -479,7 +478,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149600",
     "https://www.microsoft.com/en-us/security/blog/?p=149697",
     "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149772"
+    "https://www.microsoft.com/en-us/security/blog/?p=149772",
+    "https://www.microsoft.com/en-us/security/blog/?p=149734"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
