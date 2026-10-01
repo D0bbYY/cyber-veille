@@ -103,16 +103,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=669457",
-    "https://www.crowdstrike.com/?p=843357",
-    "https://www.crowdstrike.com/?p=934379",
-    "https://www.crowdstrike.com/?p=875084",
-    "https://www.crowdstrike.com/?p=951845",
-    "https://www.crowdstrike.com/?p=225678",
-    "https://www.crowdstrike.com/?p=765687",
-    "https://www.crowdstrike.com/?p=868511",
-    "https://www.crowdstrike.com/?p=787492",
-    "https://www.crowdstrike.com/?p=644874",
     "https://www.crowdstrike.com/?p=445209",
     "https://www.crowdstrike.com/?p=161666",
     "https://www.crowdstrike.com/?p=143478",
@@ -252,7 +242,17 @@
     "https://www.crowdstrike.com/?p=304339",
     "https://www.crowdstrike.com/?p=722476",
     "https://www.crowdstrike.com/?p=483901",
-    "https://www.crowdstrike.com/?p=389812"
+    "https://www.crowdstrike.com/?p=389812",
+    "https://www.crowdstrike.com/?p=304694",
+    "https://www.crowdstrike.com/?p=984446",
+    "https://www.crowdstrike.com/?p=166466",
+    "https://www.crowdstrike.com/?p=854272",
+    "https://www.crowdstrike.com/?p=849055",
+    "https://www.crowdstrike.com/?p=440349",
+    "https://www.crowdstrike.com/?p=380184",
+    "https://www.crowdstrike.com/?p=867082",
+    "https://www.crowdstrike.com/?p=576120",
+    "https://www.crowdstrike.com/?p=106979"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -330,8 +330,6 @@
     "https://unit42.paloaltonetworks.com/?p=187565"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147432",
-    "https://www.microsoft.com/en-us/security/blog/?p=147426",
     "https://www.microsoft.com/en-us/security/blog/?p=147454",
     "https://www.microsoft.com/en-us/security/blog/?p=147279",
     "https://www.microsoft.com/en-us/security/blog/?p=147621",
@@ -479,7 +477,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
     "https://www.microsoft.com/en-us/security/blog/?p=149772",
     "https://www.microsoft.com/en-us/security/blog/?p=149734",
-    "https://www.microsoft.com/en-us/security/blog/?p=149430"
+    "https://www.microsoft.com/en-us/security/blog/?p=149430",
+    "https://www.microsoft.com/en-us/security/blog/?p=149838",
+    "https://www.microsoft.com/en-us/security/blog/?p=149470"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
