@@ -103,16 +103,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=678111",
-    "https://www.crowdstrike.com/?p=142654",
-    "https://www.crowdstrike.com/?p=549236",
-    "https://www.crowdstrike.com/?p=928307",
-    "https://www.crowdstrike.com/?p=307014",
-    "https://www.crowdstrike.com/?p=684973",
-    "https://www.crowdstrike.com/?p=918556",
-    "https://www.crowdstrike.com/?p=398417",
-    "https://www.crowdstrike.com/?p=613498",
-    "https://www.crowdstrike.com/?p=117535",
     "https://www.crowdstrike.com/?p=738946",
     "https://www.crowdstrike.com/?p=746608",
     "https://www.crowdstrike.com/?p=267350",
@@ -252,7 +242,17 @@
     "https://www.crowdstrike.com/?p=906805",
     "https://www.crowdstrike.com/?p=666011",
     "https://www.crowdstrike.com/?p=833602",
-    "https://www.crowdstrike.com/?p=570056"
+    "https://www.crowdstrike.com/?p=570056",
+    "https://www.crowdstrike.com/?p=629590",
+    "https://www.crowdstrike.com/?p=264990",
+    "https://www.crowdstrike.com/?p=138345",
+    "https://www.crowdstrike.com/?p=235612",
+    "https://www.crowdstrike.com/?p=420250",
+    "https://www.crowdstrike.com/?p=844451",
+    "https://www.crowdstrike.com/?p=964654",
+    "https://www.crowdstrike.com/?p=210804",
+    "https://www.crowdstrike.com/?p=179623",
+    "https://www.crowdstrike.com/?p=804492"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -500,6 +500,7 @@
     "https://www.splunk.com/en_us/blog/security/phantom-stealer-shellcode-steganography-credential-theft.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-july-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-2026-update.html",
-    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-recap.html"
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-september-2026-recap.html"
   ]
 }
