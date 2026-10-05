@@ -85,7 +85,8 @@
     "centralized-alert-triage-cross-project-search",
     "cloud-threat-emulation-methodology",
     "phishing-incident-response-sublime-security",
-    "linux-endpoint-management-elastic-workflows"
+    "linux-endpoint-management-elastic-workflows",
+    "elastic-siem-detection-rule-tags"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -103,16 +104,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=182103",
-    "https://www.crowdstrike.com/?p=337544",
-    "https://www.crowdstrike.com/?p=644505",
-    "https://www.crowdstrike.com/?p=968736",
-    "https://www.crowdstrike.com/?p=518292",
-    "https://www.crowdstrike.com/?p=117713",
-    "https://www.crowdstrike.com/?p=906805",
-    "https://www.crowdstrike.com/?p=666011",
-    "https://www.crowdstrike.com/?p=833602",
-    "https://www.crowdstrike.com/?p=570056",
     "https://www.crowdstrike.com/?p=629590",
     "https://www.crowdstrike.com/?p=264990",
     "https://www.crowdstrike.com/?p=138345",
@@ -252,7 +243,17 @@
     "https://www.crowdstrike.com/?p=871424",
     "https://www.crowdstrike.com/?p=137589",
     "https://www.crowdstrike.com/?p=891225",
-    "https://www.crowdstrike.com/?p=686925"
+    "https://www.crowdstrike.com/?p=686925",
+    "https://www.crowdstrike.com/?p=498403",
+    "https://www.crowdstrike.com/?p=883569",
+    "https://www.crowdstrike.com/?p=782702",
+    "https://www.crowdstrike.com/?p=513350",
+    "https://www.crowdstrike.com/?p=505046",
+    "https://www.crowdstrike.com/?p=927537",
+    "https://www.crowdstrike.com/?p=843945",
+    "https://www.crowdstrike.com/?p=307042",
+    "https://www.crowdstrike.com/?p=342086",
+    "https://www.crowdstrike.com/?p=140317"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
