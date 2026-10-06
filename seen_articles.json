@@ -104,16 +104,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=175568",
-    "https://www.crowdstrike.com/?p=276805",
-    "https://www.crowdstrike.com/?p=836613",
-    "https://www.crowdstrike.com/?p=881332",
-    "https://www.crowdstrike.com/?p=420088",
-    "https://www.crowdstrike.com/?p=700517",
-    "https://www.crowdstrike.com/?p=429019",
-    "https://www.crowdstrike.com/?p=644227",
-    "https://www.crowdstrike.com/?p=634882",
-    "https://www.crowdstrike.com/?p=961747",
     "https://www.crowdstrike.com/?p=417973",
     "https://www.crowdstrike.com/?p=659944",
     "https://www.crowdstrike.com/?p=267618",
@@ -253,7 +243,17 @@
     "https://www.crowdstrike.com/?p=242304",
     "https://www.crowdstrike.com/?p=608935",
     "https://www.crowdstrike.com/?p=381822",
-    "https://www.crowdstrike.com/?p=105613"
+    "https://www.crowdstrike.com/?p=105613",
+    "https://www.crowdstrike.com/?p=497341",
+    "https://www.crowdstrike.com/?p=778245",
+    "https://www.crowdstrike.com/?p=444079",
+    "https://www.crowdstrike.com/?p=861388",
+    "https://www.crowdstrike.com/?p=241527",
+    "https://www.crowdstrike.com/?p=137937",
+    "https://www.crowdstrike.com/?p=621114",
+    "https://www.crowdstrike.com/?p=965697",
+    "https://www.crowdstrike.com/?p=795458",
+    "https://www.crowdstrike.com/?p=120187"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -332,8 +332,6 @@
     "https://unit42.paloaltonetworks.com/?p=187630"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147621",
-    "https://www.microsoft.com/en-us/security/blog/?p=146258",
     "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
     "https://www.microsoft.com/en-us/security/blog/?p=147647",
     "https://www.microsoft.com/en-us/security/blog/?p=147677",
@@ -481,7 +479,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=149838",
     "https://www.microsoft.com/en-us/security/blog/?p=149470",
     "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-    "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/"
+    "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+    "https://www.microsoft.com/en-us/security/blog/?p=149761",
+    "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
