@@ -105,16 +105,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=242393",
-    "https://www.crowdstrike.com/?p=722919",
-    "https://www.crowdstrike.com/?p=546206",
-    "https://www.crowdstrike.com/?p=911031",
-    "https://www.crowdstrike.com/?p=104552",
-    "https://www.crowdstrike.com/?p=596177",
-    "https://www.crowdstrike.com/?p=871424",
-    "https://www.crowdstrike.com/?p=137589",
-    "https://www.crowdstrike.com/?p=891225",
-    "https://www.crowdstrike.com/?p=686925",
     "https://www.crowdstrike.com/?p=498403",
     "https://www.crowdstrike.com/?p=883569",
     "https://www.crowdstrike.com/?p=782702",
@@ -254,7 +244,17 @@
     "https://www.crowdstrike.com/?p=257496",
     "https://www.crowdstrike.com/?p=338269",
     "https://www.crowdstrike.com/?p=992109",
-    "https://www.crowdstrike.com/?p=212743"
+    "https://www.crowdstrike.com/?p=212743",
+    "https://www.crowdstrike.com/?p=531707",
+    "https://www.crowdstrike.com/?p=765671",
+    "https://www.crowdstrike.com/?p=130530",
+    "https://www.crowdstrike.com/?p=526209",
+    "https://www.crowdstrike.com/?p=207207",
+    "https://www.crowdstrike.com/?p=305443",
+    "https://www.crowdstrike.com/?p=401724",
+    "https://www.crowdstrike.com/?p=755389",
+    "https://www.crowdstrike.com/?p=327342",
+    "https://www.crowdstrike.com/?p=311981"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -334,8 +334,6 @@
     "https://unit42.paloaltonetworks.com/?p=187943"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147647",
-    "https://www.microsoft.com/en-us/security/blog/?p=147677",
     "https://www.microsoft.com/en-us/security/blog/?p=147792",
     "https://www.microsoft.com/en-us/security/blog/?p=147779",
     "https://www.microsoft.com/en-us/security/blog/?p=147811",
@@ -483,7 +481,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
     "https://www.microsoft.com/en-us/security/blog/?p=149761",
     "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-    "https://www.microsoft.com/en-us/security/blog/?p=149845"
+    "https://www.microsoft.com/en-us/security/blog/?p=149845",
+    "https://www.microsoft.com/en-us/security/blog/?p=150070",
+    "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
