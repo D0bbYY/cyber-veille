@@ -87,7 +87,8 @@
     "phishing-incident-response-sublime-security",
     "linux-endpoint-management-elastic-workflows",
     "elastic-siem-detection-rule-tags",
-    "ai-soc-automation-alertzero"
+    "ai-soc-automation-alertzero",
+    "apex-accelerator-malicious-npm-packages"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -105,16 +106,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=933289",
-    "https://www.crowdstrike.com/?p=164871",
-    "https://www.crowdstrike.com/?p=658513",
-    "https://www.crowdstrike.com/?p=918701",
-    "https://www.crowdstrike.com/?p=381778",
-    "https://www.crowdstrike.com/?p=492228",
-    "https://www.crowdstrike.com/?p=257496",
-    "https://www.crowdstrike.com/?p=338269",
-    "https://www.crowdstrike.com/?p=992109",
-    "https://www.crowdstrike.com/?p=212743",
     "https://www.crowdstrike.com/?p=531707",
     "https://www.crowdstrike.com/?p=765671",
     "https://www.crowdstrike.com/?p=130530",
@@ -254,7 +245,17 @@
     "https://www.crowdstrike.com/?p=875116",
     "https://www.crowdstrike.com/?p=721808",
     "https://www.crowdstrike.com/?p=327918",
-    "https://www.crowdstrike.com/?p=350288"
+    "https://www.crowdstrike.com/?p=350288",
+    "https://www.crowdstrike.com/?p=277685",
+    "https://www.crowdstrike.com/?p=383327",
+    "https://www.crowdstrike.com/?p=124340",
+    "https://www.crowdstrike.com/?p=393254",
+    "https://www.crowdstrike.com/?p=198766",
+    "https://www.crowdstrike.com/?p=564663",
+    "https://www.crowdstrike.com/?p=157305",
+    "https://www.crowdstrike.com/?p=662685",
+    "https://www.crowdstrike.com/?p=531745",
+    "https://www.crowdstrike.com/?p=303566"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
