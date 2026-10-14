@@ -106,16 +106,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=771895",
-    "https://www.crowdstrike.com/?p=889817",
-    "https://www.crowdstrike.com/?p=619460",
-    "https://www.crowdstrike.com/?p=846734",
-    "https://www.crowdstrike.com/?p=383894",
-    "https://www.crowdstrike.com/?p=600761",
-    "https://www.crowdstrike.com/?p=871551",
-    "https://www.crowdstrike.com/?p=943091",
-    "https://www.crowdstrike.com/?p=621181",
-    "https://www.crowdstrike.com/?p=832020",
     "https://www.crowdstrike.com/?p=424132",
     "https://www.crowdstrike.com/?p=322390",
     "https://www.crowdstrike.com/?p=127914",
@@ -255,7 +245,17 @@
     "https://www.crowdstrike.com/?p=408454",
     "https://www.crowdstrike.com/?p=316580",
     "https://www.crowdstrike.com/?p=168179",
-    "https://www.crowdstrike.com/?p=943978"
+    "https://www.crowdstrike.com/?p=943978",
+    "https://www.crowdstrike.com/?p=502386",
+    "https://www.crowdstrike.com/?p=789425",
+    "https://www.crowdstrike.com/?p=346222",
+    "https://www.crowdstrike.com/?p=817704",
+    "https://www.crowdstrike.com/?p=955774",
+    "https://www.crowdstrike.com/?p=651618",
+    "https://www.crowdstrike.com/?p=599204",
+    "https://www.crowdstrike.com/?p=739622",
+    "https://www.crowdstrike.com/?p=439149",
+    "https://www.crowdstrike.com/?p=885024"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -333,7 +333,8 @@
     "https://unit42.paloaltonetworks.com/?p=187565",
     "https://unit42.paloaltonetworks.com/?p=187630",
     "https://unit42.paloaltonetworks.com/?p=187943",
-    "https://unit42.paloaltonetworks.com/?p=188247"
+    "https://unit42.paloaltonetworks.com/?p=188247",
+    "https://unit42.paloaltonetworks.com/?p=188095"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
