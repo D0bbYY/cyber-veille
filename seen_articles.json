@@ -106,16 +106,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=670699",
-    "https://www.crowdstrike.com/?p=183185",
-    "https://www.crowdstrike.com/?p=787085",
-    "https://www.crowdstrike.com/?p=300281",
-    "https://www.crowdstrike.com/?p=213708",
-    "https://www.crowdstrike.com/?p=999218",
-    "https://www.crowdstrike.com/?p=136032",
-    "https://www.crowdstrike.com/?p=504007",
-    "https://www.crowdstrike.com/?p=907419",
-    "https://www.crowdstrike.com/?p=345853",
     "https://www.crowdstrike.com/?p=783100",
     "https://www.crowdstrike.com/?p=784925",
     "https://www.crowdstrike.com/?p=307028",
@@ -255,7 +245,17 @@
     "https://www.crowdstrike.com/?p=255990",
     "https://www.crowdstrike.com/?p=896097",
     "https://www.crowdstrike.com/?p=466611",
-    "https://www.crowdstrike.com/?p=300853"
+    "https://www.crowdstrike.com/?p=300853",
+    "https://www.crowdstrike.com/?p=647015",
+    "https://www.crowdstrike.com/?p=874252",
+    "https://www.crowdstrike.com/?p=617338",
+    "https://www.crowdstrike.com/?p=859149",
+    "https://www.crowdstrike.com/?p=374742",
+    "https://www.crowdstrike.com/?p=129418",
+    "https://www.crowdstrike.com/?p=148357",
+    "https://www.crowdstrike.com/?p=218079",
+    "https://www.crowdstrike.com/?p=864892",
+    "https://www.crowdstrike.com/?p=204055"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -336,7 +336,6 @@
     "https://unit42.paloaltonetworks.com/?p=188247"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147792",
     "https://www.microsoft.com/en-us/security/blog/?p=147779",
     "https://www.microsoft.com/en-us/security/blog/?p=147811",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
@@ -485,7 +484,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
     "https://www.microsoft.com/en-us/security/blog/?p=149845",
     "https://www.microsoft.com/en-us/security/blog/?p=150070",
-    "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/"
+    "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+    "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
