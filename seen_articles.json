@@ -106,16 +106,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=527006",
-    "https://www.crowdstrike.com/?p=861901",
-    "https://www.crowdstrike.com/?p=893912",
-    "https://www.crowdstrike.com/?p=871271",
-    "https://www.crowdstrike.com/?p=967704",
-    "https://www.crowdstrike.com/?p=876426",
-    "https://www.crowdstrike.com/?p=586624",
-    "https://www.crowdstrike.com/?p=819388",
-    "https://www.crowdstrike.com/?p=554105",
-    "https://www.crowdstrike.com/?p=940530",
     "https://www.crowdstrike.com/?p=779119",
     "https://www.crowdstrike.com/?p=468375",
     "https://www.crowdstrike.com/?p=453993",
@@ -255,7 +245,17 @@
     "https://www.crowdstrike.com/?p=427296",
     "https://www.crowdstrike.com/?p=296353",
     "https://www.crowdstrike.com/?p=224626",
-    "https://www.crowdstrike.com/?p=205891"
+    "https://www.crowdstrike.com/?p=205891",
+    "https://www.crowdstrike.com/?p=156512",
+    "https://www.crowdstrike.com/?p=363820",
+    "https://www.crowdstrike.com/?p=525230",
+    "https://www.crowdstrike.com/?p=698691",
+    "https://www.crowdstrike.com/?p=359406",
+    "https://www.crowdstrike.com/?p=963455",
+    "https://www.crowdstrike.com/?p=505315",
+    "https://www.crowdstrike.com/?p=640254",
+    "https://www.crowdstrike.com/?p=517381",
+    "https://www.crowdstrike.com/?p=694129"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -339,7 +339,6 @@
     "https://unit42.paloaltonetworks.com/?p=188674"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147521",
     "https://www.microsoft.com/en-us/security/blog/?p=147916",
     "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
@@ -488,7 +487,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
     "https://www.microsoft.com/en-us/security/blog/?p=150082",
     "https://www.microsoft.com/en-us/security/blog/?p=150126",
-    "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
+    "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+    "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
