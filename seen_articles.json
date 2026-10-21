@@ -88,7 +88,8 @@
     "linux-endpoint-management-elastic-workflows",
     "elastic-siem-detection-rule-tags",
     "ai-soc-automation-alertzero",
-    "apex-accelerator-malicious-npm-packages"
+    "apex-accelerator-malicious-npm-packages",
+    "php2shell-php-rce-detection"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -106,16 +107,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=312192",
-    "https://www.crowdstrike.com/?p=221225",
-    "https://www.crowdstrike.com/?p=560498",
-    "https://www.crowdstrike.com/?p=178473",
-    "https://www.crowdstrike.com/?p=394151",
-    "https://www.crowdstrike.com/?p=408121",
-    "https://www.crowdstrike.com/?p=367271",
-    "https://www.crowdstrike.com/?p=372762",
-    "https://www.crowdstrike.com/?p=608461",
-    "https://www.crowdstrike.com/?p=356952",
     "https://www.crowdstrike.com/?p=695884",
     "https://www.crowdstrike.com/?p=239446",
     "https://www.crowdstrike.com/?p=368980",
@@ -255,7 +246,17 @@
     "https://www.crowdstrike.com/?p=650587",
     "https://www.crowdstrike.com/?p=145301",
     "https://www.crowdstrike.com/?p=496048",
-    "https://www.crowdstrike.com/?p=622288"
+    "https://www.crowdstrike.com/?p=622288",
+    "https://www.crowdstrike.com/?p=529330",
+    "https://www.crowdstrike.com/?p=583914",
+    "https://www.crowdstrike.com/?p=777251",
+    "https://www.crowdstrike.com/?p=291581",
+    "https://www.crowdstrike.com/?p=733550",
+    "https://www.crowdstrike.com/?p=296178",
+    "https://www.crowdstrike.com/?p=805804",
+    "https://www.crowdstrike.com/?p=827133",
+    "https://www.crowdstrike.com/?p=538920",
+    "https://www.crowdstrike.com/?p=861757"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -336,7 +337,9 @@
     "https://unit42.paloaltonetworks.com/?p=188247",
     "https://unit42.paloaltonetworks.com/?p=188095",
     "https://unit42.paloaltonetworks.com/?p=188392",
-    "https://unit42.paloaltonetworks.com/?p=188674"
+    "https://unit42.paloaltonetworks.com/?p=188674",
+    "https://unit42.paloaltonetworks.com/?p=188799",
+    "https://unit42.paloaltonetworks.com/?p=188690"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/?p=147916",
