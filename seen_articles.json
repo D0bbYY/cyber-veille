@@ -107,16 +107,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=558334",
-    "https://www.crowdstrike.com/?p=919277",
-    "https://www.crowdstrike.com/?p=236236",
-    "https://www.crowdstrike.com/?p=675770",
-    "https://www.crowdstrike.com/?p=115261",
-    "https://www.crowdstrike.com/?p=613324",
-    "https://www.crowdstrike.com/?p=121476",
-    "https://www.crowdstrike.com/?p=822911",
-    "https://www.crowdstrike.com/?p=611221",
-    "https://www.crowdstrike.com/?p=860050",
     "https://www.crowdstrike.com/?p=814347",
     "https://www.crowdstrike.com/?p=950646",
     "https://www.crowdstrike.com/?p=359824",
@@ -256,7 +246,17 @@
     "https://www.crowdstrike.com/?p=175674",
     "https://www.crowdstrike.com/?p=201465",
     "https://www.crowdstrike.com/?p=673733",
-    "https://www.crowdstrike.com/?p=371890"
+    "https://www.crowdstrike.com/?p=371890",
+    "https://www.crowdstrike.com/?p=704438",
+    "https://www.crowdstrike.com/?p=296619",
+    "https://www.crowdstrike.com/?p=989683",
+    "https://www.crowdstrike.com/?p=794524",
+    "https://www.crowdstrike.com/?p=715380",
+    "https://www.crowdstrike.com/?p=387563",
+    "https://www.crowdstrike.com/?p=895502",
+    "https://www.crowdstrike.com/?p=319676",
+    "https://www.crowdstrike.com/?p=659733",
+    "https://www.crowdstrike.com/?p=900054"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -339,7 +339,9 @@
     "https://unit42.paloaltonetworks.com/?p=188392",
     "https://unit42.paloaltonetworks.com/?p=188674",
     "https://unit42.paloaltonetworks.com/?p=188799",
-    "https://unit42.paloaltonetworks.com/?p=188690"
+    "https://unit42.paloaltonetworks.com/?p=188690",
+    "https://unit42.paloaltonetworks.com/?p=188944",
+    "https://unit42.paloaltonetworks.com/?p=188831"
   ],
   "Microsoft Security Blog": [
     "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
