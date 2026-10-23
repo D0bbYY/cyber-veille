@@ -108,16 +108,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=803540",
-    "https://www.crowdstrike.com/?p=739244",
-    "https://www.crowdstrike.com/?p=157444",
-    "https://www.crowdstrike.com/?p=650560",
-    "https://www.crowdstrike.com/?p=787464",
-    "https://www.crowdstrike.com/?p=447991",
-    "https://www.crowdstrike.com/?p=284877",
-    "https://www.crowdstrike.com/?p=428135",
-    "https://www.crowdstrike.com/?p=698294",
-    "https://www.crowdstrike.com/?p=682597",
     "https://www.crowdstrike.com/?p=688734",
     "https://www.crowdstrike.com/?p=690784",
     "https://www.crowdstrike.com/?p=546581",
@@ -257,7 +247,17 @@
     "https://www.crowdstrike.com/?p=564544",
     "https://www.crowdstrike.com/?p=840905",
     "https://www.crowdstrike.com/?p=748385",
-    "https://www.crowdstrike.com/?p=437181"
+    "https://www.crowdstrike.com/?p=437181",
+    "https://www.crowdstrike.com/?p=730307",
+    "https://www.crowdstrike.com/?p=374815",
+    "https://www.crowdstrike.com/?p=961555",
+    "https://www.crowdstrike.com/?p=434148",
+    "https://www.crowdstrike.com/?p=746088",
+    "https://www.crowdstrike.com/?p=474359",
+    "https://www.crowdstrike.com/?p=498234",
+    "https://www.crowdstrike.com/?p=596411",
+    "https://www.crowdstrike.com/?p=777857",
+    "https://www.crowdstrike.com/?p=114911"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -345,7 +345,6 @@
     "https://unit42.paloaltonetworks.com/?p=188831"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
     "https://www.microsoft.com/en-us/security/blog/?p=147942",
     "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
@@ -494,7 +493,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150126",
     "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
     "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-    "https://www.microsoft.com/en-us/security/blog/?p=150178"
+    "https://www.microsoft.com/en-us/security/blog/?p=150178",
+    "https://www.microsoft.com/en-us/security/blog/?p=150238"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
