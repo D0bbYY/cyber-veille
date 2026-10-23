@@ -89,7 +89,8 @@
     "elastic-siem-detection-rule-tags",
     "ai-soc-automation-alertzero",
     "apex-accelerator-malicious-npm-packages",
-    "php2shell-php-rce-detection"
+    "php2shell-php-rce-detection",
+    "command-injection-zimbra-cve-2026-73570"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -107,16 +108,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=600382",
-    "https://www.crowdstrike.com/?p=295354",
-    "https://www.crowdstrike.com/?p=545458",
-    "https://www.crowdstrike.com/?p=525091",
-    "https://www.crowdstrike.com/?p=142301",
-    "https://www.crowdstrike.com/?p=646186",
-    "https://www.crowdstrike.com/?p=884675",
-    "https://www.crowdstrike.com/?p=548255",
-    "https://www.crowdstrike.com/?p=243371",
-    "https://www.crowdstrike.com/?p=193890",
     "https://www.crowdstrike.com/?p=803540",
     "https://www.crowdstrike.com/?p=739244",
     "https://www.crowdstrike.com/?p=157444",
@@ -256,7 +247,17 @@
     "https://www.crowdstrike.com/?p=968606",
     "https://www.crowdstrike.com/?p=409256",
     "https://www.crowdstrike.com/?p=375460",
-    "https://www.crowdstrike.com/?p=650073"
+    "https://www.crowdstrike.com/?p=650073",
+    "https://www.crowdstrike.com/?p=373272",
+    "https://www.crowdstrike.com/?p=128850",
+    "https://www.crowdstrike.com/?p=809169",
+    "https://www.crowdstrike.com/?p=770458",
+    "https://www.crowdstrike.com/?p=672130",
+    "https://www.crowdstrike.com/?p=451344",
+    "https://www.crowdstrike.com/?p=564544",
+    "https://www.crowdstrike.com/?p=840905",
+    "https://www.crowdstrike.com/?p=748385",
+    "https://www.crowdstrike.com/?p=437181"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
