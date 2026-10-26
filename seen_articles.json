@@ -90,7 +90,8 @@
     "ai-soc-automation-alertzero",
     "apex-accelerator-malicious-npm-packages",
     "php2shell-php-rce-detection",
-    "command-injection-zimbra-cve-2026-73570"
+    "command-injection-zimbra-cve-2026-73570",
+    "windows-endpoint-security-platform-wesp"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
