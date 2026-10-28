@@ -109,16 +109,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=376455",
-    "https://www.crowdstrike.com/?p=797927",
-    "https://www.crowdstrike.com/?p=878254",
-    "https://www.crowdstrike.com/?p=545452",
-    "https://www.crowdstrike.com/?p=799355",
-    "https://www.crowdstrike.com/?p=650516",
-    "https://www.crowdstrike.com/?p=201478",
-    "https://www.crowdstrike.com/?p=560205",
-    "https://www.crowdstrike.com/?p=782589",
-    "https://www.crowdstrike.com/?p=613539",
     "https://www.crowdstrike.com/?p=612853",
     "https://www.crowdstrike.com/?p=188523",
     "https://www.crowdstrike.com/?p=762655",
@@ -258,7 +248,17 @@
     "https://www.crowdstrike.com/?p=237103",
     "https://www.crowdstrike.com/?p=876422",
     "https://www.crowdstrike.com/?p=559562",
-    "https://www.crowdstrike.com/?p=531117"
+    "https://www.crowdstrike.com/?p=531117",
+    "https://www.crowdstrike.com/?p=905725",
+    "https://www.crowdstrike.com/?p=744760",
+    "https://www.crowdstrike.com/?p=291341",
+    "https://www.crowdstrike.com/?p=490791",
+    "https://www.crowdstrike.com/?p=606987",
+    "https://www.crowdstrike.com/?p=246253",
+    "https://www.crowdstrike.com/?p=633656",
+    "https://www.crowdstrike.com/?p=673100",
+    "https://www.crowdstrike.com/?p=126831",
+    "https://www.crowdstrike.com/?p=804106"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -343,10 +343,10 @@
     "https://unit42.paloaltonetworks.com/?p=188799",
     "https://unit42.paloaltonetworks.com/?p=188690",
     "https://unit42.paloaltonetworks.com/?p=188944",
-    "https://unit42.paloaltonetworks.com/?p=188831"
+    "https://unit42.paloaltonetworks.com/?p=188831",
+    "https://unit42.paloaltonetworks.com/?p=189023"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
     "https://www.microsoft.com/en-us/security/blog/?p=147942",
     "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
     "https://www.microsoft.com/en-us/security/blog/?p=147931",
@@ -495,7 +495,8 @@
     "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
     "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
     "https://www.microsoft.com/en-us/security/blog/?p=150178",
-    "https://www.microsoft.com/en-us/security/blog/?p=150238"
+    "https://www.microsoft.com/en-us/security/blog/?p=150238",
+    "https://www.microsoft.com/en-us/security/blog/?p=150233"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
