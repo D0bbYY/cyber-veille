@@ -109,16 +109,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=236114",
-    "https://www.crowdstrike.com/?p=129217",
-    "https://www.crowdstrike.com/?p=197185",
-    "https://www.crowdstrike.com/?p=506290",
-    "https://www.crowdstrike.com/?p=855520",
-    "https://www.crowdstrike.com/?p=291270",
-    "https://www.crowdstrike.com/?p=103680",
-    "https://www.crowdstrike.com/?p=381726",
-    "https://www.crowdstrike.com/?p=287040",
-    "https://www.crowdstrike.com/?p=808290",
     "https://www.crowdstrike.com/?p=579616",
     "https://www.crowdstrike.com/?p=232212",
     "https://www.crowdstrike.com/?p=495148",
@@ -258,7 +248,17 @@
     "https://www.crowdstrike.com/?p=692804",
     "https://www.crowdstrike.com/?p=160817",
     "https://www.crowdstrike.com/?p=776897",
-    "https://www.crowdstrike.com/?p=103929"
+    "https://www.crowdstrike.com/?p=103929",
+    "https://www.crowdstrike.com/?p=592080",
+    "https://www.crowdstrike.com/?p=628178",
+    "https://www.crowdstrike.com/?p=553893",
+    "https://www.crowdstrike.com/?p=729796",
+    "https://www.crowdstrike.com/?p=724621",
+    "https://www.crowdstrike.com/?p=424945",
+    "https://www.crowdstrike.com/?p=445696",
+    "https://www.crowdstrike.com/?p=740254",
+    "https://www.crowdstrike.com/?p=958397",
+    "https://www.crowdstrike.com/?p=150444"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -347,8 +347,6 @@
     "https://unit42.paloaltonetworks.com/?p=189023"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147942",
-    "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
     "https://www.microsoft.com/en-us/security/blog/?p=147931",
     "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
@@ -496,7 +494,9 @@
     "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
     "https://www.microsoft.com/en-us/security/blog/?p=150178",
     "https://www.microsoft.com/en-us/security/blog/?p=150238",
-    "https://www.microsoft.com/en-us/security/blog/?p=150233"
+    "https://www.microsoft.com/en-us/security/blog/?p=150233",
+    "https://www.microsoft.com/en-us/security/blog/?p=150611",
+    "https://www.microsoft.com/en-us/security/blog/?p=150250"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
