@@ -109,16 +109,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=698626",
-    "https://www.crowdstrike.com/?p=577015",
-    "https://www.crowdstrike.com/?p=942633",
-    "https://www.crowdstrike.com/?p=389869",
-    "https://www.crowdstrike.com/?p=926419",
-    "https://www.crowdstrike.com/?p=733004",
-    "https://www.crowdstrike.com/?p=433728",
-    "https://www.crowdstrike.com/?p=630005",
-    "https://www.crowdstrike.com/?p=767053",
-    "https://www.crowdstrike.com/?p=787675",
     "https://www.crowdstrike.com/?p=725800",
     "https://www.crowdstrike.com/?p=871578",
     "https://www.crowdstrike.com/?p=552818",
@@ -258,7 +248,17 @@
     "https://www.crowdstrike.com/?p=954806",
     "https://www.crowdstrike.com/?p=151455",
     "https://www.crowdstrike.com/?p=252511",
-    "https://www.crowdstrike.com/?p=130672"
+    "https://www.crowdstrike.com/?p=130672",
+    "https://www.crowdstrike.com/?p=815451",
+    "https://www.crowdstrike.com/?p=580421",
+    "https://www.crowdstrike.com/?p=674867",
+    "https://www.crowdstrike.com/?p=872999",
+    "https://www.crowdstrike.com/?p=688174",
+    "https://www.crowdstrike.com/?p=762755",
+    "https://www.crowdstrike.com/?p=969388",
+    "https://www.crowdstrike.com/?p=270324",
+    "https://www.crowdstrike.com/?p=556102",
+    "https://www.crowdstrike.com/?p=764424"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -347,7 +347,6 @@
     "https://unit42.paloaltonetworks.com/?p=189023"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=147931",
     "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
     "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
@@ -496,7 +495,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150238",
     "https://www.microsoft.com/en-us/security/blog/?p=150233",
     "https://www.microsoft.com/en-us/security/blog/?p=150611",
-    "https://www.microsoft.com/en-us/security/blog/?p=150250"
+    "https://www.microsoft.com/en-us/security/blog/?p=150250",
+    "https://www.microsoft.com/en-us/security/blog/?p=150668"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
