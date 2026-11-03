@@ -109,16 +109,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=541907",
-    "https://www.crowdstrike.com/?p=341244",
-    "https://www.crowdstrike.com/?p=712726",
-    "https://www.crowdstrike.com/?p=813429",
-    "https://www.crowdstrike.com/?p=670351",
-    "https://www.crowdstrike.com/?p=209700",
-    "https://www.crowdstrike.com/?p=938388",
-    "https://www.crowdstrike.com/?p=349586",
-    "https://www.crowdstrike.com/?p=516224",
-    "https://www.crowdstrike.com/?p=566735",
     "https://www.crowdstrike.com/?p=748717",
     "https://www.crowdstrike.com/?p=221390",
     "https://www.crowdstrike.com/?p=625338",
@@ -258,7 +248,17 @@
     "https://www.crowdstrike.com/?p=399808",
     "https://www.crowdstrike.com/?p=160698",
     "https://www.crowdstrike.com/?p=810160",
-    "https://www.crowdstrike.com/?p=589402"
+    "https://www.crowdstrike.com/?p=589402",
+    "https://www.crowdstrike.com/?p=574766",
+    "https://www.crowdstrike.com/?p=281087",
+    "https://www.crowdstrike.com/?p=785953",
+    "https://www.crowdstrike.com/?p=308318",
+    "https://www.crowdstrike.com/?p=369048",
+    "https://www.crowdstrike.com/?p=367453",
+    "https://www.crowdstrike.com/?p=131312",
+    "https://www.crowdstrike.com/?p=418476",
+    "https://www.crowdstrike.com/?p=311936",
+    "https://www.crowdstrike.com/?p=684638"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -348,8 +348,6 @@
     "https://unit42.paloaltonetworks.com/?p=189038"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
-    "https://www.microsoft.com/en-us/security/blog/?p=147976",
     "https://www.microsoft.com/en-us/security/blog/?p=148060",
     "https://www.microsoft.com/en-us/security/blog/?p=148051",
     "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
@@ -497,7 +495,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150250",
     "https://www.microsoft.com/en-us/security/blog/?p=150668",
     "https://www.microsoft.com/en-us/security/blog/?p=150709",
-    "https://www.microsoft.com/en-us/security/blog/?p=150724"
+    "https://www.microsoft.com/en-us/security/blog/?p=150724",
+    "https://www.microsoft.com/en-us/security/blog/?p=150742",
+    "https://www.microsoft.com/en-us/security/blog/?p=150631"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
