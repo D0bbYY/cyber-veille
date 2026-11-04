@@ -91,7 +91,9 @@
     "apex-accelerator-malicious-npm-packages",
     "php2shell-php-rce-detection",
     "command-injection-zimbra-cve-2026-73570",
-    "windows-endpoint-security-platform-wesp"
+    "windows-endpoint-security-platform-wesp",
+    "ai-agent-session-monitoring-embedding-models",
+    "threats-etc-report-november-2026-trouble-with-trust"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -109,16 +111,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=539186",
-    "https://www.crowdstrike.com/?p=953606",
-    "https://www.crowdstrike.com/?p=581432",
-    "https://www.crowdstrike.com/?p=359407",
-    "https://www.crowdstrike.com/?p=260127",
-    "https://www.crowdstrike.com/?p=660805",
-    "https://www.crowdstrike.com/?p=340708",
-    "https://www.crowdstrike.com/?p=225628",
-    "https://www.crowdstrike.com/?p=764962",
-    "https://www.crowdstrike.com/?p=316516",
     "https://www.crowdstrike.com/?p=837391",
     "https://www.crowdstrike.com/?p=242048",
     "https://www.crowdstrike.com/?p=739257",
@@ -258,7 +250,17 @@
     "https://www.crowdstrike.com/?p=559703",
     "https://www.crowdstrike.com/?p=159074",
     "https://www.crowdstrike.com/?p=824564",
-    "https://www.crowdstrike.com/?p=491576"
+    "https://www.crowdstrike.com/?p=491576",
+    "https://www.crowdstrike.com/?p=973478",
+    "https://www.crowdstrike.com/?p=145458",
+    "https://www.crowdstrike.com/?p=505107",
+    "https://www.crowdstrike.com/?p=869402",
+    "https://www.crowdstrike.com/?p=650076",
+    "https://www.crowdstrike.com/?p=157880",
+    "https://www.crowdstrike.com/?p=612897",
+    "https://www.crowdstrike.com/?p=413270",
+    "https://www.crowdstrike.com/?p=169391",
+    "https://www.crowdstrike.com/?p=965138"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
