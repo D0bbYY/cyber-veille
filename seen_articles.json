@@ -111,16 +111,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=578148",
-    "https://www.crowdstrike.com/?p=936298",
-    "https://www.crowdstrike.com/?p=720602",
-    "https://www.crowdstrike.com/?p=914479",
-    "https://www.crowdstrike.com/?p=358055",
-    "https://www.crowdstrike.com/?p=891551",
-    "https://www.crowdstrike.com/?p=947018",
-    "https://www.crowdstrike.com/?p=332286",
-    "https://www.crowdstrike.com/?p=295489",
-    "https://www.crowdstrike.com/?p=860817",
     "https://www.crowdstrike.com/?p=642519",
     "https://www.crowdstrike.com/?p=281225",
     "https://www.crowdstrike.com/?p=708663",
@@ -260,7 +250,17 @@
     "https://www.crowdstrike.com/?p=648600",
     "https://www.crowdstrike.com/?p=566488",
     "https://www.crowdstrike.com/?p=284078",
-    "https://www.crowdstrike.com/?p=238749"
+    "https://www.crowdstrike.com/?p=238749",
+    "https://www.crowdstrike.com/?p=984188",
+    "https://www.crowdstrike.com/?p=314891",
+    "https://www.crowdstrike.com/?p=692855",
+    "https://www.crowdstrike.com/?p=731876",
+    "https://www.crowdstrike.com/?p=517106",
+    "https://www.crowdstrike.com/?p=279898",
+    "https://www.crowdstrike.com/?p=285918",
+    "https://www.crowdstrike.com/?p=504499",
+    "https://www.crowdstrike.com/?p=995399",
+    "https://www.crowdstrike.com/?p=188706"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -350,7 +350,6 @@
     "https://unit42.paloaltonetworks.com/?p=189038"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
     "https://www.microsoft.com/en-us/security/blog/?p=148052",
     "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
@@ -499,7 +498,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150631",
     "https://www.microsoft.com/en-us/security/blog/?p=150825",
     "https://www.microsoft.com/en-us/security/blog/?p=150684",
-    "https://www.microsoft.com/en-us/security/blog/?p=150766"
+    "https://www.microsoft.com/en-us/security/blog/?p=150766",
+    "https://www.microsoft.com/en-us/security/blog/?p=150836"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
