@@ -351,7 +351,6 @@
     "https://unit42.paloaltonetworks.com/?p=189049"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/?p=148052",
     "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
     "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
@@ -500,7 +499,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150825",
     "https://www.microsoft.com/en-us/security/blog/?p=150684",
     "https://www.microsoft.com/en-us/security/blog/?p=150766",
-    "https://www.microsoft.com/en-us/security/blog/?p=150836"
+    "https://www.microsoft.com/en-us/security/blog/?p=150836",
+    "https://www.microsoft.com/en-us/security/blog/?p=150857"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
