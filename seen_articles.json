@@ -111,16 +111,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=679655",
-    "https://www.crowdstrike.com/?p=535807",
-    "https://www.crowdstrike.com/?p=415891",
-    "https://www.crowdstrike.com/?p=311166",
-    "https://www.crowdstrike.com/?p=129424",
-    "https://www.crowdstrike.com/?p=763329",
-    "https://www.crowdstrike.com/?p=289007",
-    "https://www.crowdstrike.com/?p=935336",
-    "https://www.crowdstrike.com/?p=529270",
-    "https://www.crowdstrike.com/?p=703696",
     "https://www.crowdstrike.com/?p=620066",
     "https://www.crowdstrike.com/?p=346823",
     "https://www.crowdstrike.com/?p=386762",
@@ -260,7 +250,17 @@
     "https://www.crowdstrike.com/?p=208463",
     "https://www.crowdstrike.com/?p=970791",
     "https://www.crowdstrike.com/?p=555431",
-    "https://www.crowdstrike.com/?p=547548"
+    "https://www.crowdstrike.com/?p=547548",
+    "https://www.crowdstrike.com/?p=831817",
+    "https://www.crowdstrike.com/?p=462050",
+    "https://www.crowdstrike.com/?p=829137",
+    "https://www.crowdstrike.com/?p=230172",
+    "https://www.crowdstrike.com/?p=155543",
+    "https://www.crowdstrike.com/?p=975718",
+    "https://www.crowdstrike.com/?p=716373",
+    "https://www.crowdstrike.com/?p=332960",
+    "https://www.crowdstrike.com/?p=749944",
+    "https://www.crowdstrike.com/?p=458788"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -351,7 +351,6 @@
     "https://unit42.paloaltonetworks.com/?p=189049"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
     "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
@@ -500,7 +499,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150684",
     "https://www.microsoft.com/en-us/security/blog/?p=150766",
     "https://www.microsoft.com/en-us/security/blog/?p=150836",
-    "https://www.microsoft.com/en-us/security/blog/?p=150857"
+    "https://www.microsoft.com/en-us/security/blog/?p=150857",
+    "https://www.microsoft.com/en-us/security/blog/?p=150871"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
