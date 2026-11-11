@@ -111,16 +111,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=210716",
-    "https://www.crowdstrike.com/?p=525686",
-    "https://www.crowdstrike.com/?p=460912",
-    "https://www.crowdstrike.com/?p=893418",
-    "https://www.crowdstrike.com/?p=586041",
-    "https://www.crowdstrike.com/?p=296684",
-    "https://www.crowdstrike.com/?p=378645",
-    "https://www.crowdstrike.com/?p=461567",
-    "https://www.crowdstrike.com/?p=923862",
-    "https://www.crowdstrike.com/?p=432436",
     "https://www.crowdstrike.com/?p=633724",
     "https://www.crowdstrike.com/?p=966007",
     "https://www.crowdstrike.com/?p=145025",
@@ -260,7 +250,17 @@
     "https://www.crowdstrike.com/?p=827391",
     "https://www.crowdstrike.com/?p=438528",
     "https://www.crowdstrike.com/?p=158764",
-    "https://www.crowdstrike.com/?p=486124"
+    "https://www.crowdstrike.com/?p=486124",
+    "https://www.crowdstrike.com/?p=770829",
+    "https://www.crowdstrike.com/?p=107549",
+    "https://www.crowdstrike.com/?p=485686",
+    "https://www.crowdstrike.com/?p=550228",
+    "https://www.crowdstrike.com/?p=392358",
+    "https://www.crowdstrike.com/?p=930300",
+    "https://www.crowdstrike.com/?p=393507",
+    "https://www.crowdstrike.com/?p=528538",
+    "https://www.crowdstrike.com/?p=201075",
+    "https://www.crowdstrike.com/?p=252999"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -351,7 +351,6 @@
     "https://unit42.paloaltonetworks.com/?p=189049"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
     "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
@@ -500,7 +499,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150766",
     "https://www.microsoft.com/en-us/security/blog/?p=150836",
     "https://www.microsoft.com/en-us/security/blog/?p=150857",
-    "https://www.microsoft.com/en-us/security/blog/?p=150871"
+    "https://www.microsoft.com/en-us/security/blog/?p=150871",
+    "https://www.microsoft.com/en-us/security/blog/?p=150905"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
@@ -522,6 +522,7 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-july-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-2026-update.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-recap.html",
-    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-september-2026-recap.html"
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-september-2026-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-october-recap.html"
   ]
 }
