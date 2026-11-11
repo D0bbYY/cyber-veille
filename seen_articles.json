@@ -111,16 +111,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=611297",
-    "https://www.crowdstrike.com/?p=803741",
-    "https://www.crowdstrike.com/?p=332486",
-    "https://www.crowdstrike.com/?p=369916",
-    "https://www.crowdstrike.com/?p=617077",
-    "https://www.crowdstrike.com/?p=501241",
-    "https://www.crowdstrike.com/?p=919387",
-    "https://www.crowdstrike.com/?p=358861",
-    "https://www.crowdstrike.com/?p=142956",
-    "https://www.crowdstrike.com/?p=763787",
     "https://www.crowdstrike.com/?p=186954",
     "https://www.crowdstrike.com/?p=441689",
     "https://www.crowdstrike.com/?p=720537",
@@ -260,7 +250,17 @@
     "https://www.crowdstrike.com/?p=434038",
     "https://www.crowdstrike.com/?p=304893",
     "https://www.crowdstrike.com/?p=717235",
-    "https://www.crowdstrike.com/?p=377195"
+    "https://www.crowdstrike.com/?p=377195",
+    "https://www.crowdstrike.com/?p=451999",
+    "https://www.crowdstrike.com/?p=597912",
+    "https://www.crowdstrike.com/?p=162836",
+    "https://www.crowdstrike.com/?p=699622",
+    "https://www.crowdstrike.com/?p=639705",
+    "https://www.crowdstrike.com/?p=934236",
+    "https://www.crowdstrike.com/?p=115475",
+    "https://www.crowdstrike.com/?p=780075",
+    "https://www.crowdstrike.com/?p=913704",
+    "https://www.crowdstrike.com/?p=142725"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -349,11 +349,10 @@
     "https://unit42.paloaltonetworks.com/?p=189023",
     "https://unit42.paloaltonetworks.com/?p=189038",
     "https://unit42.paloaltonetworks.com/?p=189049",
-    "https://unit42.paloaltonetworks.com/?p=189298"
+    "https://unit42.paloaltonetworks.com/?p=189298",
+    "https://unit42.paloaltonetworks.com/?p=189723"
   ],
   "Microsoft Security Blog": [
-    "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
-    "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
@@ -501,7 +500,9 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150836",
     "https://www.microsoft.com/en-us/security/blog/?p=150857",
     "https://www.microsoft.com/en-us/security/blog/?p=150871",
-    "https://www.microsoft.com/en-us/security/blog/?p=150905"
+    "https://www.microsoft.com/en-us/security/blog/?p=150905",
+    "https://www.microsoft.com/en-us/security/blog/?p=150921",
+    "https://www.microsoft.com/en-us/security/blog/?p=150915"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
