@@ -93,7 +93,8 @@
     "command-injection-zimbra-cve-2026-73570",
     "windows-endpoint-security-platform-wesp",
     "ai-agent-session-monitoring-embedding-models",
-    "threats-etc-report-november-2026-trouble-with-trust"
+    "threats-etc-report-november-2026-trouble-with-trust",
+    "sansar-linux-cryptomining-malware"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -111,16 +112,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=744615",
-    "https://www.crowdstrike.com/?p=779558",
-    "https://www.crowdstrike.com/?p=771733",
-    "https://www.crowdstrike.com/?p=133012",
-    "https://www.crowdstrike.com/?p=297656",
-    "https://www.crowdstrike.com/?p=769346",
-    "https://www.crowdstrike.com/?p=586815",
-    "https://www.crowdstrike.com/?p=652062",
-    "https://www.crowdstrike.com/?p=169297",
-    "https://www.crowdstrike.com/?p=724060",
     "https://www.crowdstrike.com/?p=411522",
     "https://www.crowdstrike.com/?p=696997",
     "https://www.crowdstrike.com/?p=214372",
@@ -260,7 +251,17 @@
     "https://www.crowdstrike.com/?p=549064",
     "https://www.crowdstrike.com/?p=820012",
     "https://www.crowdstrike.com/?p=310107",
-    "https://www.crowdstrike.com/?p=952111"
+    "https://www.crowdstrike.com/?p=952111",
+    "https://www.crowdstrike.com/?p=807205",
+    "https://www.crowdstrike.com/?p=680423",
+    "https://www.crowdstrike.com/?p=816440",
+    "https://www.crowdstrike.com/?p=206248",
+    "https://www.crowdstrike.com/?p=195069",
+    "https://www.crowdstrike.com/?p=442063",
+    "https://www.crowdstrike.com/?p=602363",
+    "https://www.crowdstrike.com/?p=412845",
+    "https://www.crowdstrike.com/?p=796218",
+    "https://www.crowdstrike.com/?p=153036"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -350,10 +351,10 @@
     "https://unit42.paloaltonetworks.com/?p=189038",
     "https://unit42.paloaltonetworks.com/?p=189049",
     "https://unit42.paloaltonetworks.com/?p=189298",
-    "https://unit42.paloaltonetworks.com/?p=189723"
+    "https://unit42.paloaltonetworks.com/?p=189723",
+    "https://unit42.paloaltonetworks.com/?p=189684"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
     "https://www.microsoft.com/en-us/security/blog/?p=148154",
@@ -502,7 +503,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150871",
     "https://www.microsoft.com/en-us/security/blog/?p=150905",
     "https://www.microsoft.com/en-us/security/blog/?p=150921",
-    "https://www.microsoft.com/en-us/security/blog/?p=150915"
+    "https://www.microsoft.com/en-us/security/blog/?p=150915",
+    "https://www.microsoft.com/en-us/security/blog/?p=150951"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
