@@ -357,7 +357,6 @@
     "https://unit42.paloaltonetworks.com/?p=189684"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
     "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
     "https://www.microsoft.com/en-us/security/blog/?p=148154",
     "https://www.microsoft.com/en-us/security/blog/?p=148100",
@@ -506,7 +505,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150905",
     "https://www.microsoft.com/en-us/security/blog/?p=150921",
     "https://www.microsoft.com/en-us/security/blog/?p=150915",
-    "https://www.microsoft.com/en-us/security/blog/?p=150951"
+    "https://www.microsoft.com/en-us/security/blog/?p=150951",
+    "https://www.microsoft.com/en-us/security/blog/?p=150990"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
