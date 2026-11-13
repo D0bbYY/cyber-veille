@@ -94,7 +94,9 @@
     "windows-endpoint-security-platform-wesp",
     "ai-agent-session-monitoring-embedding-models",
     "threats-etc-report-november-2026-trouble-with-trust",
-    "sansar-linux-cryptomining-malware"
+    "sansar-linux-cryptomining-malware",
+    "agentic-offensive-frameworks-detection-artex",
+    "cyberstrikeai-aws-cloudtrail-intrusion"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -112,16 +114,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=926551",
-    "https://www.crowdstrike.com/?p=137918",
-    "https://www.crowdstrike.com/?p=226345",
-    "https://www.crowdstrike.com/?p=617110",
-    "https://www.crowdstrike.com/?p=538178",
-    "https://www.crowdstrike.com/?p=129109",
-    "https://www.crowdstrike.com/?p=743148",
-    "https://www.crowdstrike.com/?p=820016",
-    "https://www.crowdstrike.com/?p=352968",
-    "https://www.crowdstrike.com/?p=462976",
     "https://www.crowdstrike.com/?p=986407",
     "https://www.crowdstrike.com/?p=490637",
     "https://www.crowdstrike.com/?p=794001",
@@ -261,7 +253,17 @@
     "https://www.crowdstrike.com/?p=791342",
     "https://www.crowdstrike.com/?p=769912",
     "https://www.crowdstrike.com/?p=885208",
-    "https://www.crowdstrike.com/?p=342676"
+    "https://www.crowdstrike.com/?p=342676",
+    "https://www.crowdstrike.com/?p=544873",
+    "https://www.crowdstrike.com/?p=617735",
+    "https://www.crowdstrike.com/?p=259554",
+    "https://www.crowdstrike.com/?p=367360",
+    "https://www.crowdstrike.com/?p=403276",
+    "https://www.crowdstrike.com/?p=800872",
+    "https://www.crowdstrike.com/?p=638564",
+    "https://www.crowdstrike.com/?p=363742",
+    "https://www.crowdstrike.com/?p=401234",
+    "https://www.crowdstrike.com/?p=233323"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
