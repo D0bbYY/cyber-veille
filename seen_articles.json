@@ -114,16 +114,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=986407",
-    "https://www.crowdstrike.com/?p=490637",
-    "https://www.crowdstrike.com/?p=794001",
-    "https://www.crowdstrike.com/?p=182497",
-    "https://www.crowdstrike.com/?p=325817",
-    "https://www.crowdstrike.com/?p=250876",
-    "https://www.crowdstrike.com/?p=769852",
-    "https://www.crowdstrike.com/?p=601711",
-    "https://www.crowdstrike.com/?p=220473",
-    "https://www.crowdstrike.com/?p=803214",
     "https://www.crowdstrike.com/?p=846707",
     "https://www.crowdstrike.com/?p=714359",
     "https://www.crowdstrike.com/?p=205813",
@@ -263,7 +253,17 @@
     "https://www.crowdstrike.com/?p=638564",
     "https://www.crowdstrike.com/?p=363742",
     "https://www.crowdstrike.com/?p=401234",
-    "https://www.crowdstrike.com/?p=233323"
+    "https://www.crowdstrike.com/?p=233323",
+    "https://www.crowdstrike.com/?p=751918",
+    "https://www.crowdstrike.com/?p=949711",
+    "https://www.crowdstrike.com/?p=401291",
+    "https://www.crowdstrike.com/?p=668651",
+    "https://www.crowdstrike.com/?p=236525",
+    "https://www.crowdstrike.com/?p=852411",
+    "https://www.crowdstrike.com/?p=798023",
+    "https://www.crowdstrike.com/?p=143605",
+    "https://www.crowdstrike.com/?p=844289",
+    "https://www.crowdstrike.com/?p=952170"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -529,6 +529,7 @@
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-2026-update.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-august-recap.html",
     "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-september-2026-recap.html",
-    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-october-recap.html"
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-october-recap.html",
+    "https://www.splunk.com/en_us/blog/security/splunk-security-content-for-threat-detection-response-november-2026-update.html"
   ]
 }
