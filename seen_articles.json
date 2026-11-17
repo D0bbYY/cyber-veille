@@ -114,16 +114,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=733441",
-    "https://www.crowdstrike.com/?p=144184",
-    "https://www.crowdstrike.com/?p=719333",
-    "https://www.crowdstrike.com/?p=569007",
-    "https://www.crowdstrike.com/?p=777766",
-    "https://www.crowdstrike.com/?p=146450",
-    "https://www.crowdstrike.com/?p=549064",
-    "https://www.crowdstrike.com/?p=820012",
-    "https://www.crowdstrike.com/?p=310107",
-    "https://www.crowdstrike.com/?p=952111",
     "https://www.crowdstrike.com/?p=807205",
     "https://www.crowdstrike.com/?p=680423",
     "https://www.crowdstrike.com/?p=816440",
@@ -263,7 +253,17 @@
     "https://www.crowdstrike.com/?p=125845",
     "https://www.crowdstrike.com/?p=836452",
     "https://www.crowdstrike.com/?p=400541",
-    "https://www.crowdstrike.com/?p=342279"
+    "https://www.crowdstrike.com/?p=342279",
+    "https://www.crowdstrike.com/?p=124201",
+    "https://www.crowdstrike.com/?p=420199",
+    "https://www.crowdstrike.com/?p=712579",
+    "https://www.crowdstrike.com/?p=908480",
+    "https://www.crowdstrike.com/?p=194951",
+    "https://www.crowdstrike.com/?p=523176",
+    "https://www.crowdstrike.com/?p=509391",
+    "https://www.crowdstrike.com/?p=508404",
+    "https://www.crowdstrike.com/?p=512172",
+    "https://www.crowdstrike.com/?p=632864"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
@@ -354,10 +354,10 @@
     "https://unit42.paloaltonetworks.com/?p=189049",
     "https://unit42.paloaltonetworks.com/?p=189298",
     "https://unit42.paloaltonetworks.com/?p=189723",
-    "https://unit42.paloaltonetworks.com/?p=189684"
+    "https://unit42.paloaltonetworks.com/?p=189684",
+    "https://unit42.paloaltonetworks.com/?p=189752"
   ],
   "Microsoft Security Blog": [
-    "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
     "https://www.microsoft.com/en-us/security/blog/?p=148154",
     "https://www.microsoft.com/en-us/security/blog/?p=148100",
     "https://www.microsoft.com/en-us/security/blog/?p=148048",
@@ -506,7 +506,8 @@
     "https://www.microsoft.com/en-us/security/blog/?p=150921",
     "https://www.microsoft.com/en-us/security/blog/?p=150915",
     "https://www.microsoft.com/en-us/security/blog/?p=150951",
-    "https://www.microsoft.com/en-us/security/blog/?p=150990"
+    "https://www.microsoft.com/en-us/security/blog/?p=150990",
+    "https://www.microsoft.com/en-us/security/blog/?p=151048"
   ],
   "Splunk Threat Research": [
     "https://www.splunk.com/en_us/blog/security/top-50-cybersecurity-threats.html",
