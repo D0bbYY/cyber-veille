@@ -96,7 +96,8 @@
     "threats-etc-report-november-2026-trouble-with-trust",
     "sansar-linux-cryptomining-malware",
     "agentic-offensive-frameworks-detection-artex",
-    "cyberstrikeai-aws-cloudtrail-intrusion"
+    "cyberstrikeai-aws-cloudtrail-intrusion",
+    "we-caught-the-agent-framework-pypi-compromise-six-minutes-after-it-published"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -114,16 +115,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=751918",
-    "https://www.crowdstrike.com/?p=949711",
-    "https://www.crowdstrike.com/?p=401291",
-    "https://www.crowdstrike.com/?p=668651",
-    "https://www.crowdstrike.com/?p=236525",
-    "https://www.crowdstrike.com/?p=852411",
-    "https://www.crowdstrike.com/?p=798023",
-    "https://www.crowdstrike.com/?p=143605",
-    "https://www.crowdstrike.com/?p=844289",
-    "https://www.crowdstrike.com/?p=952170",
     "https://www.crowdstrike.com/?p=688363",
     "https://www.crowdstrike.com/?p=398190",
     "https://www.crowdstrike.com/?p=966946",
@@ -263,7 +254,17 @@
     "https://www.crowdstrike.com/?p=298569",
     "https://www.crowdstrike.com/?p=219648",
     "https://www.crowdstrike.com/?p=906529",
-    "https://www.crowdstrike.com/?p=735674"
+    "https://www.crowdstrike.com/?p=735674",
+    "https://www.crowdstrike.com/?p=982104",
+    "https://www.crowdstrike.com/?p=631812",
+    "https://www.crowdstrike.com/?p=162542",
+    "https://www.crowdstrike.com/?p=700303",
+    "https://www.crowdstrike.com/?p=788093",
+    "https://www.crowdstrike.com/?p=791626",
+    "https://www.crowdstrike.com/?p=652458",
+    "https://www.crowdstrike.com/?p=808072",
+    "https://www.crowdstrike.com/?p=565527",
+    "https://www.crowdstrike.com/?p=713931"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
