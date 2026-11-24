@@ -99,7 +99,11 @@
     "cyberstrikeai-aws-cloudtrail-intrusion",
     "we-caught-the-agent-framework-pypi-compromise-six-minutes-after-it-published",
     "openshift-compliance-elastic-agent-builder",
-    "mitre-atlas-elastic-security-detection-coverage"
+    "mitre-atlas-elastic-security-detection-coverage",
+    "elastic-security-9-6-release-highlights",
+    "ai-soc-agents-alertzero-workers",
+    "ai-security-detection-rules-coding-agents-mcp",
+    "prompt-injection-detection-ai-agents"
   ],
   "DFIR Report": [
     "https://thedfirreport.com/?p=50133",
@@ -117,16 +121,6 @@
     "https://thedfirreport.com/?p=50572"
   ],
   "CrowdStrike Blog": [
-    "https://www.crowdstrike.com/?p=154939",
-    "https://www.crowdstrike.com/?p=505006",
-    "https://www.crowdstrike.com/?p=734452",
-    "https://www.crowdstrike.com/?p=113088",
-    "https://www.crowdstrike.com/?p=804228",
-    "https://www.crowdstrike.com/?p=567449",
-    "https://www.crowdstrike.com/?p=561909",
-    "https://www.crowdstrike.com/?p=433490",
-    "https://www.crowdstrike.com/?p=591105",
-    "https://www.crowdstrike.com/?p=477588",
     "https://www.crowdstrike.com/?p=844669",
     "https://www.crowdstrike.com/?p=258335",
     "https://www.crowdstrike.com/?p=158194",
@@ -266,7 +260,17 @@
     "https://www.crowdstrike.com/?p=654676",
     "https://www.crowdstrike.com/?p=578013",
     "https://www.crowdstrike.com/?p=697705",
-    "https://www.crowdstrike.com/?p=747698"
+    "https://www.crowdstrike.com/?p=747698",
+    "https://www.crowdstrike.com/?p=666321",
+    "https://www.crowdstrike.com/?p=683031",
+    "https://www.crowdstrike.com/?p=411339",
+    "https://www.crowdstrike.com/?p=333994",
+    "https://www.crowdstrike.com/?p=982134",
+    "https://www.crowdstrike.com/?p=711201",
+    "https://www.crowdstrike.com/?p=780677",
+    "https://www.crowdstrike.com/?p=333477",
+    "https://www.crowdstrike.com/?p=760369",
+    "https://www.crowdstrike.com/?p=192974"
   ],
   "Unit 42 – Palo Alto": [
     "https://unit42.paloaltonetworks.com/?p=179395",
